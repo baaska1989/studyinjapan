@@ -14,7 +14,6 @@ import Scholarship from "@/views/pages/planJapan/scholarships.vue";
 import MEXT from "@/views/pages/planJapan/chooseStyle/mext.vue";
 import Private from "@/views/pages/planJapan/chooseStyle/privatelyFinanced.vue";
 import EnglishPrograms from "@/views/pages/planJapan/chooseStyle/programsEnglish.vue";
-import ShortPrograms from "@/views/pages/planJapan/chooseStyle/shortPrograms.vue";
 import TransferPrograms from "@/views/pages/planJapan/chooseStyle/transferPrograms.vue";
 import Universities from "@/views/pages/planJapan/knowSchools/universities.vue";
 import LanguageInstitutes from "@/views/pages/planJapan/knowSchools/languageInstitutes.vue";
@@ -105,7 +104,7 @@ const router = new Router({
                 {
                     path: "/plan/choose/short-programs",
                     name: "ShortPrograms",
-                    component: ShortPrograms,
+                    component: () => import("@/views/pages/planJapan/chooseStyle/shortPrograms.vue")
                 },
                 {
                     path: "/plan/choose/transfer-programs",

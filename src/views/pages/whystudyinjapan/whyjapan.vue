@@ -1,13 +1,11 @@
 <script>
 export default {
-  name: "shortPrograms"
+  name: "whyjapan"
 }
 </script>
 
 <template>
-    <main>
-a sdasd asd as
-    </main>
+
 </template>
 
 <style scoped>

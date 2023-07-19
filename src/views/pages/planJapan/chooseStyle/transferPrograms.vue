@@ -1,12 +1,14 @@
+<template>
+  <main>
+
+  </main>
+</template>
 <script>
+export default {
+  name: "transferPrograms"
+}
 
 </script>
-
-<template>
-    <main>
-
-    </main>
-</template>
 
 <style scoped>
 
