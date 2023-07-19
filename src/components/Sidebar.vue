@@ -39,7 +39,7 @@
               </a>
               <b-collapse id="collapse-7">
                 <ul class="l_global_uncle js_globalnav_wrapper" data-rel="uncle">
-                  <li><a href="planning/scholarship/index.html">Засгийн газрын тэтгэлгээр суралцах</a></li>
+                  <li><router-link to="/plan/choose/mext">Засгийн газрын тэтгэлгээр суралцах</router-link></li>
                   <li><a href="planning/by-style/pamphlet/index.html">Японд суралцах тэтгэлэгт хөтөлбөрийн танилцуулга 2022-2023</a></li>
                   <li><a href="planning/by-style/english-program/index.html">Англи хэлээр эрдмийн зэрэг горилох хөтөлбөр</a></li>
                   <li><a href="planning/by-style/short-term/index.html">Богино хугацааны хөтөлбөр</a></li>
