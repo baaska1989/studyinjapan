@@ -9,74 +9,68 @@
     <ul class="l_global_parent">
       <li>
         <a v-b-toggle="'collapse-2'" class="l_global_parent_label js_globalnav" data-rel="child">
-          <span class="l_global_parent_label_en">Яагаад Японд суралцах вэ?</span>
+          <span class="l_global_parent_label_en">Attractiveness of studying in Japan</span>
         </a>
         <b-collapse id="collapse-2" visible accordion="my-accordion" >
 <!--          visible-->
         <ul id="collapse-1" class="l_global_child js_globalnav_wrapper" data-rel="child">
-          <li><router-link to="/why/attraction">Японд суралцахын давуу тал</router-link></li>
-          <li><router-link to="/why/feedback">Японд яагаад ирж сурах болов?<br>Одоо сурч буй гадаад оюутнуудаас асууж үзлээ!</router-link></li>
+          <li><router-link to="/why/economy">Advanced technology and developed economy</router-link></li>
+          <li><router-link to="/why/culture">Attractive culture</router-link></li>
+          <li><router-link to="/why/environment">Livable living environment</router-link></li>
+          <li><router-link to="/why/diversity">Diverse international students</router-link></li>
+          <li><router-link to="/why/numbers">Japan in numbers</router-link></li>
         </ul>
         </b-collapse>
       </li>
       <li class="is_planning">
         <a class="l_global_parent_label js_globalnav" v-b-toggle="'collapse-3'" data-rel="child">
-          <span class="l_global_parent_label_en">Японд суралцах талаар төлөвлөх нь</span>
+          <span class="l_global_parent_label_en">Study abroad plan</span>
         </a>
         <b-collapse id="collapse-3" accordion="my-accordion">
           <ul class="l_global_child js_globalnav_wrapper" data-rel="child">
             <li>
-              <router-link to="/plan/system">Японы боловсролын тогтолцоо</router-link>
+              <router-link to="/plan/system">education system</router-link>
             </li>
             <li>
-              <a class="l_global_child_label js_globalnav" v-b-toggle="'collapse-6'" data-rel="uncle">Сургуультай танилцах</a>
+              <a class="l_global_child_label js_globalnav" v-b-toggle="'collapse-6'" data-rel="uncle">know the school</a>
               <b-collapse id="collapse-6">
               <ul class="l_global_uncle js_globalnav_wrapper" data-rel="uncle">
-                <li><router-link to="/plan/know/universities">Их дээд сургууль (Бакалаврын хөтөлбөр) болон Богино хугацааны дээд сургууль</router-link></li>
-                <li><router-link to="/plan/know/graduate-schools">Магистр, докторын сургууль</router-link></li>
-                <li><router-link to="/plan/know/technology-colleges">Техникийн коллеж</router-link></li>
-                <li><router-link to="/plan/know/training-colleges">Мэргэжлийн сургалт, үйлдвэрлэлийн коллеж (Мэргэжил олгох хөтөлбөр)</router-link></li>
-                <li><router-link to="/plan/know/language-institutes">Япон хэлний сургалтын байгууллага</router-link></li>
+                <li><router-link to="/plan/know/universities">Japanese language institution</router-link></li>
+                <li><router-link to="/plan/know/graduate-schools">Specialized training school (specialized course)</router-link></li>
+                <li><router-link to="/plan/know/technology-colleges">college of technology</router-link></li>
+                <li><router-link to="/plan/know/training-colleges">Universities/junior colleges</router-link></li>
+                <li><router-link to="/plan/know/language-institutes">Grad student</router-link></li>
               </ul>
               </b-collapse>
             </li>
             <li>
               <a class="l_global_child_label js_globalnav" v-b-toggle="'collapse-7'" data-rel="uncle">
-                Хэв загвараас сонголт хийн Японд сурах төлөвлөгөө гаргах
+                Study abroad style
               </a>
               <b-collapse id="collapse-7">
                 <ul class="l_global_uncle js_globalnav_wrapper" data-rel="uncle">
-                  <li><a href="planning/scholarship/index.html">Засгийн газрын тэтгэлгээр суралцах</a></li>
-                  <li><a href="planning/by-style/pamphlet/index.html">Японд суралцах тэтгэлэгт хөтөлбөрийн танилцуулга 2022-2023</a></li>
-                  <li><a href="planning/by-style/english-program/index.html">Англи хэлээр эрдмийн зэрэг горилох хөтөлбөр</a></li>
-                  <li><router-link :to="{name: 'ShortPrograms'}">Богино хугацааны хөтөлбөр</router-link></li>
-                  <li><a href="planning/by-style/transfer/index.html">Шилжин суралцах тогтолцоо</a></li>
+                  <li><router-link to="/plan/choose/mext">Government-sponsored study abroad</router-link></li>
+                  <li><router-link to="/plan/choose/scholarship23">Study abroad at private expense</router-link></li>
+                  <li><router-link to="/plan/choose/programs-english">English-taught degree programs</router-link></li>
+                  <li><router-link :to="{name: 'ShortPrograms'}">Short-term program</router-link></li>
+                  <li><router-link to="/plan/choose/transfer-programs">Transfer admission</router-link></li>
                 </ul>
               </b-collapse>
             </li>
             <li>
-              <a href="planning/flow-chart/index.html">Японд сурахад ямар бэлтгэл хийх тухай зураглал</a>
+              <router-link to="/plan/chart">study abroad flowchart</router-link>
             </li>
             <li>
-              <a class="l_global_child_label js_globalnav" href="planning/search-school/index.html" data-rel="uncle">Суралцах сургуулиа хайцгаая</a>
-              <ul class="l_global_uncle js_globalnav_wrapper" data-rel="uncle">
-                <li><a href="planning/search-school/daigakukensaku/index.html">Магистр, докторын сургууль, Их, дээд сургуулийн бакалаврын хөтөлбөр, Богино хугацааны дээд сургууль</a></li>
-                <li><a href="planning/search-school/kosen/index.html">Техникийн коллеж</a></li>
-                <li><a href="planning/search-school/senmongakkou/index.html">Мэргэжлийн сургалт, үйлдвэрлэлийн коллеж</a></li>
-                <li><a href="planning/search-school/nihongokyouiku/index.html">Япон хэлний сургалтын байгууллага</a></li>
-              </ul>
+              <a href="planning/examination/index.html">Various exams used for studying in Japan</a>
             </li>
             <li>
-              <a href="planning/examination/index.html">Японд суралцахад өгдөг  шалтгалтуудын тухай</a>
+              <a href="planning/academic-fees/index.html">study abroad expenses</a>
             </li>
             <li>
-              <a href="planning/academic-fees/index.html">Суралцах зардал</a>
+              <a href="planning/about-scholarship/index.html">scholarship</a>
             </li>
             <li>
-              <a href="planning/about-scholarship/index.html">Тэтгэлэг</a>
-            </li>
-            <li>
-              <a href="planning/immigration-procedures/index.html">Японы хилээр нэвтрэх процесс, баримт бичигын бүрдүүлэлт болон оршин суух зөвшөөрлийн тухай</a>
+              <a href="planning/immigration-procedures/index.html">About immigration procedures and status of residence</a>
             </li>
           </ul>
         </b-collapse>
@@ -93,6 +87,61 @@
           <li><a href="life/zairyuinjapan/index.html">Оршин суух зөвшөөрөлтэй холбоотой зүйлс</a></li>
           <li><a href="life/support/index.html">Орон нутгийн засаг захиргаанаас өгөх дэмжлэг</a></li>
         </ul>
+        </b-collapse>
+      </li>
+      <li class="is_crisis">
+        <a class="l_global_parent_label js_globalnav" v-b-toggle="'collapse-3'" data-rel="child">
+          <span class="l_global_parent_label_en">Crisis management in Japan</span>
+        </a>
+        <b-collapse id="collapse-3" accordion="my-accordion">
+          <ul class="l_global_child js_globalnav_wrapper" data-rel="child">
+            <li>
+              <a class="l_global_child_label js_globalnav" v-b-toggle="'collapse-6'" data-rel="uncle">Earthquake</a>
+              <b-collapse id="collapse-6">
+              <ul class="l_global_uncle js_globalnav_wrapper" data-rel="uncle">
+                <li><router-link to="/plan/know/universities">Daily preparation is important</router-link></li>
+                <li><router-link to="/plan/know/graduate-schools">What should I do at that moment?</router-link></li>
+                <li><router-link to="/plan/know/technology-colleges">Daily preparation</router-link></li>
+                <li><router-link to="/plan/know/training-colleges">"Will the phone work in case of a disaster?"</router-link></li>
+                <li><router-link to="/plan/know/language-institutes">Where should I evacuate?</router-link></li>
+                <li><router-link to="/plan/know/language-institutes">What can I do when disaster strikes?</router-link></li>
+              </ul>
+              </b-collapse>
+            </li>
+            <li>
+              <a class="l_global_child_label js_globalnav" v-b-toggle="'collapse-7'" data-rel="uncle">
+                fire
+              </a>
+              <b-collapse id="collapse-7">
+                <ul class="l_global_uncle js_globalnav_wrapper" data-rel="uncle">
+                  <li><router-link to="/plan/choose/mext">How to handle heaters</router-link></li>
+                  <li><router-link to="/plan/choose/scholarship23">in case of fire</router-link></li>
+                </ul>
+              </b-collapse>
+            </li>
+            <li>
+              <a class="l_global_child_label js_globalnav" v-b-toggle="'collapse-6'" data-rel="uncle">Accident</a>
+              <b-collapse id="collapse-6">
+              <ul class="l_global_uncle js_globalnav_wrapper" data-rel="uncle">
+                <li><router-link to="/plan/know/universities">Is Japan a safe country?</router-link></li>
+                <li><router-link to="/plan/know/graduate-schools">This is a crime!</router-link></li>
+                <li><router-link to="/plan/know/technology-colleges">Bicycles are so dangerous!</router-link></li>
+                <li><router-link to="/plan/know/training-colleges">Driving a car</router-link></li>
+              </ul>
+              </b-collapse>
+            </li>
+            <li>
+              <a class="l_global_child_label js_globalnav" v-b-toggle="'collapse-6'" data-rel="uncle">Medical</a>
+              <b-collapse id="collapse-6">
+              <ul class="l_global_uncle js_globalnav_wrapper" data-rel="uncle">
+                <li><router-link to="/plan/know/universities">To avoid catching a cold</router-link></li>
+                <li><router-link to="/plan/know/graduate-schools">When I get sick</router-link></li>
+                <li><router-link to="/plan/know/technology-colleges">Emergency (nighttime, holiday)</router-link></li>
+                <li><router-link to="/plan/know/training-colleges">About the insurance system</router-link></li>
+              </ul>
+              </b-collapse>
+            </li>
+          </ul>
         </b-collapse>
       </li>
       <li class="is_job">

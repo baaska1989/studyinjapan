@@ -3,28 +3,6 @@ import Router from 'vue-router';
 import Layout from '../views/layouts/Layout.vue';
 import Home from '../views/pages/Home.vue';
 import Contact from "@/views/pages/Contact.vue";
-import Attraction from "@/views/pages/whyJapan/attraction.vue";
-import Feedback from "@/views/pages/whyJapan/feedback.vue";
-import Fees from "@/views/pages/planJapan/academicFees.vue";
-import System from "@/views/pages/planJapan/educationalSystem.vue";
-import Exams from "@/views/pages/planJapan/exams.vue";
-import Chart from "@/views/pages/planJapan/flowChart.vue";
-import Immigration from "@/views/pages/planJapan/immigration.vue";
-import Scholarship from "@/views/pages/planJapan/scholarships.vue";
-import MEXT from "@/views/pages/planJapan/chooseStyle/mext.vue";
-import Private from "@/views/pages/planJapan/chooseStyle/privatelyFinanced.vue";
-import EnglishPrograms from "@/views/pages/planJapan/chooseStyle/programsEnglish.vue";
-import TransferPrograms from "@/views/pages/planJapan/chooseStyle/transferPrograms.vue";
-import Universities from "@/views/pages/planJapan/knowSchools/universities.vue";
-import LanguageInstitutes from "@/views/pages/planJapan/knowSchools/languageInstitutes.vue";
-import TechnologyColleges from "@/views/pages/planJapan/knowSchools/technologyColleges.vue";
-import TrainingColleges from "@/views/pages/planJapan/knowSchools/trainingColleges.vue";
-import GraduateSchools from "@/views/pages/planJapan/knowSchools/graduateSchools.vue";
-import Japanese from "@/views/pages/planJapan/searchSchool/japanese.vue";
-import Schools from "@/views/pages/planJapan/searchSchool/schools.vue";
-import Technology from "@/views/pages/planJapan/searchSchool/technologyColleges.vue";
-import Training from "@/views/pages/planJapan/searchSchool/trainingColleges.vue";
-
 
 Vue.use(Router);
 
@@ -47,121 +25,235 @@ const router = new Router({
                     component: Contact,
                 },
                 {
-                    path: "/why/attraction",
-                    name: "Attraction",
-                    component: Attraction,
+                    path: "/attraction/economy",
+                    name: "Economy",
+                    component: () => import("@/views/pages/attraction/economy.vue")
                 },
                 {
-                    path: "/why/feedback",
-                    name: "Feedback",
-                    component: Feedback,
+                    path: "/attraction/culture",
+                    name: "Culture",
+                    component: () => import("@/views/pages/attraction/culture.vue")
                 },
                 {
-                    path: "/plan/fees",
-                    name: "Fees",
-                    component: Fees,
+                    path: "/attraction/diversity",
+                    name: "Diversity",
+                    component: () => import("@/views/pages/attraction/diversity.vue")
                 },
                 {
-                    path: "/plan/system",
-                    name: "System",
-                    component: System,
+                    path: "/attraction/environment",
+                    name: "Environment",
+                    component: () => import("@/views/pages/attraction/environment.vue")
                 },
                 {
-                    path: "/plan/exams",
-                    name: "Exams",
-                    component: Exams,
+                    path: "/attraction/numbers",
+                    name: "Numbers",
+                    component: () => import("@/views/pages/attraction/numbers.vue")
                 },
                 {
-                    path: "/plan/chart",
-                    name: "Chart",
-                    component: Chart,
+                    path: "/crisis/accident/car",
+                    name: "Car",
+                    component: () => import("@/views/pages/crisis/accident/car.vue")
                 },
                 {
-                    path: "/plan/immigraion",
-                    name: "Immigration",
-                    component: Immigration,
+                    path: "/crisis/accident/bicycles",
+                    name: "Bicycles",
+                    component: () => import("@/views/pages/crisis/accident/bicycles.vue")
                 },
                 {
-                    path: "/plan/scholarship",
-                    name: "Scholarship",
-                    component: Scholarship,
+                    path: "/crisis/accident/crime",
+                    name: "Crime",
+                    component: () => import("@/views/pages/crisis/accident/crime.vue")
                 },
                 {
-                    path: "/plan/choose/mext",
+                    path: "/crisis/accident/safety",
+                    name: "Safety",
+                    component: () => import("@/views/pages/crisis/accident/safety.vue")
+                },
+                {
+                    path: "/crisis/earthquake/daily",
+                    name: "Daily",
+                    component: () => import("@/views/pages/crisis/earthquake/daily.vue")
+                },
+                {
+                    path: "/crisis/earthquake/do",
+                    name: "Do",
+                    component: () => import("@/views/pages/crisis/earthquake/do.vue")
+                },
+                {
+                    path: "/crisis/earthquake/evacuate",
+                    name: "Evacuate",
+                    component: () => import("@/views/pages/crisis/earthquake/evacuate.vue")
+                },
+                {
+                    path: "/crisis/earthquake/phone",
+                    name: "Phone",
+                    component: () => import("@/views/pages/crisis/earthquake/phone.vue")
+                },
+                {
+                    path: "/crisis/earthquake/preparation",
+                    name: "Preparation",
+                    component: () => import("@/views/pages/crisis/earthquake/preparation.vue")
+                },
+                {
+                    path: "/crisis/earthquake/strike",
+                    name: "Strike",
+                    component: () => import("@/views/pages/crisis/earthquake/strike.vue")
+                },
+                {
+                    path: "/crisis/fire/case",
+                    name: "Case",
+                    component: () => import("@/views/pages/crisis/fire/case.vue")
+                },
+                {
+                    path: "/crisis/fire/handle",
+                    name: "Handle",
+                    component: () => import("@/views/pages/crisis/fire/handle.vue")
+                },
+                {
+                    path: "/crisis/medical/cold",
+                    name: "Cold",
+                    component: () => import("@/views/pages/crisis/medical/cold.vue")
+                },
+                {
+                    path: "/crisis/medical/emergency",
+                    name: "Emergency",
+                    component: () => import("@/views/pages/crisis/medical/emergency.vue")
+                },
+                {
+                    path: "/crisis/medical/insurance",
+                    name: "Insurance",
+                    component: () => import("@/views/pages/crisis/medical/insurance.vue")
+                },
+                {
+                    path: "/crisis/medical/sick",
+                    name: "Sick",
+                    component: () => import("@/views/pages/crisis/medical/sick.vue")
+                },
+                {
+                    path: "/life/cost",
+                    name: "Cost",
+                    component: () => import("@/views/pages/life/cost.vue")
+                },
+                {
+                    path: "/life/insurance",
+                    name: "LifeInsurance",
+                    component: () => import("@/views/pages/life/insurance.vue")
+                },
+                {
+                    path: "/life/residence",
+                    name: "Residence",
+                    component: () => import("@/views/pages/life/residence.vue")
+                },
+                {
+                    path: "/life/study-residence",
+                    name: "StudyResidence",
+                    component: () => import("@/views/pages/life/studyResidence.vue")
+                },
+                {
+                    path: "/life/support",
+                    name: "Support",
+                    component: () => import("@/views/pages/life/support.vue")
+                },
+                {
+                    path: "/plan/style/mext",
                     name: "MEXT",
-                    component: MEXT,
+                    component: () => import("@/views/pages/plan/chooseStyle/mext.vue")
                 },
                 {
-                    path: "/plan/choose/private",
-                    name: "Private",
-                    component: Private,
-                },
-                {
-                    path: "/plan/choose/programs-english",
+                    path: "/plan/style/english-programs",
                     name: "EnglishPrograms",
-                    component: EnglishPrograms,
+                    component: () => import("@/views/pages/plan/chooseStyle/programsEnglish.vue")
                 },
                 {
-                    path: "/plan/choose/short-programs",
+                    path: "/plan/style/scholarship",
+                    name: "Scholarship",
+                    component: () => import("@/views/pages/plan/chooseStyle/scholarship.vue")
+                },
+                {
+                    path: "/plan/style/short-programs",
                     name: "ShortPrograms",
-                    component: () => import("@/views/pages/planJapan/chooseStyle/shortPrograms.vue")
+                    component: () => import("@/views/pages/plan/chooseStyle/shortPrograms.vue")
                 },
                 {
-                    path: "/plan/choose/transfer-programs",
+                    path: "/plan/style/transfer-programs",
                     name: "TransferPrograms",
-                    component: TransferPrograms,
-                },
-                {
-                    path: "/plan/know/universities",
-                    name: "Universities",
-                    component: Universities,
-                },
-                {
-                    path: "/plan/know/language-institutes",
-                    name: "LanguageInstitutes",
-                    component: LanguageInstitutes,
-                },
-                {
-                    path: "/plan/know/technology-colleges",
-                    name: "TechnologyColleges",
-                    component: TechnologyColleges,
-                },
-                {
-                    path: "/plan/know/training-colleges",
-                    name: "TrainingColleges",
-                    component: TrainingColleges,
+                    component: () => import("@/views/pages/plan/chooseStyle/transferPrograms.vue")
                 },
                 {
                     path: "/plan/know/graduate-schools",
                     name: "GraduateSchools",
-                    component: GraduateSchools,
+                    component: () => import("@/views/pages/plan/knowSchools/graduateSchools.vue")
+                },
+                {
+                    path: "/plan/know/language-schools",
+                    name: "LanguageSchools",
+                    component: () => import("@/views/pages/plan/knowSchools/languageInstitutes.vue")
+                },
+                {
+                    path: "/plan/know/technology-colleges",
+                    name: "TechnologyColleges",
+                    component: () => import("@/views/pages/plan/knowSchools/technologyColleges.vue")
+                },
+                {
+                    path: "/plan/know/training-colleges",
+                    name: "TrainingColleges",
+                    component: () => import("@/views/pages/plan/knowSchools/trainingColleges.vue")
                 },
                 {
                     path: "/plan/know/universities",
                     name: "Universities",
-                    component: Universities,
+                    component: () => import("@/views/pages/plan/knowSchools/universities.vue")
                 },
                 {
-                    path: "/plan/search/japanese",
-                    name: "Japanese",
-                    component: Japanese,
+                    path: "/plan/chart",
+                    name: "Chart",
+                    component: () => import("@/views/pages/plan/chart.vue")
                 },
                 {
-                    path: "/plan/search/schools",
-                    name: "Schools",
-                    component: Schools,
+                    path: "/plan/exams",
+                    name: "Exams",
+                    component: () => import("@/views/pages/plan/exams.vue")
                 },
                 {
-                    path: "/plan/search/technology-colleges",
-                    name: "Technology",
-                    component: Technology,
+                    path: "/plan/expenses",
+                    name: "Expenses",
+                    component: () => import("@/views/pages/plan/expenses.vue")
                 },
                 {
-                    path: "/plan/search/training-colleges",
-                    name: "Training",
-                    component: Training,
+                    path: "/plan/immigration",
+                    name: "Immigration",
+                    component: () => import("@/views/pages/plan/immigration.vue")
                 },
-            
+                {
+                    path: "/plan/scholarships",
+                    name: "Scholarships",
+                    component: () => import("@/views/pages/plan/scholarships.vue")
+                },
+                {
+                    path: "/plan/system",
+                    name: "System",
+                    component: () => import("@/views/pages/plan/system.vue")
+                },
+                {
+                    path: "/work/changing",
+                    name: "changingStatus",
+                    component: () => import("@/views/pages/work/changingStatus.vue")
+                },
+                {
+                    path: "/work/employment",
+                    name: "Employment",
+                    component: () => import("@/views/pages/work/employment.vue")
+                },
+                {
+                    path: "/work/internship",
+                    name: "Internship",
+                    component: () => import("@/views/pages/work/internship.vue")
+                },
+                {
+                    path: "/work/part-time",
+                    name: "partTime",
+                    component: () => import("@/views/pages/work/partTime.vue")
+                },
             ]
         }
 
