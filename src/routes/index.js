@@ -15,11 +15,11 @@ import MEXT from "@/views/pages/planJapan/chooseStyle/mext.vue";
 import Private from "@/views/pages/planJapan/chooseStyle/privatelyFinanced.vue";
 import EnglishPrograms from "@/views/pages/planJapan/chooseStyle/programsEnglish.vue";
 import TransferPrograms from "@/views/pages/planJapan/chooseStyle/transferPrograms.vue";
-import GraduateSchool from "@/views/pages/planJapan/knowSchools/graduateSchool.vue";
+import Universities from "@/views/pages/planJapan/knowSchools/universities.vue";
 import LanguageInstitutes from "@/views/pages/planJapan/knowSchools/languageInstitutes.vue";
 import TechnologyColleges from "@/views/pages/planJapan/knowSchools/technologyColleges.vue";
 import TrainingColleges from "@/views/pages/planJapan/knowSchools/trainingColleges.vue";
-import Universities from "@/views/pages/planJapan/knowSchools/universities.vue";
+import GraduateSchools from "@/views/pages/planJapan/knowSchools/graduateSchools.vue";
 import Japanese from "@/views/pages/planJapan/searchSchool/japanese.vue";
 import Schools from "@/views/pages/planJapan/searchSchool/schools.vue";
 import Technology from "@/views/pages/planJapan/searchSchool/technologyColleges.vue";
@@ -112,9 +112,9 @@ const router = new Router({
                     component: TransferPrograms,
                 },
                 {
-                    path: "/plan/know/graduate-school",
-                    name: "GraduateSchool",
-                    component: GraduateSchool,
+                    path: "/plan/know/universities",
+                    name: "Universities",
+                    component: Universities,
                 },
                 {
                     path: "/plan/know/language-institutes",
@@ -130,6 +130,11 @@ const router = new Router({
                     path: "/plan/know/training-colleges",
                     name: "TrainingColleges",
                     component: TrainingColleges,
+                },
+                {
+                    path: "/plan/know/graduate-schools",
+                    name: "GraduateSchools",
+                    component: GraduateSchools,
                 },
                 {
                     path: "/plan/know/universities",

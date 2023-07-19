@@ -19,17 +19,17 @@
         <b-collapse id="collapse-3" accordion="my-accordion">
           <ul class="l_global_child js_globalnav_wrapper" data-rel="child">
             <li>
-              <a href="planning/educational-system/index.html">Японы боловсролын тогтолцоо</a>
+              <router-link to="/plan/system">Японы боловсролын тогтолцоо</router-link>
             </li>
             <li>
               <a class="l_global_child_label js_globalnav" v-b-toggle="'collapse-6'" data-rel="uncle">Сургуультай танилцах</a>
               <b-collapse id="collapse-6">
               <ul class="l_global_uncle js_globalnav_wrapper" data-rel="uncle">
-                <li><a href="planning/know-schools/universities/index.html">Их дээд сургууль (Бакалаврын хөтөлбөр) болон Богино хугацааны дээд сургууль</a></li>
-                <li><a href="planning/know-schools/graduate-school/index.html">Магистр, докторын сургууль</a></li>
-                <li><a href="planning/know-schools/colleges-of-technology/index.html">Техникийн коллеж</a></li>
-                <li><a href="planning/know-schools/professional-training-colleges/index.html">Мэргэжлийн сургалт, үйлдвэрлэлийн коллеж (Мэргэжил олгох хөтөлбөр)</a></li>
-                <li><a href="planning/know-schools/japanese-language-schools/index.html">Япон хэлний сургалтын байгууллага</a></li>
+                <li><router-link to="/plan/know/universities">Их дээд сургууль (Бакалаврын хөтөлбөр) болон Богино хугацааны дээд сургууль</router-link></li>
+                <li><router-link to="/plan/know/graduate-schools">Магистр, докторын сургууль</router-link></li>
+                <li><router-link to="/plan/know/technology-colleges">Техникийн коллеж</router-link></li>
+                <li><router-link to="/plan/know/training-colleges">Мэргэжлийн сургалт, үйлдвэрлэлийн коллеж (Мэргэжил олгох хөтөлбөр)</router-link></li>
+                <li><router-link to="/plan/know/language-institutes">Япон хэлний сургалтын байгууллага</router-link></li>
               </ul>
               </b-collapse>
             </li>
