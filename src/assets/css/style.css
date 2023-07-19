@@ -563,7 +563,7 @@ ruby rt {
 }
 
 .l_footer_nav {
-  padding: 60px 30px 0;
+  padding: 60px 30px 30px;
 }
 @media (max-width: 767px) {
   .l_footer_nav {
@@ -613,7 +613,7 @@ ruby rt {
 .l_footer_nav_list_label {
   display: block;
   margin-bottom: 1rem;
-  font-family: "Century Gothic", CenturyGothic, "Avenir-Light";
+  font-family: "Roboto", CenturyGothic, "Avenir-Light";
   font-weight: bold;
 }
 
@@ -874,7 +874,7 @@ ruby rt {
   }
 }
 .l_global_parent_label_en {
-  font-family: "Century Gothic", CenturyGothic, "Avenir-Light";
+  font-family: "Roboto", CenturyGothic, "Avenir-Light";
   font-size: 1.125rem;
   font-weight: bold;
 }

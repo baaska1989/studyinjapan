@@ -12,6 +12,7 @@
           <span class="l_global_parent_label_en">Яагаад Японд суралцах вэ?</span>
         </a>
         <b-collapse id="collapse-2" visible accordion="my-accordion" >
+<!--          visible-->
         <ul id="collapse-1" class="l_global_child js_globalnav_wrapper" data-rel="child">
           <li><router-link to="/why/attraction">Японд суралцахын давуу тал</router-link></li>
           <li><router-link to="/why/feedback">Японд яагаад ирж сурах болов?<br>Одоо сурч буй гадаад оюутнуудаас асууж үзлээ!</router-link></li>

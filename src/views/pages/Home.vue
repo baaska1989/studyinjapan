@@ -1,24 +1,7 @@
 <template>
   <main class="l_container_main_body">
 
-    <div class="p_top_mainvisual">
-      <VueSlickCarousel :arrows="true" :dots="true" :autoplay="true" :autoplaySpeed="3000">
-        <span class="p_top_mainvisual_slider_item"><img src="_mt/2020/05/kv_02.jpg" alt=""></span>
-
-        <span class="p_top_mainvisual_slider_item"><img src="_mt/2020/05/kv_03.jpg" alt=""></span>
-
-        <span class="p_top_mainvisual_slider_item"><img src="_mt/2020/05/kv_04.jpg" alt=""></span>
-
-        <span class="p_top_mainvisual_slider_item"><img src="_mt/2020/05/kv_05.jpg" alt=""></span>
-
-        <span class="p_top_mainvisual_slider_item"><img src="_mt/2020/05/kv_01.jpg" alt=""></span>
-      </VueSlickCarousel>
-
-      <div class="p_top_mainvisual_slider js_top_mainvisual">
-
-      </div>
-
-    </div>
+    <slider />
 
     <section class="p_top_menu">
       <h2 class="p_top_heading p_top_heading_menu"><span>хэрэглэгчийг хэлбэрээр ангилсан цэс</span></h2>
@@ -42,13 +25,12 @@
 </template>
 
 <script>
-import VueSlickCarousel from 'vue-slick-carousel'
-import 'vue-slick-carousel/dist/vue-slick-carousel.css'
-// optional style for arrows & dots
-import 'vue-slick-carousel/dist/vue-slick-carousel-theme.css'
+
+  import Slider from "@/components/Slider.vue";
+
   export default {
     name: "Home",
-    components: { VueSlickCarousel },
+    components: {Slider},
     data()
     {
       return {

@@ -12,14 +12,8 @@
           <router-view></router-view>
         </div>
       </div>
-
     </div>
 
-    <div class="l_pagetop js_pagetop">
-      <div class="l_pagetop_inner">
-        <a class="l_pagetop_btn" href="#wrapper" aria-label="Дээд хуудас руу буцах"></a>
-      </div>
-    </div>
     <Footer />
   </div>
 </template>
@@ -35,12 +29,19 @@ export default {
   components: {Search, Sidebar, Footer, Header, HeaderBlock},
   data()
   {
-    return {}
-  }
+    return {
+      showMobileMenu: false,
+    }
+  },
+  methods: {
+    showMenu() {
+      this.showMobileMenu = !this.showMobileMenu;
+    },
+  },
 }
 </script>
 
-<style lang="css">
+<style lang="scss">
   @import "../../assets/css/style.css";
   @import "../../assets/css/overwrite.css";
   @import "../../assets/css/pages/top.css";
@@ -49,27 +50,58 @@ export default {
   nav ul li {
     cursor: pointer;
   }
-  .nav__toggle {
-    position: absolute;
-    cursor: pointer;
-    margin: 0rem 1rem;
-    right: 0;
+  .nav-menu {
+    background-color: white;
   }
-
-  .close,
-  input[type="checkbox"] {
+  .nav-content {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 30px;
+    align-items: center;
+  }
+  .nav-items {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    li {
+      padding: 0 10px;
+    }
+  }
+  i {
     display: none;
   }
-  @media only screen and (min-width: 768px) {
-
-    .nav__toggle {
-      display: none;
+  // Mobile version - hidden hamburger menu
+  @media screen and (max-width: 768px) {
+    .nav-menu {
+      padding-top: 10px;
+      position: absolute;
+      width: 100%;
     }
-    .l_global_parent {
-      flex-direction: row;
+    .open-menu {
+      opacity: 1;
+      height: 150px;
     }
-    .l_global_parent li {
+    .closed-menu {
+      opacity: 0;
+      height: 0;
+      padding: 0;
+    }
+    .nav-content {
+      flex-direction: column;
+      z-index: 100;
+      position: relative;
+      transition: all 0.2s ease-out;
+    }
+    .nav-items {
+      flex-direction: column;
+    }
+    i {
       display: block;
+      text-align: right;
+      padding: 0 10px 10px 0;
     }
   }
 </style>
