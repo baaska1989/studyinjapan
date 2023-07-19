@@ -36,6 +36,11 @@ const router = new Router({
                     name: "Feedback",
                     component: Feedback,
                 },
+                {
+                    path: "/plan/feedback",
+                    name: "Feedback",
+                    component: Feedback,
+                },
             
             ]
         }
