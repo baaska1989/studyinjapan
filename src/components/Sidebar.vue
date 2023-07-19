@@ -7,8 +7,8 @@
         </a>
         <b-collapse id="collapse-2" visible accordion="my-accordion" >
         <ul id="collapse-1" class="l_global_child js_globalnav_wrapper" data-rel="child">
-          <li><a href="why/attraction/index.html">Японд суралцахын давуу тал</a></li>
-          <li><a href="why/ask/index.html">Японд яагаад ирж сурах болов?<br>Одоо сурч буй гадаад оюутнуудаас асууж үзлээ!</a></li>
+          <li><router-link to="/why/attraction">Японд суралцахын давуу тал</router-link></li>
+          <li><router-link to="/why/feedback">Японд яагаад ирж сурах болов?<br>Одоо сурч буй гадаад оюутнуудаас асууж үзлээ!</router-link></li>
         </ul>
         </b-collapse>
       </li>

@@ -1,4 +1,4 @@
-;(function ($) {
+(function ($) {
   'use strict';
 
   var $breakpoint = 767;
@@ -12,7 +12,7 @@
       // accessibility : false,
       dots          : true
     });
-  };
+  }
 
   function topBanner(){
     $('.js_top_banner').slick({
@@ -32,7 +32,7 @@
         }
       }]
     });
-  };
+  }
 
   // init
   // $(function(){

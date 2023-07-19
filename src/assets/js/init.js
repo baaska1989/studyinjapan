@@ -1,4 +1,4 @@
-;(function ($) {
+(function ($) {
   'use strict';
 
   var isActive   = 'is_active';
@@ -11,7 +11,7 @@
     $(window).on('resize',function() {
       if (fixed_timer > 0) {
         clearTimeout(fixed_timer);
-      };
+      }
       fixed_timer = setTimeout(function() {
         // 実行
         callback();
@@ -29,7 +29,7 @@
       $('html,body').animate({scrollTop:position}, speed, 'swing');
       event.preventDefault();
     });
-  };
+  }
 
   // フォントサイズ切り替え機能
   var fontCookie    = 'fontsize';            // Cookie名
@@ -46,8 +46,8 @@
       $('.js_font_control[value="'+ large +'"]').prop('checked', true);
     } else {
       $.removeCookie(fontValue);
-    };
-  };
+    }
+  }
   // ボタン押下時にフォントサイズ切り替え
   function fontControl(){
     $fontControl.on('change', function(event) {
@@ -60,7 +60,7 @@
         $fontBody.addClass(large);
       } else {
         $fontBody.removeClass(large);
-      };
+      }
       // 選択した文字サイズをcookieで記憶
       $.cookie(fontCookie,size,{
         path    : '/',
@@ -68,7 +68,7 @@
       });
       event.preventDefault();
     });
-  };
+  }
 
   // 言語切替機能（ページ遷移）
   function languageControl(){
@@ -90,8 +90,8 @@
       // var eleCopy = controlPc.html();
       // controlSp.html(eleCopy);
       // console.log('init!');
-    };
-  };
+    }
+  }
 
 
   function LanguageReplaceUrl(){
@@ -102,9 +102,9 @@
       if( array ){
         var setUrl = url.replace(dir,array);
         window.location.href = setUrl;
-      };
+      }
     });
-  };
+  }
 
   // スマホ時メニュー開閉
   function spMenu(){
@@ -140,7 +140,7 @@
     if ($window_w <= breakpoint) {
       // ブレイクポイント以下の時、ナビを非表示
       $(nav).hide();
-    };
+    }
     // メニューボタン押下時
     $(btn).on('click',function(event) {
       event.preventDefault();
@@ -152,17 +152,17 @@
           openFunc();
         } else {
           closeFunc();
-        };
-      };
+        }
+      }
     });
     // リサイズ時
     resize(function(){
       $window_w = $(window).width();
       if ($window_w > breakpoint) {
         resizeFunc();
-      };
+      }
     });
-  };// function
+  }// function
 
   // グロナビ_トグル開閉
   function navglobal(){
@@ -183,9 +183,9 @@
         // 表示中のボタンを押したら閉じる
         $(this).next(navWrapper).slideToggle();
         $(this).removeClass(isActive);
-      };
+      }
     });
-  };
+  }
 
   // トップへ戻るボタン制御
   function pageTop(){
@@ -210,7 +210,7 @@
         // ページ上部から一定数上へスクロールすると非表示
         $nav.removeClass(isActive);
         flag = false;
-      };
+      }
       // 固定化の処理
       if( $scroll > endPoint && !flag2 ){
         // 終点までスクロールしたらfixed解除
@@ -220,7 +220,7 @@
         // 終点より上へスクロールしたらfixed付与
         $nav.removeClass(isFixed);
         flag2 = false;
-      };
+      }
     });
     // slickがinit時終点を再計算
     $('body').on('init',function(){
@@ -229,7 +229,7 @@
         endPoint    = bottomPoint - height + 35;
       },200);
     });
-  };
+  }
 
   function iconControl(){
     // 変数
@@ -255,7 +255,7 @@
       function _init() {
         $iconLink.append(iconImage);
       }
-    };
+    }
     // pdfファイルリンクへpdfアイコン付与
     addIcon(parent, pdfLink, pdfIcon);
     // 外部サイトのリンクへ別窓アイコン付与
@@ -277,7 +277,7 @@
       'target': '_blank',
       'rel'   : 'noopener noreferrer'
     });
-  };
+  }
 
   // // cookie同意のモーダル画面表示
   // function cookieModal() {
