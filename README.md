@@ -1,4 +1,14 @@
-# studyinjapan
+# Study in Japan 
+
+## Project clone
+```
+git clone https://github.com/baaska1989/studyinjapan
+```
+
+## Director
+```
+cd studyinjapan
+```
 
 ## Project setup
 ```

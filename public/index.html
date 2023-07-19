@@ -17,6 +17,64 @@
       <strong>We're sorry but <%= htmlWebpackPlugin.options.title %> doesn't work properly without JavaScript enabled. Please enable it to continue.</strong>
     </noscript>
     <div id="app"></div>
+        <script>
+            function spMenu(){
+                // 変数定義
+                var btn       = '.js_drower_btn';
+                var nav       = '.js_drower_nav';
+                var $body     = $('body');
+                var $window_w = $(window).width();
+                var isOpen    = 'is-open';
+                // 変数_開
+                var openFunc  = function(){
+                    $body.addClass(isFixed);
+                    $(nav).slideDown( function() {
+                        $(this).addClass(isOpen);
+                    });
+                    $(btn).addClass(isActive);
+                };
+                // 変数_閉
+                var closeFunc  = function(){
+                    $body.removeClass(isFixed);
+                    $(nav).slideUp('fast', function() {
+                        $(this).removeClass(isOpen);
+                    });
+                    $(btn).removeClass(isActive);
+                };
+                // 変数_リサイズ
+                var resizeFunc  = function(){
+                    $body.removeClass(isFixed);
+                    $(nav).removeClass(isOpen).removeAttr('style');
+                    $(btn).removeClass(isActive);
+                };
+                // 機能
+                if ($window_w <= breakpoint) {
+                    // ブレイクポイント以下の時、ナビを非表示
+                    $(nav).hide();
+                };
+                // メニューボタン押下時
+                $(btn).on('click',function(event) {
+                    event.preventDefault();
+                    // ブレイクポイント以下の時、開閉
+                    $window_w = $(window).width();
+                    if ($window_w <= breakpoint) {
+                        var check = $(this).hasClass(isActive);
+                        if (!check) {
+                            openFunc();
+                        } else {
+                            closeFunc();
+                        };
+                    };
+                });
+                // リサイズ時
+                resize(function(){
+                    $window_w = $(window).width();
+                    if ($window_w > breakpoint) {
+                        resizeFunc();
+                    };
+                });
+            };
+        </script>
 
   </body>
 </html>

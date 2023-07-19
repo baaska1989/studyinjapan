@@ -2,31 +2,7 @@
   <main class="l_container_main_body">
 
     <div class="p_top_mainvisual">
-
-      <div class="p_top_mainvisual_slider js_top_mainvisual">
-
-        <b-carousel
-            id="carousel-fade"
-            style="text-shadow: 0px 0px 2px #000"
-            fade
-            indicators
-            img-width="1024"
-            img-height="480"
-        >
-          <b-carousel-slide
-              caption="First Slide"
-              img-src="https://picsum.photos/1024/480/?image=10"
-          ></b-carousel-slide>
-          <b-carousel-slide
-              caption="Second Slide"
-              img-src="https://picsum.photos/1024/480/?image=12"
-          ></b-carousel-slide>
-          <b-carousel-slide
-              caption="Third Slide"
-              img-src="https://picsum.photos/1024/480/?image=22"
-          ></b-carousel-slide>
-        </b-carousel>
-
+      <VueSlickCarousel :arrows="true" :dots="true" :autoplay="true" :autoplaySpeed="3000">
         <span class="p_top_mainvisual_slider_item"><img src="_mt/2020/05/kv_02.jpg" alt=""></span>
 
         <span class="p_top_mainvisual_slider_item"><img src="_mt/2020/05/kv_03.jpg" alt=""></span>
@@ -36,6 +12,9 @@
         <span class="p_top_mainvisual_slider_item"><img src="_mt/2020/05/kv_05.jpg" alt=""></span>
 
         <span class="p_top_mainvisual_slider_item"><img src="_mt/2020/05/kv_01.jpg" alt=""></span>
+      </VueSlickCarousel>
+
+      <div class="p_top_mainvisual_slider js_top_mainvisual">
 
       </div>
 
@@ -63,8 +42,13 @@
 </template>
 
 <script>
+import VueSlickCarousel from 'vue-slick-carousel'
+import 'vue-slick-carousel/dist/vue-slick-carousel.css'
+// optional style for arrows & dots
+import 'vue-slick-carousel/dist/vue-slick-carousel-theme.css'
   export default {
     name: "Home",
+    components: { VueSlickCarousel },
     data()
     {
       return {

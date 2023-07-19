@@ -46,7 +46,7 @@ export default {
   data()
   {
     return {
-      lang: event.target.value,
+      lang: "",
       $i18n: {
         locale: "mn",
       },
