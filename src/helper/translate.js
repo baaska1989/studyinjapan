@@ -8,14 +8,14 @@ const messages = {
     },
     en: {
         menu: {
-            home: "Нүүр",
+            home: "Home",
             lang: "Language",
             contact: "Contact"
         }
     },
     jp: {
         menu: {
-            home: "Нүүр",
+            home: "ホームページ",
             lang: "言語",
             contact: "コンタクト"
         }

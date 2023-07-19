@@ -1,5 +1,11 @@
 <template>
   <nav class="l_global">
+    <input type="checkbox" id="nav__checkbox" class="nav__checkbox">
+    <label for="nav__checkbox" class="nav__toggle">
+      <img src="https://img.icons8.com/material-outlined/30/000000/menu--v1.png" class="hamburger" />
+      <img src="https://img.icons8.com/plumpy/30/000000/x.png" class="close" />
+    </label>
+
     <ul class="l_global_parent">
       <li>
         <a v-b-toggle="'collapse-2'" class="l_global_parent_label js_globalnav" data-rel="child">
@@ -117,8 +123,31 @@ export default {
 }
 </script>
 
-<style scoped>
+<style>
 nav ul li {
   cursor: pointer;
+}
+.nav__toggle {
+  position: absolute;
+  cursor: pointer;
+  margin: 0rem 1rem;
+  right: 0;
+}
+
+.close,
+input[type="checkbox"] {
+  display: none;
+}
+@media only screen and (min-width: 768px) {
+
+  .nav__toggle {
+    display: none;
+  }
+  .l_global_parent {
+    flex-direction: row;
+  }
+  .l_global_parent li {
+    display: block;
+  }
 }
 </style>
