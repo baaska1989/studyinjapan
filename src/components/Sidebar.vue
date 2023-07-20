@@ -28,11 +28,11 @@
               <a class="l_global_child_label js_globalnav" v-b-toggle="'collapse-6'" data-rel="uncle">know the school</a>
               <b-collapse id="collapse-6">
               <ul class="l_global_uncle js_globalnav_wrapper" data-rel="uncle">
-                <li><router-link to="/plan/know/universities">Japanese language institution</router-link></li>
-                <li><router-link to="/plan/know/graduate-schools">Specialized training school (specialized course)</router-link></li>
+                <li><router-link to="/plan/know/language-schools">Japanese language institution</router-link></li>
+                <li><router-link to="/plan/know/training-colleges">Specialized training school (specialized course)</router-link></li>
                 <li><router-link to="/plan/know/technology-colleges">college of technology</router-link></li>
-                <li><router-link to="/plan/know/training-colleges">Universities/junior colleges</router-link></li>
-                <li><router-link to="/plan/know/language-institutes">Grad student</router-link></li>
+                <li><router-link to="/plan/know/universities">Universities/junior colleges</router-link></li>
+                <li><router-link to="/plan/know/graduate-schools">Grad student</router-link></li>
               </ul>
               </b-collapse>
             </li>

@@ -135,68 +135,71 @@
             *3 Техникийн коллежид суралцах хугацаа нь ихэвчлэн таван жил байдаг (худалдааны хөлөг онгоцны хувьд таван жил хагас). Олон улсын оюутнуудыг 3-р курст хүлээн авна. <br>
             Японы сургуулиудад хичээлийн жил ихэвчлэн дараа жилийн 4-р сараас 3-р сар хүртэл байдаг . Олон дээд боловсролын сургуулиуд семестрийн системийг ашигладаг. Урт амралт нь ихэвчлэн жилд гурван удаа байдаг: зун (7-р сарын сүүлээс 9-р сарын эхээр), өвөл (12-р сарын сүүлээс 1-р сарын эхээр), хавар (2-р сараас 3-р сарын). Японы ихэнх сургуулиуд 4-р сард эхэлдэг ч зарим сургуулиуд намрын элсэлтийн системтэй байдаг.</p>
         
-            <div class="p_plan_data">
-<div class="p_plan_data_title"><span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Дээд боловсролын сургалтын байгууллагын тоог үндэсний, төрийн болон хувийн хэвшлийн байгууллагуудаар</font></font></span></div>
-<table class="p_plan_data_table">
-<thead>
-<tr>
-<td></td>
-<th scope="col"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Үндэсний</font></font></th>
-<th scope="col"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">олон нийтийн</font></font></th>
-<th scope="col"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">хувийн</font></font></th>
-<th scope="col"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Нийт</font></font></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<th scope="row"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">төгсөх ангийн оюутан</font></font></th>
-<td style="text-align: center;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">86</font></font></td>
-<td style="text-align: center;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">89</font></font></td>
-<td style="text-align: center;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">482</font></font></td>
-<td style="text-align: center;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">657</font></font></td>
-</tr>
-<tr>
-<th scope="row"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Их сургууль (факультет)</font></font></th>
-<td style="text-align: center;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">86</font></font></td>
-<td style="text-align: center;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">101</font></font></td>
-<td style="text-align: center;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">620</font></font></td>
-<td style="text-align: center;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">807</font></font></td>
-</tr>
-<tr>
-<th scope="row"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ахлах сургууль</font></font></th>
-<td style="text-align: center;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">0</font></font></td>
-<td style="text-align: center;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">14</font></font></td>
-<td style="text-align: center;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">295</font></font></td>
-<td style="text-align: center;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">309</font></font></td>
-</tr>
-<tr>
-<th scope="row"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">технологийн коллеж</font></font></th>
-<td style="text-align: center;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">51</font></font></td>
-<td style="text-align: center;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">3</font></font></td>
-<td style="text-align: center;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">3</font></font></td>
-<td style="text-align: center;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">57</font></font></td>
-</tr>
-<tr>
-<th scope="row"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Мэргэжлийн сургууль</font></font></th>
-<td style="text-align: center;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">8</font></font></td>
-<td style="text-align: center;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">180</font></font></td>
-<td style="text-align: center;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2533</font></font></td>
-<td style="text-align: center;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2721</font></font></td>
-</tr>
-</tbody>
-<caption><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Эх сурвалж: “Сургуулийн 2020 оны санхүүгийн жилийн суурь судалгаа” (Боловсрол, соёл, спорт, шинжлэх ухаан, технологийн яам)</font></font></caption></table>
-</div>x
-        <h2>Оршин суухад тохиромжтой амьдрах орчин</h2>
-        <h3>Амьдрахад ээлтэй орчин, амар тайван, аюулгүй амьдрах дэд бүтэцтэй.</h3>
-        <p>Япон Улс нь дэлхийн бусад улсуудтай харьцуулахад гэмт хэргийн гаралт багатай, оршин суухад тохиромжтой улс гэдгээрээ алдартай. Эд зүйлээ гээж, алга болгосон ч буцаад олдох нь элбэг.<br>
-        Нийтийн унаа тээвэр яг цагийн хуваарийн дагуу явах тул амар тайван, аюулгүйгээр зорьсон газартаа хүрч болно.<br>
-        Эрүүл мэндийн даатгалын систем бүрэн бэхэжсэн тул өвдсөн ч маш бага зардлаар эрүүл мэндийн үйлчилгээг хүртэх боломжтой.<br>
-        Япон орон нь эх нутгаасаа холдож сэтгэл түгшин яваа гадаад оюутнууд сэтгэл амар амьдарч болох улс юм.</p>
+        <div class="p_plan_data">
+            <div class="p_plan_data_title"><span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Дээд боловсролын сургалтын байгууллагын тоог үндэсний, төрийн болон хувийн хэвшлийн байгууллагуудаар</font></font></span></div>
+            <table class="p_plan_data_table">
+            <thead>
+            <tr>
+            <td></td>
+            <th scope="col"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Үндэсний</font></font></th>
+            <th scope="col"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">олон нийтийн</font></font></th>
+            <th scope="col"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">хувийн</font></font></th>
+            <th scope="col"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Нийт</font></font></th>
+            </tr>
+            </thead>
+            <tbody>
+            <tr>
+            <th scope="row"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">төгсөх ангийн оюутан</font></font></th>
+            <td style="text-align: center;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">86</font></font></td>
+            <td style="text-align: center;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">89</font></font></td>
+            <td style="text-align: center;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">482</font></font></td>
+            <td style="text-align: center;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">657</font></font></td>
+            </tr>
+            <tr>
+            <th scope="row"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Их сургууль (факультет)</font></font></th>
+            <td style="text-align: center;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">86</font></font></td>
+            <td style="text-align: center;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">101</font></font></td>
+            <td style="text-align: center;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">620</font></font></td>
+            <td style="text-align: center;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">807</font></font></td>
+            </tr>
+            <tr>
+            <th scope="row"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ахлах сургууль</font></font></th>
+            <td style="text-align: center;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">0</font></font></td>
+            <td style="text-align: center;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">14</font></font></td>
+            <td style="text-align: center;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">295</font></font></td>
+            <td style="text-align: center;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">309</font></font></td>
+            </tr>
+            <tr>
+            <th scope="row"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">технологийн коллеж</font></font></th>
+            <td style="text-align: center;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">51</font></font></td>
+            <td style="text-align: center;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">3</font></font></td>
+            <td style="text-align: center;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">3</font></font></td>
+            <td style="text-align: center;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">57</font></font></td>
+            </tr>
+            <tr>
+            <th scope="row"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Мэргэжлийн сургууль</font></font></th>
+            <td style="text-align: center;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">8</font></font></td>
+            <td style="text-align: center;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">180</font></font></td>
+            <td style="text-align: center;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2533</font></font></td>
+            <td style="text-align: center;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2721</font></font></td>
+            </tr>
+            </tbody>
+            <caption><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Эх сурвалж: “Сургуулийн 2020 оны санхүүгийн жилийн суурь судалгаа” (Боловсрол, соёл, спорт, шинжлэх ухаан, технологийн яам)</font></font></caption></table>
+        </div>
 
-        <h3>Олон орноос ирэх гадаад оюутнууд</h3>
-        <p>Дэлхийн 170 гаруй улс орноос гадаад оюутан ирж суралцаж байна.<br>
-        Дэлхийн 170 гаруй улс орноос нийт 220,000 гадаад оюутан Японы дээд боловсролын байгууллагад суралцаж байна.<br>
-        Япон төдийгүй бусад орны соёл ахуйтай танилцсанаар танин мэдэхүйн цар хүрээ улам баяжин тэлэх болно.</p>
+        <div class="m_box">
+            <div class="m_box_heading"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Холбоотой холбоосууд</font></font></div>
+            <ul class="m_list m_list_link">
+                <li><a href="https://www.nicjp.niad.ac.jp/japanese-system/index.html" target="_blank" rel="noopener noreferrer"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Японы боловсролын систем (Дээд боловсролын мэргэшлийг хүлээн зөвшөөрөх мэдээллийн төв (NIC-Япон) HP)</font></font><img src="/public/assets/images/other/event/blank.svg" width="14" height="14" alt="шинэ цонхонд нээх" class="u_icon u_icon_add_blank"></a></li>
+                <li><a href="https://www.niad.ac.jp/consolidation/international/info/japan.html" target="_blank" rel="noopener noreferrer"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Япон дахь дээд боловсрол, чанарын баталгааны талаарх үндсэн мэдээлэл (Эрдмийн зэрэг болон их сургуулийн шинэчлэлийг дэмжих үндэсний байгууллага)</font></font><img src="/ja/assets/images/icon/blank.svg" width="14" height="14" alt="шинэ цонхонд нээх" class="u_icon u_icon_add_blank"></a></li>
+                <li><a href="http://www.mext.go.jp/a_menu/koutou/houjin/houjin.htm" target="_blank" rel="noopener noreferrer"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Үндэсний их, дээд сургуулийн корпорацуудын тойм (Боловсрол, соёл, спорт, шинжлэх ухаан, технологийн яамны вэбсайт)</font></font><img src="/ja/assets/images/icon/blank.svg" width="14" height="14" alt="шинэ цонхонд нээх" class="u_icon u_icon_add_blank"></a></li>
+                <li><a href="http://www.mext.go.jp/a_menu/koutou/shiritsu/index.htm" target="_blank" rel="noopener noreferrer"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Хувийн сургууль, сургуулийн корпорацуудыг сурталчлах (Боловсрол, соёл, спорт, шинжлэх ухаан, технологийн яамны вэбсайт)</font></font><img src="/ja/assets/images/icon/blank.svg" width="14" height="14" alt="шинэ цонхонд нээх" class="u_icon u_icon_add_blank"></a></li>
+                <li><a href="http://www.mext.go.jp/a_menu/koutou/kouritsu/index.htm" target="_blank" rel="noopener noreferrer"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Улсын их, дээд сургуулиудын тойм (Боловсрол, соёл, спорт, шинжлэх ухаан, технологийн яамны цахим хуудас)</font></font><img src="/ja/assets/images/icon/blank.svg" width="14" height="14" alt="шинэ цонхонд нээх" class="u_icon u_icon_add_blank"></a></li>
+                <li><a href="http://www.mext.go.jp/a_menu/koutou/tandai/index.htm" target="_blank" rel="noopener noreferrer"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Бага коллежийн тойм (Боловсрол, соёл, спорт, шинжлэх ухаан, технологийн яамны цахим хуудас)</font></font><img src="/ja/assets/images/icon/blank.svg" width="14" height="14" alt="шинэ цонхонд нээх" class="u_icon u_icon_add_blank"></a></li>
+                <li><a href="http://www.mext.go.jp/a_menu/shougai/senshuu/main11_a1.htm" target="_blank" rel="noopener noreferrer"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Төрөлжсөн мэргэжлийн коллеж, сургуулийн төрөл бүрийн боловсролыг дэмжих (Боловсрол, соёл, спорт, шинжлэх ухаан, технологийн яамны цахим хуудас)</font></font><img src="/ja/assets/images/icon/blank.svg" width="14" height="14" alt="шинэ цонхонд нээх" class="u_icon u_icon_add_blank"></a></li>
+                <li><a href="http://www.mext.go.jp/a_menu/koutou/kousen/index.htm" target="_blank" rel="noopener noreferrer"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Технологийн коллежуудын тойм (техникийн коллежууд) (Боловсрол, соёл, спорт, шинжлэх ухаан, технологийн яамны вэбсайт)</font></font><img src="/ja/assets/images/icon/blank.svg" width="14" height="14" alt="шинэ цонхонд нээх" class="u_icon u_icon_add_blank"></a></li>
+            </ul>
+        </div>
     </div>
     <!-- /.m_section.wysiwyg -->
 
@@ -205,5 +208,59 @@
 </template>
 
 <style scoped>
+    .p_plan_data_title > span {
+        display: inline-block;
+        background-color: #00a0ea;
+        border-radius: 2.5rem;
+        padding: 0.625rem 1.875rem;
+        color: #fff;
+        font-size: 1.125rem;
+        font-weight: normal;
+    }
+    .p_plan_data_table thead {
+        background: #00a0e9;
+        color: #fff;
+    }
+    .p_plan_data {
+        margin: 1.875rem 0;
+    }
+    .p_plan_data_table {
+        width: 100%;
+        table-layout: fixed;
+    }
+    .p_plan_data_table tbody th {
+        text-align: center;
+    }
+    .p_plan_data_table td, .p_plan_data_table th {
+        border: 1px solid #dbdcdc;
+        padding: 0.625rem;
+        font-weight: normal;
+    }
+    .p_plan_data_table tbody tr:nth-child(even) {
+        background: #e6f6ff;
+    }
+    .p_plan_data_title {
+        margin: 0 0 1.25rem;
+    }
+    td {
+        display: table-cell;
+        vertical-align: inherit;
+    }
+    table {
+        border-collapse: collapse;
+        border-collapse: separate;
+        text-indent: initial;
+        border-spacing: 2px;
+    }
+    thead {
+        display: table-header-group;
+        vertical-align: middle;
+        border-color: inherit;
+    }
+    @media (min-width: 768px){
+        .p_plan_data_table td {
+            padding: 0.625rem 1.25rem;
+        }
+    }
 
 </style>
