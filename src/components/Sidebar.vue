@@ -22,15 +22,15 @@
         <b-collapse id="collapse-3" accordion="my-accordion">
           <ul class="l_global_child js_globalnav_wrapper" data-rel="child">
             <li>
-              <router-link to="/plan/system">education system</router-link>
+              <router-link to="/plan/system">Education system</router-link>
             </li>
             <li>
-              <a class="l_global_child_label js_globalnav" v-b-toggle="'collapse-6'" data-rel="uncle">know the school</a>
+              <a class="l_global_child_label js_globalnav" v-b-toggle="'collapse-6'" data-rel="uncle">Know the school</a>
               <b-collapse id="collapse-6">
               <ul class="l_global_uncle js_globalnav_wrapper" data-rel="uncle">
                 <li><router-link to="/plan/know/language-schools">Japanese language institution</router-link></li>
                 <li><router-link to="/plan/know/training-colleges">Specialized training school (specialized course)</router-link></li>
-                <li><router-link to="/plan/know/technology-colleges">college of technology</router-link></li>
+                <li><router-link to="/plan/know/technology-colleges">College of technology</router-link></li>
                 <li><router-link to="/plan/know/universities">Universities/junior colleges</router-link></li>
                 <li><router-link to="/plan/know/graduate-schools">Grad student</router-link></li>
               </ul>
@@ -51,16 +51,16 @@
               </b-collapse>
             </li>
             <li>
-              <router-link to="/plan/chart">study abroad flowchart</router-link>
+              <router-link to="/plan/chart">Study abroad flowchart</router-link>
             </li>
             <li>
               <a href="planning/examination/index.html">Various exams used for studying in Japan</a>
             </li>
             <li>
-              <a href="planning/academic-fees/index.html">study abroad expenses</a>
+              <a href="planning/academic-fees/index.html">Study abroad expenses</a>
             </li>
             <li>
-              <a href="planning/about-scholarship/index.html">scholarship</a>
+              <a href="planning/about-scholarship/index.html">Scholarship</a>
             </li>
             <li>
               <a href="planning/immigration-procedures/index.html">About immigration procedures and status of residence</a>
@@ -92,7 +92,7 @@
               <a class="l_global_child_label js_globalnav" v-b-toggle="'collapse-50'" data-rel="uncle">Earthquake</a>
               <b-collapse id="collapse-50">
               <ul class="l_global_uncle js_globalnav_wrapper" data-rel="uncle">
-                <li><router-link to="/plan/know/universities">Daily preparation is important</router-link></li>
+                <li><router-link to="/crisis/earthquake/daily">Daily preparation is important</router-link></li>
                 <li><router-link to="/plan/know/graduate-schools">What should I do at that moment?</router-link></li>
                 <li><router-link to="/plan/know/technology-colleges">Daily preparation</router-link></li>
                 <li><router-link to="/plan/know/training-colleges">"Will the phone work in case of a disaster?"</router-link></li>
@@ -103,7 +103,7 @@
             </li>
             <li>
               <a class="l_global_child_label js_globalnav" v-b-toggle="'collapse-51'" data-rel="uncle">
-                fire
+                Fire
               </a>
               <b-collapse id="collapse-51">
                 <ul class="l_global_uncle js_globalnav_wrapper" data-rel="uncle">

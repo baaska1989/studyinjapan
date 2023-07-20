@@ -49,6 +49,9 @@ const router = new Router({
                     name: "Numbers",
                     component: () => import("@/views/pages/attraction/numbers.vue")
                 },
+
+                // Start Crisis
+
                 {
                     path: "/crisis/accident/car",
                     name: "Car",
@@ -129,6 +132,9 @@ const router = new Router({
                     name: "Sick",
                     component: () => import("@/views/pages/crisis/medical/sick.vue")
                 },
+
+                // End Crisis
+
                 {
                     path: "/life/cost",
                     name: "Cost",
@@ -289,18 +295,6 @@ const router = new Router({
                 },
             ]
         },
-        {
-            path: "/crisis",
-            component: Layout,
-            children: [
-                {
-                    path: "/",
-                    name: "Home",
-                    component: Home,
-                },
-            ]
-        },
-
         { path: "*", component: PageNotFound }
     ],
 });
