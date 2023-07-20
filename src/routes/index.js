@@ -235,24 +235,24 @@ const router = new Router({
                     component: () => import("@/views/pages/plan/system.vue")
                 },
                 {
-                    path: "/work/changing",
-                    name: "changingStatus",
-                    component: () => import("@/views/pages/work/changingStatus.vue")
+                    path: "/work/part-time",
+                    name: "PartTime",
+                    component: () => import("@/views/pages/work/partTime.vue"),
+                },
+                {
+                    path: "/work/intern-ship",
+                    name: "internShip",
+                    component: () => import("@/views/pages/work/internShip.vue"),
                 },
                 {
                     path: "/work/employment",
                     name: "Employment",
-                    component: () => import("@/views/pages/work/employment.vue")
+                    component: () => import("@/views/pages/work/employment.vue"),
                 },
                 {
-                    path: "/work/internship",
-                    name: "Internship",
-                    component: () => import("@/views/pages/work/internship.vue")
-                },
-                {
-                    path: "/work/part-time",
-                    name: "partTime",
-                    component: () => import("@/views/pages/work/partTime.vue")
+                    path: "/work/change-status",
+                    name: "ChangeStatus",
+                    component: () => import("@/views/pages/work/changingStatus.vue"),
                 },
             ]
         },
@@ -300,17 +300,7 @@ const router = new Router({
                 },
             ]
         },
-        {
-            path: "/work",
-            component: Layout,
-            children: [
-                {
-                    path: "/",
-                    name: "Home",
-                    component: Home,
-                },
-            ]
-        },
+
         { path: "*", component: PageNotFound }
     ],
 });
