@@ -138,10 +138,10 @@
         </b-collapse>
       </li>
       <li class="is_job">
-        <a class="l_global_parent_label js_globalnav" data-rel="child" v-b-toggle="'collapse-5'">
+        <a class="l_global_parent_label js_globalnav" data-rel="child" v-b-toggle="'collapse-6'">
           <span class="l_global_parent_label_en">Японд хөдөлмөр эрхлэх нь</span>
         </a>
-        <b-collapse id="collapse-5" accordion="my-accordion">
+        <b-collapse id="collapse-6" accordion="my-accordion">
           <ul class="l_global_child js_globalnav_wrapper" data-rel="child">
             <li><router-link to="/work/part-time" >Цагийн ажил</router-link></li>
             <li><router-link to="/work/intern-ship" >Мэргэжлийн дадлага</router-link></li>
