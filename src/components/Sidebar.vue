@@ -83,14 +83,14 @@
         </b-collapse>
       </li>
       <li class="is_crisis">
-        <a class="l_global_parent_label js_globalnav" v-b-toggle="'collapse-3'" data-rel="child">
+        <a class="l_global_parent_label js_globalnav" v-b-toggle="'collapse-5'" data-rel="child">
           <span class="l_global_parent_label_en">Crisis management in Japan</span>
         </a>
-        <b-collapse id="collapse-3" accordion="my-accordion">
+        <b-collapse id="collapse-5" accordion="my-accordion">
           <ul class="l_global_child js_globalnav_wrapper" data-rel="child">
             <li>
-              <a class="l_global_child_label js_globalnav" v-b-toggle="'collapse-6'" data-rel="uncle">Earthquake</a>
-              <b-collapse id="collapse-6">
+              <a class="l_global_child_label js_globalnav" v-b-toggle="'collapse-50'" data-rel="uncle">Earthquake</a>
+              <b-collapse id="collapse-50">
               <ul class="l_global_uncle js_globalnav_wrapper" data-rel="uncle">
                 <li><router-link to="/plan/know/universities">Daily preparation is important</router-link></li>
                 <li><router-link to="/plan/know/graduate-schools">What should I do at that moment?</router-link></li>
@@ -102,10 +102,10 @@
               </b-collapse>
             </li>
             <li>
-              <a class="l_global_child_label js_globalnav" v-b-toggle="'collapse-7'" data-rel="uncle">
+              <a class="l_global_child_label js_globalnav" v-b-toggle="'collapse-51'" data-rel="uncle">
                 fire
               </a>
-              <b-collapse id="collapse-7">
+              <b-collapse id="collapse-51">
                 <ul class="l_global_uncle js_globalnav_wrapper" data-rel="uncle">
                   <li><router-link to="/plan/choose/mext">How to handle heaters</router-link></li>
                   <li><router-link to="/plan/choose/scholarship23">in case of fire</router-link></li>
@@ -113,8 +113,8 @@
               </b-collapse>
             </li>
             <li>
-              <a class="l_global_child_label js_globalnav" v-b-toggle="'collapse-6'" data-rel="uncle">Accident</a>
-              <b-collapse id="collapse-6">
+              <a class="l_global_child_label js_globalnav" v-b-toggle="'collapse-52'" data-rel="uncle">Accident</a>
+              <b-collapse id="collapse-52">
               <ul class="l_global_uncle js_globalnav_wrapper" data-rel="uncle">
                 <li><router-link to="/plan/know/universities">Is Japan a safe country?</router-link></li>
                 <li><router-link to="/plan/know/graduate-schools">This is a crime!</router-link></li>
@@ -124,8 +124,8 @@
               </b-collapse>
             </li>
             <li>
-              <a class="l_global_child_label js_globalnav" v-b-toggle="'collapse-6'" data-rel="uncle">Medical</a>
-              <b-collapse id="collapse-6">
+              <a class="l_global_child_label js_globalnav" v-b-toggle="'collapse-53'" data-rel="uncle">Medical</a>
+              <b-collapse id="collapse-53">
               <ul class="l_global_uncle js_globalnav_wrapper" data-rel="uncle">
                 <li><router-link to="/plan/know/universities">To avoid catching a cold</router-link></li>
                 <li><router-link to="/plan/know/graduate-schools">When I get sick</router-link></li>
