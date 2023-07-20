@@ -93,11 +93,11 @@
               <b-collapse id="collapse-50">
               <ul class="l_global_uncle js_globalnav_wrapper" data-rel="uncle">
                 <li><router-link to="/crisis/earthquake/daily">Daily preparation is important</router-link></li>
-                <li><router-link to="/plan/know/graduate-schools">What should I do at that moment?</router-link></li>
-                <li><router-link to="/plan/know/technology-colleges">Daily preparation</router-link></li>
-                <li><router-link to="/plan/know/training-colleges">"Will the phone work in case of a disaster?"</router-link></li>
-                <li><router-link to="/plan/know/language-institutes">Where should I evacuate?</router-link></li>
-                <li><router-link to="/plan/know/language-institutes">What can I do when disaster strikes?</router-link></li>
+                <li><router-link to="/crisis/earthquake/do">What should I do at that moment?</router-link></li>
+                <li><router-link to="/crisis/earthquake/preparation">Daily preparation</router-link></li>
+                <li><router-link to="/crisis/earthquake/phone">"Will the phone work in case of a disaster?"</router-link></li>
+                <li><router-link to="/crisis/earthquake/evacuate">Where should I evacuate?</router-link></li>
+                <li><router-link to="/crisis/earthquake/strike">What can I do when disaster strikes?</router-link></li>
               </ul>
               </b-collapse>
             </li>
@@ -107,8 +107,8 @@
               </a>
               <b-collapse id="collapse-51">
                 <ul class="l_global_uncle js_globalnav_wrapper" data-rel="uncle">
-                  <li><router-link to="/plan/choose/mext">How to handle heaters</router-link></li>
-                  <li><router-link to="/plan/choose/scholarship23">in case of fire</router-link></li>
+                  <li><router-link to="/crisis/fire/handle">How to handle heaters</router-link></li>
+                  <li><router-link to="/crisis/fire/case">In case of fire</router-link></li>
                 </ul>
               </b-collapse>
             </li>
@@ -116,10 +116,10 @@
               <a class="l_global_child_label js_globalnav" v-b-toggle="'collapse-52'" data-rel="uncle">Accident</a>
               <b-collapse id="collapse-52">
               <ul class="l_global_uncle js_globalnav_wrapper" data-rel="uncle">
-                <li><router-link to="/plan/know/universities">Is Japan a safe country?</router-link></li>
-                <li><router-link to="/plan/know/graduate-schools">This is a crime!</router-link></li>
-                <li><router-link to="/plan/know/technology-colleges">Bicycles are so dangerous!</router-link></li>
-                <li><router-link to="/plan/know/training-colleges">Driving a car</router-link></li>
+                <li><router-link to="/crisis/accident/safety">Is Japan a safe country?</router-link></li>
+                <li><router-link to="/crisis/accident/crime">This is a crime!</router-link></li>
+                <li><router-link to="/crisis/accident/bicycles">Bicycles are so dangerous!</router-link></li>
+                <li><router-link to="/crisis/accident/car">Driving a car</router-link></li>
               </ul>
               </b-collapse>
             </li>
@@ -127,10 +127,10 @@
               <a class="l_global_child_label js_globalnav" v-b-toggle="'collapse-53'" data-rel="uncle">Medical</a>
               <b-collapse id="collapse-53">
               <ul class="l_global_uncle js_globalnav_wrapper" data-rel="uncle">
-                <li><router-link to="/plan/know/universities">To avoid catching a cold</router-link></li>
-                <li><router-link to="/plan/know/graduate-schools">When I get sick</router-link></li>
-                <li><router-link to="/plan/know/technology-colleges">Emergency (nighttime, holiday)</router-link></li>
-                <li><router-link to="/plan/know/training-colleges">About the insurance system</router-link></li>
+                <li><router-link to="/crisis/medical/cold">To avoid catching a cold</router-link></li>
+                <li><router-link to="/crisis/medical/sick">When I get sick</router-link></li>
+                <li><router-link to="/crisis/medical/emergency">Emergency (nighttime, holiday)</router-link></li>
+                <li><router-link to="/crisis/medical/insurance">About the insurance system</router-link></li>
               </ul>
               </b-collapse>
             </li>
@@ -138,10 +138,10 @@
         </b-collapse>
       </li>
       <li class="is_job">
-        <a class="l_global_parent_label js_globalnav" data-rel="child" v-b-toggle="'collapse-6'">
+        <a class="l_global_parent_label js_globalnav" data-rel="child" v-b-toggle="'collapse-60'">
           <span class="l_global_parent_label_en">Японд хөдөлмөр эрхлэх нь</span>
         </a>
-        <b-collapse id="collapse-6" accordion="my-accordion">
+        <b-collapse id="collapse-60" accordion="my-accordion">
           <ul class="l_global_child js_globalnav_wrapper" data-rel="child">
             <li><router-link to="/work/part-time" >Цагийн ажил</router-link></li>
             <li><router-link to="/work/intern-ship" >Мэргэжлийн дадлага</router-link></li>

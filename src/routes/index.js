@@ -118,6 +118,11 @@ const router = new Router({
                     component: () => import("@/views/pages/crisis/medical/cold.vue")
                 },
                 {
+                    path: "/crisis/medical/sick",
+                    name: "Sick",
+                    component: () => import("@/views/pages/crisis/medical/sick.vue")
+                },
+                {
                     path: "/crisis/medical/emergency",
                     name: "Emergency",
                     component: () => import("@/views/pages/crisis/medical/emergency.vue")
@@ -126,11 +131,6 @@ const router = new Router({
                     path: "/crisis/medical/insurance",
                     name: "Insurance",
                     component: () => import("@/views/pages/crisis/medical/insurance.vue")
-                },
-                {
-                    path: "/crisis/medical/sick",
-                    name: "Sick",
-                    component: () => import("@/views/pages/crisis/medical/sick.vue")
                 },
 
                 // End Crisis
@@ -162,7 +162,7 @@ const router = new Router({
                 },
                 {
                     path: "/plan/style/mext",
-                    name: "MEXT",
+                    name: "Mext",
                     component: () => import("@/views/pages/plan/chooseStyle/mext.vue")
                 },
                 {
@@ -263,39 +263,10 @@ const router = new Router({
             ]
         },
         {
-            path: "/why",
-            component: Layout,
-            children: [
-                {
-                    path: "/",
-                    name: "Home",
-                    component: Home,
-                },
-            ]
-        },
-        {
-            path: "/plan",
-            component: Layout,
-            children: [
-                {
-                    path: "/",
-                    name: "Home",
-                    component: Home,
-                },
-            ]
-        },
-        {
-            path: "/life",
-            component: Layout,
-            children: [
-                {
-                    path: "/",
-                    name: "Home",
-                    component: Home,
-                },
-            ]
-        },
-        { path: "*", component: PageNotFound }
+            path: "*",
+            name: "PageNotFound",
+            component: PageNotFound
+        }
     ],
 });
 
