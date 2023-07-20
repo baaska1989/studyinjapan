@@ -42,11 +42,11 @@
               </a>
               <b-collapse id="collapse-7">
                 <ul class="l_global_uncle js_globalnav_wrapper" data-rel="uncle">
-                  <li><router-link to="/plan/choose/mext">Government-sponsored study abroad</router-link></li>
-                  <li><router-link to="/plan/choose/scholarship23">Study abroad at private expense</router-link></li>
-                  <li><router-link to="/plan/choose/programs-english">English-taught degree programs</router-link></li>
-                  <li><router-link :to="{name: 'ShortPrograms'}">Short-term program</router-link></li>
-                  <li><router-link to="/plan/choose/transfer-programs">Transfer admission</router-link></li>
+                  <li><router-link to="/plan/style/government">Government-sponsored study abroad</router-link></li>
+                  <li><router-link to="/plan/style/private">Study abroad at private expense</router-link></li>
+                  <li><router-link to="/plan/style/english-taught">English-taught degree programs</router-link></li>
+                  <li><router-link to="/plan/style/short-term">Short-term program</router-link></li>
+                  <li><router-link to="/plan/style/transfer-">Transfer admission</router-link></li>
                 </ul>
               </b-collapse>
             </li>

@@ -166,26 +166,6 @@ const router = new Router({
                     component: () => import("@/views/pages/plan/chooseStyle/mext.vue")
                 },
                 {
-                    path: "/plan/style/english-programs",
-                    name: "EnglishPrograms",
-                    component: () => import("@/views/pages/plan/chooseStyle/programsEnglish.vue")
-                },
-                {
-                    path: "/plan/style/scholarship",
-                    name: "Scholarship",
-                    component: () => import("@/views/pages/plan/chooseStyle/scholarship.vue")
-                },
-                {
-                    path: "/plan/style/short-programs",
-                    name: "ShortPrograms",
-                    component: () => import("@/views/pages/plan/chooseStyle/shortPrograms.vue")
-                },
-                {
-                    path: "/plan/style/transfer-programs",
-                    name: "TransferPrograms",
-                    component: () => import("@/views/pages/plan/chooseStyle/transferPrograms.vue")
-                },
-                {
                     path: "/plan/know/graduate-schools",
                     name: "GraduateSchools",
                     component: () => import("@/views/pages/plan/knowSchools/graduateSchools.vue")
@@ -209,6 +189,46 @@ const router = new Router({
                     path: "/plan/know/universities",
                     name: "Universities",
                     component: () => import("@/views/pages/plan/knowSchools/universities.vue")
+                },
+                {
+                    path: "/plan/style/government",
+                    name: "GovernmentSponsor",
+                    component: () => import("@/views/pages/plan/chooseStyle/mext.vue")
+                },
+                {
+                    path: "/plan/style/government/type",
+                    name: "SponsorType",
+                    component: () => import("@/views/pages/plan/chooseStyle/scholarship/type.vue")
+                },
+                {
+                    path: "/plan/style/government/requirement",
+                    name: "SponsorRequirement",
+                    component: () => import("@/views/pages/plan/chooseStyle/scholarship/requirement.vue")
+                },
+                {
+                    path: "/plan/style/government/application",
+                    name: "SponsorApplication",
+                    component: () => import("@/views/pages/plan/chooseStyle/scholarship/application.vue")
+                },
+                {
+                    path: "/plan/style/private",
+                    name: "Private Expense",
+                    component: () => import("@/views/pages/plan/chooseStyle/private.vue")
+                },
+                {
+                    path: "/plan/style/english-taught",
+                    name: "EnglishTaught",
+                    component: () => import("@/views/pages/plan/chooseStyle/programsEnglish.vue")
+                },
+                {
+                    path: "/plan/style/short-term",
+                    name: "ShortTerm",
+                    component: () => import("@/views/pages/plan/chooseStyle/shortPrograms.vue")
+                },
+                {
+                    path: "/plan/style/transfer",
+                    name: "Transfer",
+                    component: () => import("@/views/pages/plan/chooseStyle/transferPrograms.vue")
                 },
                 {
                     path: "/plan/chart",
