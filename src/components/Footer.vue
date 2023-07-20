@@ -11,8 +11,11 @@ export default {
         <li>
           <div class="l_footer_nav_list_label">Яагаад Японд суралцах вэ</div>
           <ul class="l_footer_nav_list_child">
-            <li><a href="why/attraction/index.html">Японд суралцахын давуу тал</a></li>
-            <li><a href="why/ask/index.html">Японд яагаад ирж сурах болов?<br>Одоо сурч буй гадаад оюутнуудаас асууж үзлээ!</a></li>
+            <li><router-link to="/attraction/economy">Advanced technology and developed economy</router-link></li>
+            <li><router-link to="/attraction/culture">Attractive culture</router-link></li>
+            <li><router-link to="/attraction/environment">Livable living environment</router-link></li>
+            <li><router-link to="/attraction/diversity">Diverse international students</router-link></li>
+            <li><router-link to="/attraction/numbers">Japan in numbers</router-link></li>
           </ul>
         </li>
         <li>
@@ -40,12 +43,21 @@ export default {
           </ul>
         </li>
         <li>
+          <div class="l_footer_nav_list_label">Crisis management in Japan</div>
+          <ul class="l_footer_nav_list_child">
+            <li><router-link to="/work/part-time" >Цагийн ажил</router-link></li>
+            <li><router-link to="/work/intern-ship" >Мэргэжлийн дадлага</router-link></li>
+            <li><router-link to="/work/employment">Японд ажилд орох</router-link></li>
+            <li><router-link to="/work/change-status">Хөдөлмөр эрхлэхтэй холбогдуулан оршин суух зөвшөөрлийн ангилал өөрчлөх тухай</router-link></li>
+          </ul>
+        </li>
+        <li>
           <div class="l_footer_nav_list_label">Япон дахь хөдөлмөр эрхлэлт</div>
           <ul class="l_footer_nav_list_child">
-            <li><a href="job/parttime-works/index.html">Цагийн ажил</a></li>
-            <li><a href="job/internship/index.html">Мэргэжлийн дадлага</a></li>
-            <li><a href="job/employment/index.html">Японд ажилд орох</a></li>
-            <li><a href="job/immigration-procedures/index.html">Хөдөлмөр эрхлэхтэй холбогдуулан оршин суух зөвшөөрлийн ангилал өөрчлөх тухай</a></li>
+            <li><router-link to="/work/part-time" >Цагийн ажил</router-link></li>
+            <li><router-link to="/work/intern-ship" >Мэргэжлийн дадлага</router-link></li>
+            <li><router-link to="/work/employment">Японд ажилд орох</router-link></li>
+            <li><router-link to="/work/change-status">Хөдөлмөр эрхлэхтэй холбогдуулан оршин суух зөвшөөрлийн ангилал өөрчлөх тухай</router-link></li>
           </ul>
         </li>
       </ul>
