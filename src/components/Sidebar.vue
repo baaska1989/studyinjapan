@@ -143,10 +143,10 @@
         </a>
         <b-collapse id="collapse-5" accordion="my-accordion">
           <ul class="l_global_child js_globalnav_wrapper" data-rel="child">
-            <li><a href="job/parttime-works/index.html">Цагийн ажил</a></li>
-            <li><a href="job/internship/index.html">Мэргэжлийн дадлага</a></li>
-            <li><a href="job/employment/index.html">Японд ажилд орох</a></li>
-            <li><a href="job/immigration-procedures/index.html">Хөдөлмөр эрхлэхтэй холбогдуулан оршин суух зөвшөөрлийн ангилал өөрчлөх тухай</a></li>
+            <li><router-link to="/work/part-time" >Цагийн ажил</router-link></li>
+            <li><router-link to="/work/intern-ship" >Мэргэжлийн дадлага</router-link></li>
+            <li><router-link to="/work/employment">Японд ажилд орох</router-link></li>
+            <li><router-link to="/work/change-status">Хөдөлмөр эрхлэхтэй холбогдуулан оршин суух зөвшөөрлийн ангилал өөрчлөх тухай</router-link></li>
           </ul>
         </b-collapse>
       </li>
