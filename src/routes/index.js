@@ -3,7 +3,7 @@ import Router from 'vue-router';
 import Layout from '../views/layouts/Layout.vue';
 import Home from '../views/pages/Home.vue';
 import Contact from "@/views/pages/Contact.vue";
-
+import PageNotFound from "@/views/pages/404.vue";
 Vue.use(Router);
 
 const router = new Router({
@@ -25,7 +25,7 @@ const router = new Router({
                     component: Contact,
                 },
                 {
-                    path: "/attraction/economy",
+                    path: "/why/economy",
                     name: "Economy",
                     component: () => import("@/views/pages/attraction/economy.vue")
                 },
@@ -255,8 +255,63 @@ const router = new Router({
                     component: () => import("@/views/pages/work/partTime.vue")
                 },
             ]
-        }
-
+        },
+        {
+            path: "/why",
+            component: Layout,
+            children: [
+                {
+                    path: "/",
+                    name: "Home",
+                    component: Home,
+                },
+            ]
+        },
+        {
+            path: "/plan",
+            component: Layout,
+            children: [
+                {
+                    path: "/",
+                    name: "Home",
+                    component: Home,
+                },
+            ]
+        },
+        {
+            path: "/life",
+            component: Layout,
+            children: [
+                {
+                    path: "/",
+                    name: "Home",
+                    component: Home,
+                },
+            ]
+        },
+        {
+            path: "/crisis",
+            component: Layout,
+            children: [
+                {
+                    path: "/",
+                    name: "Home",
+                    component: Home,
+                },
+            ]
+        },
+        {
+            path: "/work",
+            component: Layout,
+            children: [
+                {
+                    path: "/",
+                    name: "Home",
+                    component: Home,
+                },
+            ]
+        },
+        { path: "*", component: PageNotFound }
     ],
 });
 

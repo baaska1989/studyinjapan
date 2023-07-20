@@ -1,9 +1,22 @@
 <template>
   <div id="wrapper" class="l_wrapper p_top">
-    <HeaderBlock />
+    <header class="l_header u_hide_pc">
+      <div class="l_header_logo">
+        <router-link to="/">
+          <picture>
+            <img src="../../assets/images/common/logo_header.png" alt="Study in Japan">
+          </picture>
+        </router-link>
+      </div>
+      <input type="checkbox" id="nav__checkbox" class="nav__checkbox">
+      <label for="nav__checkbox" class="nav__toggle" @click="showMenu()">
+        <img src="https://img.icons8.com/material-outlined/30/000000/menu--v1.png" class="hamburger"  />
+        <img src="https://img.icons8.com/plumpy/30/000000/x.png" class="close" />
+      </label>
+    </header>
     <div class="l_container">
-      <div class="l_container_inner">
-        <div class="l_container_aside js_drower_nav">
+      <div class="l_container_inner" >
+        <div class="l_container_aside js_drower_nav" :class="this.showMobileMenu ? 'is-open nav-display' : ''">
           <Header />
           <Sidebar />
         </div>
@@ -17,7 +30,7 @@
   </div>
 </template>
 <script>
-import HeaderBlock from "@/components/HeaderBlock.vue";
+
 import Header from "@/components/Header.vue";
 import Footer from "@/components/Footer.vue";
 import Sidebar from "@/components/Sidebar.vue";
@@ -25,15 +38,40 @@ import Search from "@/components/Search.vue";
 
 export default {
   name: "Layout",
-  components: {Search, Sidebar, Footer, Header, HeaderBlock},
+  components: {Search, Sidebar, Footer, Header},
   data()
   {
     return {
+      isFixed: false,
       showMobileMenu: false,
     }
   },
+  created() {
+
+  },
+  mounted() {
+    document.body.classList.remove("nav-display");
+    document.body.classList.remove("is_fixed");
+    document.body.classList.remove("nav-display1");
+  },
   methods: {
     showMenu() {
+      this.isFixed = !this.isFixed;
+      if (!this.isFixed)
+      {
+        document.body.classList.remove("is_fixed");
+        document.body.classList.remove("nav-display");
+        if (this.isFixed)
+        {
+          document.body.classList.remove("nav-display1");
+        }
+
+      } else
+      {
+        document.body.classList.add("nav-display");
+        document.body.classList.add("is_fixed");
+        document.body.classList.remove("nav-display1");
+      }
       this.showMobileMenu = !this.showMobileMenu;
     },
   },
@@ -45,62 +83,69 @@ export default {
   @import "../../assets/css/overwrite.css";
   @import "../../assets/css/pages/top.css";
   @import "../../assets/css/slick.css";
-
-  nav ul li {
-    cursor: pointer;
+  .nav-display {
+    display: block;
   }
-  .nav-menu {
-    background-color: white;
-  }
-  .nav-content {
-    display: flex;
-    justify-content: space-between;
-    padding: 10px 30px;
-    align-items: center;
-  }
-  .nav-items {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    list-style: none;
-    margin: 0;
-    padding: 0;
-    li {
-      padding: 0 10px;
-    }
-  }
-  i {
+  .nav-display1 {
     display: none;
   }
-  // Mobile version - hidden hamburger menu
-  @media screen and (max-width: 768px) {
-    .nav-menu {
-      padding-top: 10px;
-      position: absolute;
-      width: 100%;
+  .nav {
+    border-bottom: 1px solid grey;
+  }
+  .nav__toggle {
+    position: absolute;
+    cursor: pointer;
+    margin: 1rem 1rem;
+    right: 0;
+    z-index: 500000;
+  }
+
+  .close,
+  input[type="checkbox"] {
+    display: none;
+  }
+  .hamburger {
+    margin-top: 0.2rem;
+  }
+  .nav__menu {
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+    align-items: center;
+    margin: 1rem;
+  }
+  li {
+    list-style: none;
+  }
+
+  li:first-child {
+    margin-right: auto;
+    display: block;
+  }
+  .nav__menu a {
+    text-decoration: none;
+    color: initial;
+    font-size: 1.2rem;
+  }
+  #nav__checkbox:checked ~ ul.nav__menu li {
+    display: block;
+  }
+  #nav__checkbox:checked ~ label.nav__toggle .hamburger {
+    display: none;
+  }
+  #nav__checkbox:checked ~ label.nav__toggle .close {
+    display: block;
+  }
+
+  @media only screen and (min-width: 768px) {
+    .nav__toggle {
+      display: none;
     }
-    .open-menu {
-      opacity: 1;
-      height: 150px;
+    .nav__menu {
+      flex-direction: row;
     }
-    .closed-menu {
-      opacity: 0;
-      height: 0;
-      padding: 0;
-    }
-    .nav-content {
-      flex-direction: column;
-      z-index: 100;
-      position: relative;
-      transition: all 0.2s ease-out;
-    }
-    .nav-items {
-      flex-direction: column;
-    }
-    i {
+    .nav__menu li {
       display: block;
-      text-align: right;
-      padding: 0 10px 10px 0;
     }
   }
 </style>

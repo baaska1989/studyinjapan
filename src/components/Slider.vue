@@ -14,10 +14,6 @@
 
     </VueSlickCarousel>
 
-<!--    <div class="p_top_mainvisual_slider js_top_mainvisual">-->
-
-<!--    </div>-->
-
   </div>
 
 </template>

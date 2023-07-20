@@ -86,4 +86,29 @@ export default {
 {
   font-size: 18px;
 }
+
+
+.nav__toggle {
+  position: absolute;
+  cursor: pointer;
+  margin: 0rem 1rem;
+  right: 0;
+}
+
+.close,
+input[type="checkbox"] {
+  display: none;
+}
+@media only screen and (min-width: 768px) {
+
+  .nav__toggle {
+    display: none;
+  }
+  .l_global_parent {
+    flex-direction: row;
+  }
+  .l_global_parent li {
+    display: block;
+  }
+}
 </style>

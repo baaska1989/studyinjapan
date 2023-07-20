@@ -2,7 +2,7 @@ const messages = {
     mn: {
         menu: {
             home: "Нүүр",
-            lang: "Хэл",
+            lang: "Language",
             contact: "Холбоо барих"
         }
     },
@@ -16,7 +16,7 @@ const messages = {
     jp: {
         menu: {
             home: "ホームページ",
-            lang: "言語",
+            lang: "Language",
             contact: "コンタクト"
         }
     }
