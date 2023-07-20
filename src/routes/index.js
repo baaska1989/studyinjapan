@@ -25,7 +25,7 @@ const router = new Router({
                     component: Contact,
                 },
                 {
-                    path: "/why/economy",
+                    path: "/attraction/economy",
                     name: "Economy",
                     component: () => import("@/views/pages/attraction/economy.vue")
                 },

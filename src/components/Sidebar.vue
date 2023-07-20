@@ -7,11 +7,11 @@
         </a>
         <b-collapse id="collapse-2" accordion="my-accordion" >
         <ul id="collapse-1" class="l_global_child js_globalnav_wrapper" data-rel="child">
-          <li><router-link to="/why/economy">Advanced technology and developed economy</router-link></li>
-          <li><router-link to="/why/culture">Attractive culture</router-link></li>
-          <li><router-link to="/why/environment">Livable living environment</router-link></li>
-          <li><router-link to="/why/diversity">Diverse international students</router-link></li>
-          <li><router-link to="/why/numbers">Japan in numbers</router-link></li>
+          <li><router-link to="/attraction/economy">Advanced technology and developed economy</router-link></li>
+          <li><router-link to="/attraction/culture">Attractive culture</router-link></li>
+          <li><router-link to="/attraction/environment">Livable living environment</router-link></li>
+          <li><router-link to="/attraction/diversity">Diverse international students</router-link></li>
+          <li><router-link to="/attraction/numbers">Japan in numbers</router-link></li>
         </ul>
         </b-collapse>
       </li>
