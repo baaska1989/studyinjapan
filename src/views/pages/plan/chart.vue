@@ -3,129 +3,59 @@
 </script>
 
 <template>
-    <main>
-      <div id="MainTextCnt">
 
-        <div class="lifeH3"><h3 class="llText">「その瞬間、すべき行動は？」</h3></div>
+  <main class="l_container_main_body">
 
-        <div class="w660 cenObj">
-          <div class="padT20 marB20">
-            <table cellspacing="5" cellpadding="0" border="0" class="lifeHeadMenu">
-              <tbody><tr>
-                <td><a href="#1">とりあえず揺れがおさまるまで</a></td>
-                <td><a href="#2">揺れがおさまってから</a></td>
-              </tr>
-              </tbody></table>
-          </div>
+    <h1 class="m_section_heading m_heading_lv1">Study Abroad Routes (Advantages and Disadvantages of Each Entrance Route)</h1>
 
-          <p>地震で命を落とす主な原因は、建物の倒壊による圧死と火災による焼死だと言われています。1995年1月に起きた阪神淡路大震災では、焼死で亡くなった方々の中には建物の中に閉じ込められて身動きが取れなくなり、そのまま火事にあって命を落としたというケースもあります。<br>
-            <br>
-            そこで、地震が起きたら瞬間的に考えなければならないポイントは次の3つです。</p>
-          <ul class="padT15 padL15 padB20">
-            <li>(1)自分の身の安全の確保</li>
-            <li>(2)火災の防止</li>
-            <li>(3)逃げ道の確保</li>
-          </ul>
-          <p>これを、揺れを感じた瞬間にどれだけ俊敏に行えるかが生死の分かれ目になると言ってもいいでしょう。<br>
-            <br>
-            しかし皆さん、大きな地震の揺れがどのくらいすごいか想像できますか。震度7クラスの揺れでは、人はまず何もできないと思ってください。（ぜひ防災館で体験してみてください。）立っていることもできず、ただ体を揺さぶられ、家の中ではテレビが飛んできたり鍵をしめていた窓が勝手に外れて落ちたり...。</p>
-
-          <p class="padT15">しかし、どうせ何もできないのだから、といっていざという時の心構えが不要なわけではありません。心構えがあるかどうかで、（前回言及したように）パニックの度合いが違ってきます。地震の大きな衝撃にたたきつけられたその瞬間は何もできなくとも、次の瞬間には生き残るための強い意識にさっと切り替えていかなければなりません。<br>
-            <br>
-            そのためにも、大きな揺れを感じたらどのように行動すべきかを普段から意識してイメージトレーニングをし、さらに防災訓練や防災館などでシミュレーションをしておくことが大切です。<br>
-            <br>
-            では、それぞれの状況に応じてどのように行動すべきかを見ていきましょう。</p>
-
-          <div class="lifeH4 padT15"><h4><a id="1">とりあえず揺れがおさまるまで</a></h4></div>
-
-          <div class="lifeH5 padT10"><h5>部屋の中にいた時</h5></div>
-          <p class="padT15">(1)自分の身を守る！ </p>
-          <p class="padT15">強く揺れるのは最初の1分間だと言われています。まずはテーブルや机の下にもぐって脚にしっかりつかまり、落下物や家具の転倒から自分の身を守ります。 </p>
-          <p class="padT15">(2)火を消す！ </p>
-          <p class="padT15">動ける状態であれば、すぐにガス、ストーブ、アイロンなどの火を消します<br>
-            <br>
-            ⇒スリッパや靴を履いて足元の安全を確保すること。部屋の中は食器や窓ガラスなどが割れ落ちて危険な状態です。<br>
-            ⇒すでに火が周囲に燃え移っていたら、落ち着いて消火する。<br>
-            <br>
-            ★注意! 揺れが激しい間は無理に火を消そうとしなくてもいいです。かえって、火のついたガスコンロに体がぶつかったり、熱湯の入ったやかんをこぼしたりしてとても危険です。 </p>
-          <p class="padT15">(3)逃げ道を確保する！ </p>
-          <p class="padT15">ドアや窓を開けて外への逃げ道を確保します。<br>
-            <br>
-            ★注意! あわてて外に飛び出してはいけません！ 外は窓ガラスの破片や看板などが落ちてきてとても危険です。かえって家の中の方が安全な場合があります。家が倒れそうだったり、天井が落ちてきそうだったり、消火できないほどの火災があったりするような危険な状況がないようであれば、外へ避難する必要はありません。どうしても避難しなければならない場合は周囲の様子を確かめながら慎重に行動しましょう。 </p>
-
-          <div class="lifeH5 padT15"><h5>街の中（屋外）にいた時</h5></div>
-          <ul class="padL15 padB20">
-            <li>1. バッグやコートなどで頭を守る。 </li>
-            <li>2. 建物、自動販売機、窓ガラス、看板、電信柱など、倒れたり落下したりする恐れがあるものには近づかない。 </li>
-            <li>3. なるべく広い場所に移動する。 </li>
-          </ul>
-          <p>⇒とにかく落下物から頭を守ることが最も大事です。 </p>
-
-          <div class="lifeH5 padT15"><h5>地下街にいた時</h5></div>
-          <ul class="padL15 padB20">
-            <li>1. バッグやコートなどで頭を守る。 </li>
-            <li>2. 照明、窓ガラス、看板など、倒れたり落下したりする可能性があるものには近づかない。 </li>
-          </ul>
-          <p>⇒地下街は比較的安全だと言われています。地上よりも揺れが小さく、停電になっても非常照明が設置されており、また60メートルごとに非常口があります。係員の指示に従ってあわてずに落ち着いて行動しましょう。<br>
-            <br>
-            ★注意! 停電になって暗くなると、それだけで怖くなりパニックになってしまいます。そんな状態で周りの人とぶつかり転んでしまったら、次々と人が倒れ、人の山の下敷きになってしまいます。少し時間が立てば非常用の電気がつきますので、むやみに動かず、まずは落ち着くようにしてください。 </p>
-
-          <div class="lifeH5 padT15"><h5>デパートやビルの中にいた時</h5></div>
-          <ul class="padL15 padB20">
-            <li>1. バッグやコートなどで頭を守る。 </li>
-            <li>2. ショーウィンドウや窓ガラス、また電気製品や家具などの商品から離れる。 </li>
-            <li>3. 非常口を目指し、非常階段から外へ出るようにする。 </li>
-          </ul>
-          <p>★注意! エレベーターは使ってはいけません。また、火災が発生している場合は上の階へ行ってはいけません。煙は上に昇って行くからです。<br>
-            <br>
-            ◎家の中にいても外にいても、その瞬間はとにかく落下物や転倒物から身を守る、そして最初の1分間を何としても生き残る、ということが一番のポイントとなります。 </p>
-
-          <div class="padT10">
-            <ul class="helpSite helpbgimgJa">
-              <li><a href="http://www.fdma.go.jp/html/life/jisin2jisin.html" target="_blank">総務省消防庁「地震などの災害に備えて」</a></li>
-              <li><a href="http://www.tfd.metro.tokyo.jp/lfe/bou_topic/jisin/point10.htm" target="_blank">
-                <p> 東京消 防庁「地 震その時10のポイント</p>
-              </a>
-              </li>
-            </ul>
-          </div>
-
-          <div class="lifeH4"><h4><a id="2">揺れがおさまってから</a></h4></div>
-          <p class="padT15">(1) 周りの安全を確認する。 </p>
-          <p class="padT15">けがをした人がいればできるだけその場で応急処置をする。救急車を呼んでもすぐには来られないと思ってください。日頃から応急処置の技術を身につけておくことをすすめます。 </p>
-          <p class="padT15">(2) 火災の発生がないか確認する。あれば落ち着いて消火する。 </p>
-          <p class="padT15">(3) (家の中であれば）お風呂場の浴槽に水をためる。 </p>
-          <p class="padT15">
+    <div class="m_section wysiwyg">
+        <div>
+          <h3>3 routes</h3>
+          <p>There is more than one way to enter a junior college, vocational school, undergraduate or graduate school in Japan. Broadly speaking, there are three routes.
+              Method A: After studying Japanese at a Japanese language school in Japan, enter a university or vocational school. Method B: Come to Japan,
+              take an entrance exam for a university or vocational school, and
+              enter after passing the
+              exam. Also, study abroad period and fees are different. Each method has advantages and disadvantages. Below is a summary of the pros and cons of each method. Please think about which study abroad plan is reasonable for you.
           </p>
-
-          <div class="padT10">
-            <ul class="helpSite helpbgimgJa">
-              <li><a href="http://www.satonao.com/column/variety/jishin.html" target="_blank">ＷＷＷ．さとなお．ＣＯＭ （水をためることの重要性が書かれています。）</a></li>
-            </ul>
-          </div>
-
-          <p class="padT15">(4) テレビやラジオで情報を集める。 </p>
-          <p class="padT15">(5) 家が倒壊しそうな危険な状態であれば外へ避難する。 </p>
-          <p class="padT15">★注意! 家から外に避難する場合は、じょうぶな靴を履き、必ずブレーカーを落とし、ガスの元栓を締めてから出る。（停電していた電気が復旧した場合、つけっぱなしだった電気器具に電気が通るとそこから出火することがあり、火災の原因になります。）<br>
-            <br>
-            ※(1)～(5)は順番に行うということではなく、同時にかつ臨機応変に行います。 </p>
-
-          <div class="lifeH5 padT15"><h5>どこへ避難すればいいの？</h5></div>
-          <p class="padT15">外へ避難したらまずどこへ行けばいいのでしょうか？ 各地域ではそれぞれ一時避難場所、広域避難場所、避難所を設けています。まずは一時避難場所へ行ってください。 </p>
-          <p class="padT15">まずは「一時避難場所」へ </p>
-          <p class="padT15">災害の様子をみるために、とりあえず避難する場所です。近くの公園や神社など、各自治会、町会などで指定しています。 </p>
-          <p class="padT15">そこが危険なら「広域避難場所」へ </p>
-          <p class="padT15">さらに大きな火災が起こった場合、各都道府県で指定している避難場所です。災害が落ち着いたら自宅へ帰ります。 </p>
-          <p class="padT15">最後に「避難所」へ </p>
-          <p class="padT15">自宅が倒壊したり火災で焼失した場合に、しばらく生活を送る場所です。地域の学校などが指定されています。<br>
-            <br>
-            避難場所、避難所については今後の号で詳しく説明します。まずは各都道府県、市町村の窓口やホームページで自分が住んでいる地域の一時避難場所、広域避難場所、避難所を必ず把握しておいてください。<br>
-            <br>
-            また、避難する場合は最低限の荷物を持っていくことになりますが、被災直後にあわてて用意するのは不可能です。そこで次号は、日頃から用意しておいた方がいいものについて説明します。 </p>
-
         </div>
-      </div>
-    </main>
+        <div>
+          <h3>Method A</h3>
+          <p>In Method A, you first come to Japan with permission to enter a Japanese language school, study Japanese at a Japanese language school in Japan, and then take entrance exams for universities and vocational schools.
+              The advantages of this method are: <br>
+              ○ You don't have to spend much time studying Japanese in your home country<br>
+              ○ By spending six months to two years studying Japanese, you can solidify your Japanese language skills, which will be the basis for studying in Japan ○You can get used to life in Japan during the period of Japanese language learning <br>
+              ● It takes longer to graduate from university after coming to Japan, and the total cost of studying abroad, including tuition and living expenses, increases. <br>
+              ● The maximum period for studying Japanese is two years, so if you do not pass any university or vocational school during the two years, you will have to return to your home country .
+          </p>
+        </div>
+        <div>
+          <h3>Method B</h3>
+          <p>In the B method, first, obtain information about the school you want to go to in your home country, apply for it, and have the examination slip sent to you. Students will come to Japan on the day of the exam and take entrance exams for universities and vocational schools. Once you return to your home country and wait for the results of your application, you can come back to Japan and enter the school if you pass. Method B has the following advantages. <br>
+              ○ Since the period from arrival to Japan to graduation is shorter than in Method A, the total cost of studying abroad is lower than in Method A. <br>
+              ○ If you fail the entrance examination, you can wait for the next chance in your home country, so there is less time and cost burden . <br>
+              ● It is necessary to acquire sufficient Japanese proficiency (or English, depending on the school) in your home country. <br>
+              ● If you cannot apply directly from your home country, you must apply through friends, acquaintances, or relatives in Japan . If you do not make a round trip, your stay in Japan will be longer, and the cost of your stay will increase accordingly.
+          </p>
+        </div>
+        <div>
+          <h3>Method C Pre-Arrival Admission</h3>
+          <p>Some junior colleges, universities, and graduate schools grant admission based on the results of the EJU if you have taken the EJU overseas. However, there is currently no EJU in China.
+              In addition, there are some schools that conduct entrance examinations overseas and issue admission without taking the Examination for Japanese University Admission for International Students, or examine only documents sent from overseas.
+              This selection method is called “pre-arrival admission permission”.
+              Some universities do not require Japanese proficiency for admission, and offer English courses that allow students to graduate from classes taught only in English. In many cases, you can take the English course without coming to Japan. Below is a list of English courses.
+              https://www.jpss.jp/ja/univ/english/
+              The advantages of Study Abroad Method C are as follows. <br>
+              ○ Since the period from arrival to Japan to graduation is shorter than Method A, the total cost of studying abroad is lower than Method A. <br>
+              ○ Unlike Method B, you do not need to come to Japan to take an exam, so the burden of time and costs is less than Method B. <br>
+              ○ You can start your specialized studies immediately after arriving in Japan. <br>
+              ● It is necessary to acquire sufficient Japanese proficiency (or English proficiency depending on the school) in your home country. <br>
+              ● There are few schools that offer pre-arrival admission . <br>
+          </p>
+        </div>
+    </div>
+
+  </main>
+
 </template>
 
 <style scoped>

@@ -46,7 +46,7 @@
                   <li><router-link to="/plan/style/private">Study abroad at private expense</router-link></li>
                   <li><router-link to="/plan/style/english-taught">English-taught degree programs</router-link></li>
                   <li><router-link to="/plan/style/short-term">Short-term program</router-link></li>
-                  <li><router-link to="/plan/style/transfer-">Transfer admission</router-link></li>
+                  <li><router-link to="/plan/style/transfer">Transfer admission</router-link></li>
                 </ul>
               </b-collapse>
             </li>
@@ -54,16 +54,16 @@
               <router-link to="/plan/chart">Study abroad flowchart</router-link>
             </li>
             <li>
-              <a href="planning/examination/index.html">Various exams used for studying in Japan</a>
+              <router-link to="/plan/exams">Various exams used for studying in Japan</router-link>
             </li>
             <li>
-              <a href="planning/academic-fees/index.html">Study abroad expenses</a>
+              <router-link to="/plan/expenses">Study abroad expenses</router-link>
             </li>
             <li>
-              <a href="planning/about-scholarship/index.html">Scholarship</a>
+              <router-link to="/plan/scholarships">Scholarship</router-link>
             </li>
             <li>
-              <a href="planning/immigration-procedures/index.html">About immigration procedures and status of residence</a>
+              <router-link to="/plan/immigration">About immigration procedures and status of residence</router-link>
             </li>
           </ul>
         </b-collapse>
