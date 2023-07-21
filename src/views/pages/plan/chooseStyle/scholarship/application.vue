@@ -1,0 +1,85 @@
+<script>
+
+</script>
+
+<template>
+
+  <main class="l_container_main_body">
+
+    <h1 class="m_section_heading m_heading_lv1">Ажилд авах сонгон шалгаруулалтын урсгал</h1>
+
+    <div class="m_section wysiwyg">
+        <div>
+            <h2>1. Элчин сайдын яамны зөвлөмжөөр ажилд авах, сонгон шалгаруулах</h2>
+            <p>Хилийн чанад дахь Японы элчин сайдын яамдаас (эсвэл зарим улс дахь консулын газраас) ажилд авсан хүмүүсийг "элчин сайдын яамны зөвлөмж" гэж нэрлэдэг. Үндсэн алхамууд нь дараах байдалтай байна. Элчин сайдын яамны зөвлөмж авах өргөдөл гаргах арга, өргөдөл гаргах хугацаа нь улс орон бүрт өөр өөр байдаг тул Япон улсын элчин сайдын яам эсвэл ерөнхий консулын газартай холбоо барина уу.
+                Доорх хаягаар өөрт ойр байрлах элчин сайдын яам эсвэл консулын газрыг хайж олоорой.</p>
+            <ul class="m_list m_list_link">
+                <li><a href="https://www.mofa.go.jp/mofaj/annai/zaigai/list/index.html" target="_blank" rel="noopener noreferrer"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ГХЯ-ны вэбсайт дахь дипломат байгууллагуудын жагсаалт</font></font><img src="/ja/assets/images/icon/blank.svg" width="14" height="14" alt="шинэ цонхонд нээх" class="u_icon u_icon_add_blank"></a></li>
+            </ul>
+            <h3>Судалгааны оюутнууд, бакалаврын оюутнууд, техникийн коллежийн оюутнууд, мэргэжлийн сургуулийн оюутнууд</h3>
+            <p>Дараа оны 4-р сард Японд ирэх гадаад оюутнуудыг 4-р сараас 5-р сар хүртэл элсүүлэх болно. 6-р сараас 7-р сар хүртэл эхний үзлэгийг (баримт бичгийн шалгалт, бичгийн шалгалт, ярилцлага) орон нутагт зохион байгуулж, 8-р сарын эцэс гэхэд Элчин сайдын яам, консулын газар бүр Гадаад харилцааны яамаар дамжуулан Боловсрол, соёл, спорт, шинжлэх ухаан, технологийн яаманд өргөдөл гаргагчдыг санал болгох юм.</p>
+            <h3>Багш бэлтгэх оюутнууд болон Япон хэл, соёл судлалын оюутнууд</h3>
+            <p>Өнгөрсөн оны 12-р сараас энэ оны 2-р сар хүртэл тухайн оны 9, 10-р сард Японд ирэх гадаад оюутнуудын материалыг хүлээн авна. 2-р сараас 3-р сар хүртэл эхний үзлэгийг орон нутагт хийж, 4-р сарын эхээр Элчин сайдын яам, консулын газар бүр ГХЯ-аар дамжуулан Боловсрол, соёл, спорт, шинжлэх ухаан, технологийн яаманд зөвлөмж хүргүүлнэ.</p>
+            <ul class="m_list m_list_link">
+                <li><span style="text-decoration: underline;"><a href="/ja/planning/scholarship/application/examination/index.html"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">&lt;Өнгөрсөн асуудлуудын түүвэр&gt; Япон улсын засгийн газрын тэтгэлэгт олон улсын оюутнуудын эрдмийн шалгалтын асуултууд</font></font></a></span></li>
+            </ul>
+        </div>
+        <div>
+            <h2>2. Их сургуулийн зөвлөмжийн дагуу ажилд авах, сонгон шалгаруулах</h2>
+            <ol class="m_list m_list_num_brackets">
+                <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">“Их сургуулийн зөвлөмж” гэдэг нь ихэвчлэн их дээд сургууль хоорондын солилцооны гэрээ гэх мэт үндсэн дээр гадаадаас гадаадаас солилцооны оюутнуудыг засгийн газрын тэтгэлгээр олон улсын оюутан болгон авахыг хэлнэ. </font><font style="vertical-align: inherit;">Энэ нь Японд элсэж буй их сургуулиас Боловсрол, соёл, спорт, шинжлэх ухаан, технологийн яаманд зөвлөмж гаргах арга юм.</font></font></li>
+                <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Зарчмын хувьд их сургуулиас санал болгож буй MEXT тэтгэлэгт оюутнууд ес, аравдугаар сард Японд ирдэг.</font></font></li>
+            </ol>
+        </div>
+        <div>
+            <h2>3. [Анхааруулга] MEXT тэтгэлэгт оюутнуудад зориулсан журам (Боловсрол, соёл, спорт, шинжлэх ухаан, технологийн яамны вэбсайт)</h2>
+            <p>Хэрэв та хэрхэн өргөдөл гаргахаа мэдэхийг хүсвэл эх орондоо байгаа Япон улсын элчин сайдын яам (улсаас хамаарч ерөнхий консулын газар) эсвэл суралцах хүсэлтэй Япон сургуульд хандана уу.
+                Өргөдөл үнэгүй. Төлбөр, барьцаа мөнгө гэх мэтийг хүссэн байгууллага, хүмүүс Японы засгийн газартай ямар ч холбоогүй болохыг анхаарна уу.</p>
+            <ul class="m_list m_list_link">
+                <li><span style="text-decoration: underline;"><a href="https://www.mext.go.jp/a_menu/koutou/ryugaku/06032818.htm" target="_blank" rel="noopener noreferrer"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MEXT тэтгэлэгт систем: Боловсрол, соёл, спорт, шинжлэх ухаан, технологийн яам (mext.go.jp)</font></font><img src="/ja/assets/images/icon/blank.svg" width="14" height="14" alt="шинэ цонхонд нээх" class="u_icon u_icon_add_blank"></a></span></li>
+            </ul>
+        </div>
+    </div>
+
+  </main>
+
+</template>
+
+<style scoped>
+    .p_plan_subject_table {
+        width: 100%;
+        background: #f6f6f7;
+        margin: 1rem 0;
+        font-size: 0.875rem;
+    }
+    .p_plan_subject_table tbody th {
+        background: #1f7bb7;
+        color: #fff;
+        font-weight: bold;
+        text-align: center;
+    }
+    .p_plan_subject_table th {
+        border: 1px solid #dbdcdc;
+        padding: 0.625rem;
+        font-weight: normal;
+    }
+    .p_plan_subject_table td, .p_plan_subject_table th {
+        border: 1px solid #dbdcdc;
+        padding: 0.625rem;
+        font-weight: normal;
+    }
+    th {
+        display: table-cell;
+        vertical-align: inherit;
+        font-weight: bold;
+        text-align: -internal-center;
+    }
+    table {
+        display: table;
+        border-collapse: separate;
+        box-sizing: border-box;
+        text-indent: initial;
+        border-spacing: 2px;
+        border-color: gray;
+    }
+</style>
