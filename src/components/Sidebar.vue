@@ -74,11 +74,11 @@
         </a>
         <b-collapse id="collapse-4" accordion="my-accordion">
         <ul class="l_global_child js_globalnav_wrapper" data-rel="child">
-          <li><a href="life/livingcost-price/index.html">Амьжиргааны зардал болон өртөг</a></li>
-          <li><a href="life/accomodation/index.html">Амьдрах байр сууц</a></li>
-          <li><a href="life/insurance/index.html">Даатгал</a></li>
-          <li><a href="life/zairyuinjapan/index.html">Оршин суух зөвшөөрөлтэй холбоотой зүйлс</a></li>
-          <li><a href="life/support/index.html">Орон нутгийн засаг захиргаанаас өгөх дэмжлэг</a></li>
+          <li><router-link to="/life/cost">Амьжиргааны зардал болон өртөг</router-link></li>
+          <li><router-link to="/life/residence">Амьдрах байр сууц</router-link></li>
+          <li><router-link to="/life/insurance">Даатгал</router-link></li>
+          <li><router-link to="/life/study-residence">Оршин суух зөвшөөрөлтэй холбоотой зүйлс</router-link></li>
+          <li><router-link to="/life/support">Орон нутгийн засаг захиргаанаас өгөх дэмжлэг</router-link></li>
         </ul>
         </b-collapse>
       </li>

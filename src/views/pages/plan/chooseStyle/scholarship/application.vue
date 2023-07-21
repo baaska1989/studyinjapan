@@ -46,40 +46,5 @@
 </template>
 
 <style scoped>
-    .p_plan_subject_table {
-        width: 100%;
-        background: #f6f6f7;
-        margin: 1rem 0;
-        font-size: 0.875rem;
-    }
-    .p_plan_subject_table tbody th {
-        background: #1f7bb7;
-        color: #fff;
-        font-weight: bold;
-        text-align: center;
-    }
-    .p_plan_subject_table th {
-        border: 1px solid #dbdcdc;
-        padding: 0.625rem;
-        font-weight: normal;
-    }
-    .p_plan_subject_table td, .p_plan_subject_table th {
-        border: 1px solid #dbdcdc;
-        padding: 0.625rem;
-        font-weight: normal;
-    }
-    th {
-        display: table-cell;
-        vertical-align: inherit;
-        font-weight: bold;
-        text-align: -internal-center;
-    }
-    table {
-        display: table;
-        border-collapse: separate;
-        box-sizing: border-box;
-        text-indent: initial;
-        border-spacing: 2px;
-        border-color: gray;
-    }
+
 </style>
