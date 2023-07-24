@@ -11,14 +11,14 @@
         </form>
 
         <div class="m_fontchange">
-          <div class="m_fontchange_title">Үсгийн хэмжээ</div>
+          <div class="m_fontchange_title">{{$t("menu.fontsize")}}</div>
           <div class="m_fontchange_btn">
             <input type="radio" name="page_font" value="is_font_md" id="page_font_md" class="m_fontchange_btn_input js_font_control is_active" @click="changeSizeNormal()" checked>
-            <label for="page_font_md" class="m_fontchange_btn_label">Стандарт</label>
+            <label for="page_font_md" class="m_fontchange_btn_label">{{$t("menu.standard")}}</label>
           </div>
           <div class="m_fontchange_btn">
             <input type="radio" name="page_font" value="is_font_lg" id="page_font_lg" class="m_fontchange_btn_input js_font_control" @click="changeSizeBig()">
-            <label for="page_font_lg" class="m_fontchange_btn_label">Томруулах</label>
+            <label for="page_font_lg" class="m_fontchange_btn_label">{{$t("menu.zoom")}}</label>
           </div>
         </div>
 
