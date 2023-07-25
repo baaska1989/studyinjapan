@@ -7,6 +7,8 @@ const messages = {
             fontsize:"Үсгийн хэмжээ",
             standard:"Стандарт",
             zoom :"Томруулах",
+            search:"Хайх  ",
+            search2:"Хайлтын утга",
 // sidebar1
             sb10:"Японд суралцах сонирхол",
             sb11:"Дэвшилтэт технологи, хөгжсөн эдийн засаг",
@@ -75,12 +77,15 @@ const messages = {
     },
     en: {
         menu: {
+        
             home: "Home",
             lang: "Language",
             contact: "Contact",
             fontsize:"Font size",
             standard:"Standard",
             zoom:"Zoom  ",
+            search:"Search",
+            search2:"Search value",
 // sidebar1
             sb10:"Attractiveness of studying in Japan",
             sb11:"Advanced technology and developed economy",
@@ -153,6 +158,8 @@ const messages = {
             fontsize: "フォントサイズ",
             standard:"標準",
             zoom:"ズーム",
+            search:"検索",
+            search2:"検索値",
 //sidebar1
             sb10:"日本留学の魅力",
             sb11:"高度な技術と発展した経済",
