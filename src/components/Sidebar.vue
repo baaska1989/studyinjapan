@@ -125,18 +125,20 @@
                 <li><router-link to="/crisis/accident/safety"> {{$t("menu.sb64")}}</router-link></li>
                 <li><router-link to="/crisis/accident/crime">{{$t("menu.sb65")}}</router-link></li>
                 <li><router-link to="/crisis/accident/bicycles"> {{$t("menu.sb66")}}!</router-link></li>
-                <li><router-link to="/crisis/accident/car">Driving a car</router-link></li>
+                <li><router-link to="/crisis/accident/car">{{$t("menu.sb67")}}</router-link></li>
               </ul>
               </b-collapse>
             </li>
             <li>
-              <a class="l_global_child_label js_globalnav" v-b-toggle="'collapse-53'" data-rel="uncle">Medical</a>
+              <a class="l_global_child_label js_globalnav" v-b-toggle="'collapse-53'" data-rel="uncle">
+                {{$t("menu.sb70")}}
+              </a>
               <b-collapse id="collapse-53">
               <ul class="l_global_uncle js_globalnav_wrapper" data-rel="uncle">
-                <li><router-link to="/crisis/medical/cold">To avoid catching a cold</router-link></li>
-                <li><router-link to="/crisis/medical/sick">When I get sick</router-link></li>
-                <li><router-link to="/crisis/medical/emergency">Emergency (nighttime, holiday)</router-link></li>
-                <li><router-link to="/crisis/medical/insurance">About the insurance system</router-link></li>
+                <li><router-link to="/crisis/medical/cold">{{$t("menu.sb71")}}</router-link></li>
+                <li><router-link to="/crisis/medical/sick">{{$t("menu.sb72")}}</router-link></li>
+                <li><router-link to="/crisis/medical/emergency">{{$t("menu.sb73")}}</router-link></li>
+                <li><router-link to="/crisis/medical/insurance">{{$t("menu.sb74")}}</router-link></li>
               </ul>
               </b-collapse>
             </li>
@@ -145,14 +147,16 @@
       </li>
       <li class="is_job">
         <a class="l_global_parent_label js_globalnav" data-rel="child" v-b-toggle="'collapse-60'">
-          <span class="l_global_parent_label_en">Японд хөдөлмөр эрхлэх нь</span>
+          <span class="l_global_parent_label_en">
+            {{$t("menu.sb80")}}
+          </span>
         </a>
         <b-collapse id="collapse-60" accordion="my-accordion">
           <ul class="l_global_child js_globalnav_wrapper" data-rel="child">
-            <li><router-link to="/work/part-time" >Цагийн ажил</router-link></li>
-            <li><router-link to="/work/intern-ship" >Мэргэжлийн дадлага</router-link></li>
-            <li><router-link to="/work/employment">Японд ажилд орох</router-link></li>
-            <li><router-link to="/work/change-status">Хөдөлмөр эрхлэхтэй холбогдуулан оршин суух зөвшөөрлийн ангилал өөрчлөх тухай</router-link></li>
+            <li><router-link to="/work/part-time" >{{$t("menu.sb81")}}</router-link></li>
+            <li><router-link to="/work/intern-ship" >{{$t("menu.sb82")}}</router-link></li>
+            <li><router-link to="/work/employment">{{$t("menu.sb83")}}</router-link></li>
+            <li><router-link to="/work/change-status">{{$t("menu.sb84")}}</router-link></li>
           </ul>
         </b-collapse>
       </li>
