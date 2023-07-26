@@ -3,12 +3,16 @@
     <div class="l_utility_column">
 
       <div class="l_utility_column_item l_utility_column_item_tools">
-        <form id="cse-search-box" action="https://google.com/cse" target="_blank" class="l_utility_search">
-          <input type="text" name="q" size="31" placeholder="Хайх утга" class="l_utility_search_input">
-          <input type="submit" name="sa" value="Хайх" id="search_btn" class="l_utility_search_submit">
-          <input type="hidden" name="cx" value="001053951043051989747:tsw40oj1f_w">
-          <input type="hidden" name="ie" value="UTF-8">
-        </form>
+          <form id="cse-search-box" action="https://google.com/cse" target="_blank" class="l_utility_search">
+            <input type="text" name="q" size="31" :placeholder="$t('menu.search2')" class="l_utility_search_input">
+            <input type="submit" name="sa" :value="$t('menu.search')" id="search_btn" class="l_utility_search_submit">
+            <input type="hidden" name="cx" value="001053951043051989747:tsw40oj1f_w">
+            <input type="hidden" name="ie" value="UTF-8">
+
+            
+          </form>
+
+         
 
         <div class="m_fontchange">
           <div class="m_fontchange_title">{{$t("menu.fontsize")}}</div>

@@ -7,6 +7,8 @@ const messages = {
             fontsize:"Үсгийн хэмжээ",
             standard:"Стандарт",
             zoom :"Томруулах",
+            search:"Хайх  ",
+            search2:"Хайлтын утга",
 // sidebar1
             sb10:"Японд суралцах сонирхол",
             sb11:"Дэвшилтэт технологи, хөгжсөн эдийн засаг",
@@ -58,6 +60,18 @@ const messages = {
             sb64:"Япон аюулгүй орон мөн үү?",
             sb65:"Энэ бол гэмт хэрэг!",
             sb66:"Унадаг дугуй маш аюултай",
+            sb67:"Машин барих",
+            sb70:"Анагаах ухаан",
+            sb71:"Ханиад хүрэхгүйн тулд",
+            sb72:"Өвдөхөд",
+            sb73:"Яаралтай байдал (шөнийн цагаар, амралт)",
+            sb74:"Даатгалын системийн тухай",
+// sidebar5
+            sb80:"Японд хөдөлмөр эрхлэх нь",
+            sb81:"Цагийн ажил",
+            sb82:"Мэргэжлийн дадлага",
+            sb83:"Японд ажилд орох",
+            sb84:"Хөдөлмөр эрхлэхтэй холбогдуулан оршин суух зөвшөөрлийн ангилал өөрчлөх тухай",
         },
         partTime: {
             header_title: "Цагийн ажил",
@@ -102,12 +116,15 @@ const messages = {
     },
     en: {
         menu: {
+        
             home: "Home",
             lang: "Language",
             contact: "Contact",
             fontsize:"Font size",
             standard:"Standard",
             zoom:"Zoom  ",
+            search:"Search",
+            search2:"Search value",
 // sidebar1
             sb10:"Attractiveness of studying in Japan",
             sb11:"Advanced technology and developed economy",
@@ -158,6 +175,18 @@ const messages = {
             sb64:"Is Japan a safe country?",
             sb65:"This is a crime!",
             sb66:"Bicycles are so dangerous",
+            sb67:"Driving a car",
+            sb70:"Medical",
+            sb71:"To avoid catching a cold",
+            sb72:"When I get sick",
+            sb73:"Emergency (nighttime, holiday)",
+            sb74:"About the insurance system",
+//sidebar5
+            sb80:"Employment in Japan",
+            sb81:"Part time",
+            sb82:"Professional practice",
+            sb83:"Getting a job in Japan",
+            sb84:"About changing the category of residence permit in connection with employment",
         }
     },
     jp: {
@@ -168,6 +197,8 @@ const messages = {
             fontsize: "フォントサイズ",
             standard:"標準",
             zoom:"ズーム",
+            search:"検索",
+            search2:"検索値",
 //sidebar1
             sb10:"日本留学の魅力",
             sb11:"高度な技術と発展した経済",
@@ -218,6 +249,18 @@ const messages = {
             sb64:"日本は安全な国ですか？",
             sb65:"これは犯罪です！",
             sb66:"自転車はとても危険です",
+            sb67:"車を運転する",
+            sb70:"医学",
+            sb71:"風邪を引かないようにするには",
+            sb72:"病気になったとき",
+            sb73:"緊急時（夜間・休日）",
+            sb74:"保険制度について",
+// sidebar5 
+            sb80:"日本での就職",
+            sb81:"パートタイム",
+            sb82:"専門的診療",
+            sb83:"日本で就職する",
+            sb84:"雇用に伴う在留資格の変更について",
         }
     }
 }
