@@ -1,126 +1,126 @@
 <template>
   <main class="l_container_main_body">
 
-    <h1 class="m_section_heading m_heading_lv1">Цагийн ажил</h1>
+    <h1 class="m_section_heading m_heading_lv1">{{$t("partTime.head_title")}}</h1>
 
     <div class="m_section wysiwyg">
-      <p>Хувийн зардлаар сурдаг гадаад оюутнуудын 67% нь цагийн ажил хийдэг бөгөөд сард дунджаар 59,000 иэн (413 ам. доллар)-н цалинтай байдаг. Цагийн ажил хийснээр сургалтын бүх төлбөр, амьжиргааны зардлыг нөхөх боломжгүй тул цагийн ажилд найдахгүйгээр санхүүгийн төлөвлөгөө гаргах хэрэгтэй.</p>
+      <p>{{$t("partTime.text1")}}</p>
       <div style="border: #808000 double 6px; border-radius: 15px; padding: 15px;">
-        <p style="font-size: 18px; font-weight: bold;">Цагийн ажил хийх тохиолдолд дараах нөхцөлийг заавал баримтлахгүй бол болохгүй.<br />Эдгээрийг зөрчсөн тохиолдолд хуулийн хариуцлага хүлээх, албадан гарах эрсдэлтэй гэдгийг анхаарна уу. Үүнд:</p>
+        <p style="font-size: 18px; font-weight: bold;">{{$t("partTime.frame1_text")}}</p>
         <ol>
-          <li>Өөрт хамгийн ойр байрших Гадаадын иргэн харьяатын асуудал хариуцсан газарт "Олгогдсон зөвшөөрлийн хүрээнээс гадуурх үйл ажиллагаа эрхлэх зөвшөөрөл"-ийг мэдүүлэх. "Гадаад оюутан" ангиллын оршин суух зөвшөөрөлтэйгээр 3-аас дээш сар оршин суугаа эсвэл Япон Улсын хилээр анх нэвтрэх үедээ тухайн нисэх буудал дээр "Олгогдсон зөвшөөрлийн хүрээнээс гадуурх үйл ажиллагаа эрхлэх зөвшөөрөл"-ийг мэдүүлэх боломжтой.</li>
-          <li>Хичээл сурлагад нөлөөлөхгүй байх.</li>
-          <li>Орлогын зорилго нь Японд суралцах үеийн сургалтын төлбөр, амьдрах зардалд зарцуулах бөгөөд харин ар гэртээ мөнгө илгээх, мөнгөн хуримтлал үүсгэхэд чиглээгүй байх.</li>
-          <li>Садар самуун явдалтай холбогдоогүй байх. ※ Хуулинд хориглосон заалттай.</li>
-          <li><strong>Долоо хоногт ажиллсан цаг 28-аас хэтрэхгүй байх.</strong> (Урт хугацааны амралтын үеэр хоногт 8 цаг байх)</li>
-          <li>Боловсролын байгууллагад суралцаж байх хугацаанд хийх.</li>
+          <li>{{$t("partTime.frame1_line1")}}</li>
+          <li>{{$t("partTime.frame1_line2")}}</li>
+          <li>{{$t("partTime.frame1_line3")}}</li>
+          <li>{{$t("partTime.frame1_line4")}}</li>
+          <li><strong>{{$t("partTime.frame1_line5_bold")}}</strong>{{$t("partTime.frame1_line5")}}</li>
+          <li>{{$t("partTime.frame1_line6")}}</li>
         </ol>
       </div>
-      <h2>Хийх ажлаа сонгохдоо анхаарах зүйлс!</h2>
-      <p>Японд суралцах зорилгоосоо хазайхгүй байх. Эрүүл мэндээ хайхралгүйгээр хэт их ажиллахгүй байх</p>
-      <h3>◎ Хичээл сурлагад тань муугаар нөлөөлөөгүй эсэх</h3>
-      <p>Шөнө орой эсвэл урт цагаар ажиллах нь дараагийн өдөрт ямар нэгэн нөлөө үзүүлэхгүй эсэх.</p>
-      <h3>◎ Цалин хөлс, тэдгээрийг олгох арга зам</h3>
-      <p>Өдрөөр олгох, долоо хоног тутам олгох, сараар олгох, бэлнээр олгож байна уу? Банкаар шилжүүлж байна уу?</p>
-      <h3>◎ Хийх ажил нь эрсдэлгүй эсэх</h3>
-      <p>Аюултай эрсдэлтэй ажил биш эсэх. Ажлын байранд гарч болзошгүй гэнэтийн ослын үед хамгаалалт байгаа эсэх<br /> Цагийн ажил танилцуулж өгөх эсэх талаар тухайн сургуулиасаа тодруулна уу.</p>
-      <div style="display: inline-block; background: #000080; padding: 5px 10px; color: #ffffff; font-weight: bold;">Нэгэн зөвлөгөө</div>
-      <div style="padding: 10px; border: 2px solid #000080;">Цагийн ажлаас шалтгаалж хичээлийн ирц хангалтгүй гэх мэтээр хичээлээ орхигдуулснаас болж оршин суух зөвшөөрлийн хугацааг сунгаж чадалгүй нутаг буцах гадаад оюутнууд жил бүр гардаг тул та бүхэн энэ талаар сайтар анхаарна уу.</div>
-      <h3>Гадаад оюутнуудын түгээмэл ажилладаг цагийн ажлын төрлүүд</h3>
+      <h2>{{$t("partTime.big_title")}}</h2>
+      <p>{{$t("partTime.text2")}}</p>
+      <h3>◎ {{$t("partTime.title1")}}</h3>
+      <p>{{$t("partTime.text3")}}</p>
+      <h3>◎ {{$t("partTime.title2")}}</h3>
+      <p>{{$t("partTime.text4")}}</p>
+      <h3>◎ {{$t("partTime.title3")}}</h3>
+      <p>{{$t("partTime.text5")}}</p>
+      <div style="display: inline-block; background: #000080; padding: 5px 10px; color: #ffffff; font-weight: bold;">{{$t("partTime.advice_title")}}</div>
+      <div style="padding: 10px; border: 2px solid #000080;">{{$t("partTime.advice_text")}}</div>
+      <h3>{{$t("partTime.table1_title")}}</h3>
       <table><colgroup> <col style="width: 10%;" /> <col style="width: 80%;" /> <col style="width: 10%;" /> </colgroup>
         <thead>
         <tr>
           <td></td>
-          <th scope="col">Ажлын төрөл</th>
-          <th scope="col">Хувь</th>
+          <th scope="col">{{$t("partTime.table1_row0_2")}}</th>
+          <th scope="col">{{$t("partTime.table1_row0_3")}}</th>
         </tr>
         </thead>
         <tbody>
         <tr>
           <th class="u_text_center">1</th>
-          <td>Хоол үйлдвэрлэл, үйлчилгээний газар</td>
+          <td>{{$t("partTime.table1_row1")}}</td>
           <td class="u_text_right">35.0%</td>
         </tr>
         <tr>
           <th class="u_text_center">2</th>
-          <td>Борлуулалт, худалдаа</td>
+          <td>{{$t("partTime.table1_row2")}}</td>
           <td class="u_text_right">30.2%</td>
         </tr>
         <tr>
           <th class="u_text_center">3</th>
-          <td>Үйлдвэрийн угсралт</td>
+          <td>{{$t("partTime.table1_row3")}}</td>
           <td class="u_text_right">6.1%</td>
         </tr>
         <tr>
           <th class="u_text_center">4</th>
-          <td>Багшийн туслах/ судалгааны туслах</td>
+          <td>{{$t("partTime.table1_row4")}}</td>
           <td class="u_text_right">5.6%</td>
         </tr>
         <tr>
           <th class="u_text_center">5</th>
-          <td>Гадаад хэлний багш</td>
+          <td>{{$t("partTime.table1_row5")}}</td>
           <td class="u_text_right">3.9%</td>
         </tr>
         <tr>
           <th class="u_text_center">6</th>
-          <td>Хүргэлт</td>
+          <td>{{$t("partTime.table1_row6")}}</td>
           <td class="u_text_right">3.5%</td>
         </tr>
         <tr>
           <th class="u_text_center">7</th>
-          <td>Цэвэрлэгээ</td>
+          <td>{{$t("partTime.table1_row7")}}</td>
           <td class="u_text_right">3.2％</td>
         </tr>
         <tr>
           <th class="u_text_center">8</th>
-          <td>Оффисийн ажил</td>
+          <td>{{$t("partTime.table1_row8")}}</td>
           <td class="u_text_right">2.9%</td>
         </tr>
         <tr>
           <th class="u_text_center">8</th>
-          <td>Аман болон бичгийн орчуулга</td>
+          <td>{{$t("partTime.table1_row9")}}</td>
           <td class="u_text_right">2.9%</td>
         </tr>
         </tbody>
       </table>
-      <h3>Цагийн ажлын цалин хөлс</h3>
+      <h3>{{$t("partTime.table2_title")}}</h3>
       <table><colgroup> <col style="width: 80%;" /> <col style="width: 20%;" /> </colgroup>
         <thead>
         <tr>
-          <th scope="col">Цагийн хөлс</th>
-          <th scope="col">Эзлэх хувь</th>
+          <th scope="col">{{$t("partTime.table2_row0_1")}}</th>
+          <th scope="col">{{$t("partTime.table2_row0_2")}}</th>
         </tr>
         </thead>
         <tbody>
         <tr>
-          <td>800 иенээс бага</td>
+          <td>{{$t("partTime.table2_row1")}}</td>
           <td class="u_text_right">2.0%</td>
         </tr>
         <tr>
-          <td>800-аас 1000 иен хүртэлх</td>
+          <td>{{$t("partTime.table2_row2")}}</td>
           <td class="u_text_right">36.6%</td>
         </tr>
         <tr>
-          <td>1000-аас 1200 иен хүртэлх</td>
+          <td>{{$t("partTime.table2_row3")}}</td>
           <td class="u_text_right">45.2%</td>
         </tr>
         <tr>
-          <td>1200-аас ,400 иен хүртэлх</td>
+          <td>{{$t("partTime.table2_row4")}}</td>
           <td class="u_text_right">11.1%</td>
         </tr>
         <tr>
-          <td>1400 иенээс дээш</td>
+          <td>{{$t("partTime.table2_row5")}}</td>
           <td class="u_text_right">5.1%</td>
         </tr>
         </tbody>
       </table>
       <div style="border: #808000 double 6px; border-radius: 15px; font-size: 100%; padding: 15px;">
-        <p style="color: #ff00ff; font-size: 24px; font-weight: bold; text-align: center;">"Японд суралцах хугацаанд мөнгө хуримтлуулах боломжтой" гэж онцгойлох Япон сургууль зуучлалын байгууллагаас болгоомжилно уу.</p>
-        <p style="font-size: 18px; font-weight: bold; text-align: center;">Сүүлийн жилүүдэд зарим нэгэн Японы сургууль зуучлах байгууллагууд дараах буруу ойлголтыг нийтэд тарааж буй тул болгоомжтай байна уу.</p>
-        <p>1 цагт 3000 иен (21 ам. доллар)-н цалин авах боломжтой. ⇒ <span style="color: #ff0000; font-size: 24px; font-weight: bold;">×</span> ЭЦагийн ажлын цалин 1000 иен (7 ам. доллар) байдаг.</p>
-        <p>Гадаадад сурч байхдаа цагийн ажил хийж сар бүр 200,000-300,000 иен олох боломжтой, сургалтын төлбөр, амьжиргааны зардлаас илүү гарсан мөнгийг гэр лүүгээ илгээх боломжтой. ⇒ <span style="color: #ff0000; font-size: 24px; font-weight: bold;">× </span>Боломжгүй. Цагийн ажлын сарын дундаж цалин 59,000 иен(421 ам.доллар) байдаг.</p>
-        <p style="text-align: right;">Эх сурвалж: 2021 оны хувийн зардалаар сурч буй оюутнуудын амьдрах нөхцлийн судалгаа (JASSO)</p>
-        <p style="text-align: right;">1 ам.доллар = 140 иенээр тооцсон</p>
+        <p style="color: #ff00ff; font-size: 24px; font-weight: bold; text-align: center;">{{$t("partTime.frame2_title1")}}</p>
+        <p style="font-size: 18px; font-weight: bold; text-align: center;">{{$t("partTime.frame2_title2")}}</p>
+        <p>{{$t("partTime.frame2_text1")}} ⇒ <span style="color: #ff0000; font-size: 24px; font-weight: bold;">×</span> {{$t("partTime.frame2_text1_1")}}</p>
+        <p>{{$t("partTime.frame2_text2")}} ⇒ <span style="color: #ff0000; font-size: 24px; font-weight: bold;">× </span>{{$t("partTime.frame2_text2_1")}}</p>
+        <p style="text-align: right;">{{$t("partTime.frame2_text4")}}</p>
+        <p style="text-align: right;">{{$t("partTime.frame2_text5")}}</p>
       </div>
     </div>
     <!-- /.m_section.wysiwyg -->
