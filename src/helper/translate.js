@@ -230,6 +230,45 @@ const messages = {
             li5: "Холбогдолтой цахим хуудас",
             link5_1: "Хил нэвтрэх, оршин суух зөвшөөрлийн тухай",
             link5_2: "Японд сурах боломжтой оршин суух зөвшөөрлийн тухай",
+        },
+        footer: {
+// footer1
+            f1:"Яагаад Японд суралцах вэ?",
+            f2:"Дэвшилтэт технологи, хөгжсөн эдийн засаг",
+            f3:"Сэтгэл татам соёл",
+            f4:"Амьдрах таатай орчин",
+            f5:"Олон улсын оюутнууд",
+            f6:"Japan in numbers",
+// footer2
+            f7:"Японд суралцах төлөвлөгөө",
+            f8:"Японы боловсролын тогтолцоо",
+            f9:"Сургуультай танилцах",
+            f10:"Хэв загвараас сонголт хийн Японд сурах төлөвлөгөө гаргах",
+            f11:"Японд сурахад ямар бэлтгэл хийх тухай зураглал",
+            f12:"Суралцах сургуулиа хайцгаая",
+            f13:"Японд суралцахад өгдөг  шалтгалтуудын тухай",
+            f14:'Суралцах зардал',
+            f15:"Тэтгэлэг",
+            f16:"Японы хилээр нэвтрэх процесс, баримт бичигын бүрдүүлэлт болон оршин суух зөвшөөрлийн тухай",
+// footer3
+            f17:"Япон дахь амьдрал",
+            f18:"Амьжиргааны зардал болон өртөг",   
+            f19:"Амьдрах байр сууц",
+            f20:"Даатгал",
+            f21:"Оршин суух зөвшөөрөлтэй холбоотой зүйлс",
+            f22:"Орон нутгийн засаг захиргаанаас өгөх дэмжлэг",
+// footer4
+            f23:"Япон дахь хямралын менежмент",
+            f24:"Цагийн ажил",
+            f25:"Мэргэжлийн дадлага",
+            f26:"Японд ажилд орох",
+            f27:"Хөдөлмөр эрхлэхтэй холбогдуулан оршин суух зөвшөөрлийн ангилал өөрчлөх тухай",
+            f28:"Япон дахь хөдөлмөр эрхлэлт",
+// footer5
+            f29:"Цагийн ажил",
+            f30:"Мэргэжлийн дадлага",
+            f31:"Японд ажилд орох",
+            f32:"Хөдөлмөр эрхлэхтэй холбогдуулан оршин суух зөвшөөрлийн ангилал өөрчлөх тухай",
         }
     },
     en: {
@@ -242,7 +281,7 @@ const messages = {
             standard:"Standard",
             zoom:"Zoom  ",
             search:"Search",
-            search2:"Search value",
+            search2:"Custom search",
 // sidebar1
             sb10:"Attractiveness of studying in Japan",
             sb11:"Advanced technology and developed economy",
@@ -465,6 +504,45 @@ const messages = {
             li5: "Related Pages",
             link5_1: "Immigration Procedures and Status of Residence Related to Studying Abroad",
             link5_2: "Status of Residence While You Are Staying in Japan",
+        },
+        footer: {
+// footer1
+            f1:"Why study in Japan?",
+            f2:"Advanced technology and developed economy",
+            f3:"Attractive culture",
+            f4:"Livable living environment",
+            f5:"Diverse international students",
+            f6:"Japan in numbers",
+// footer2
+            f7:"Study plan in Japan",
+            f8:"Japanese education system",
+            f9:"Getting to know the school",
+            f10:"Make a plan to study in Japan by choosing from templates",
+            f11:"An illustration of how to prepare for studying in Japan",
+            f12:"Let's find a school to study",
+            f13:"About the reasons given for studying in Japan",
+            f14:"Cost of study",
+            f15:"Scholarship",
+            f16:"Regarding the process of crossing the border of Japan, the preparation of documents and the residence permit",
+// footer3
+            f17:"Life in Japan",
+            f18:"Cost of living and cost",
+            f19:"Residential apartment",
+            f20:"Insurance",
+            f21:"Things related to residence permit",
+            f22:"Support from local authorities",
+// footer4
+            f23:"Crisis management in Japan",
+            f24:"Part Time Work",
+            f25:"Professional practice",
+            f26:"Getting a job in Japan",
+            f27:"About changing the category of residence permit in connection with employment",
+            f28:"Employment in Japan",
+            f29:"Part Time Work",
+            f30:"Professional practice",
+            f31:"Getting a job in Japan",
+            f32:"About changing the category of residence permit in connection with employment",
+// footer5
         }
     },
     jp: {
@@ -476,7 +554,7 @@ const messages = {
             standard:"標準",
             zoom:"ズーム",
             search:"検索",
-            search2:"検索値",
+            search2:"カスタム検索",
 //sidebar1
             sb10:"日本留学の魅力",
             sb11:"高度な技術と発展した経済",
@@ -697,6 +775,46 @@ const messages = {
             li5: "関連ページ",
             link5_1: "入国手続き・在留資格について",
             link5_2: "日本に留学中の在留資格について",
+
+        },
+        footer :{
+// footer1
+            f1:"なぜ日本で勉強するのですか?",
+            f2:"高度な技術と発展した経済",
+            f3:"魅力的な文化",
+            f4:"住みやすい住環境",
+            f5:"多様な留学生",
+            f6:"数字で見る日本",
+// footer2
+            f7:"日本での留学計画",
+            f8:"日本の教育制度",
+            f9:"学校を知る",
+            f10:"テンプレートから選んで留学計画を立てる",
+            f11:"日本留学の準備の図解",
+            f12:"学べる学校を探しましょう",
+            f13:"日本への留学の理由について",
+            f14:"学習費",
+            f15:"奨学金",
+            f16:"日本の国境を越える手続き、書類の作成、在留許可について",
+// footer3
+            f17:"日本での生活",
+            f18:"生活費と生活費",
+            f19:"住宅用アパート",
+            f20:"保険",
+            f21:"滞在許可に関すること",
+            f22:"地方自治体からのサポート",
+// footer4
+            f23:"日本の危機管理",
+            f24:"パートタイムの仕事",
+            f25:"専門的診療",
+            f26:"日本で就職する",
+            f27:"雇用に伴う在留資格の変更について",
+            f28:"日本での就職",
+// footer5
+            f29:"パートタイムの仕事",
+            f30:"専門的診療",
+            f31:"日本で就職する",
+            f32:"雇用に伴う在留資格の変更について",
         }
     }
 }
