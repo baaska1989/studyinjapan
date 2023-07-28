@@ -332,6 +332,9 @@ const messages = {
             title3: "",
             text3_1: "",
             
+        },
+        diversity: {
+            
         }
 
     },
