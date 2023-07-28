@@ -97,7 +97,7 @@
             <li>
               <a class="l_global_child_label js_globalnav" v-b-toggle="'collapse-50'" data-rel="uncle"> {{$t("menu.sb51")}}</a>
               <b-collapse id="collapse-50">
-              <ul class="l_global_uncle js_globalnav_wrapper" data-rel="uncle">
+               <ul class="l_global_uncle js_globalnav_wrapper" data-rel="uncle">
                 <li><router-link to="/crisis/earthquake/daily">{{$t("menu.sb52")}}</router-link></li>
                 <li><router-link to="/crisis/earthquake/do">  {{$t("menu.sb53")}}</router-link></li>
                 <li><router-link to="/crisis/earthquake/preparation">{{$t("menu.sb54")}}</router-link></li>
@@ -161,9 +161,6 @@
         </b-collapse>
       </li>
     </ul>
-    <div class="l_utility_column_item l_utility_column_item_mail">
-        <router-link to="/contact" class="m_btn m_btn_contact">{{$t("menu.contact")}}</router-link>
-    </div>
   </nav>
 </template>
 

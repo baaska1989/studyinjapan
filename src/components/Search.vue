@@ -88,7 +88,7 @@ export default {
 <style>
 .MyClass
 {
-  font-size: 18px;
+  font-size: 19px;
 }
 
 
