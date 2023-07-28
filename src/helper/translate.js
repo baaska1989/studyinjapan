@@ -333,9 +333,63 @@ const messages = {
             text3_1: "",
             
         },
-        diversity: {
-            
-        }
+        attraction :{
+            header:"Японд суралцахын давуу тал",
+// economy 
+            h2:"Дэлхийд хамгийн өндөр түвшний гэж хүлээн зөвшөөрөгдсөн боловсролын стандарт",
+            h3:"Дэлхийд тэргүүлэх шинжлэх ухаан, техник технологийг сурч эзэмших боломжтой.",
+            p1:"Байгалийн баялагаар хомс Японы үйлдвэрлэгч улс болж эдийн засгийн өндөр хөгжилд хүрсэн цаад шалтгаан нь сайн боловсролоор бий болгосон мэдлэг, технологит оршино.",
+            p2:"Япон Улс цахилгаан автомашин, дижитал камер, шилэн кабель, хиймэл зүрх зэрэг нэн дэвшилтэт технологи, анагаахын салбарт тэргүүлэх бүтэгдэхүүнүүдийг дэлхий дахинаа танилцуулсаар ирсэн. Дэлхийн ард түмний хоолны цэсэнд бэлэн гоймон хэмээх цоо шинэ бүтээгдэхүүнийг нэмснээс гадна, олон улсад хэдийнээ танил болсон караокэ ч Японоос гаралтай.",
+            p3:"Японд сайжруулалт, хөгжүүлэлтээр дамжуулан илүү бүтээлч бараа бүтээгдэхүүнийг үйлдвэрлэн гаргах соёл гүн гүнзгий шингэжээ.",
+            p4:"Мөн Японы сургуулиудад мэдлэг, ур чадварыг хөгжүүлэхээс гадна хувь хүн болж төлөвшихөд ихээхэн анхаардаг ба энэ нь амьдрал дээр нилээдгүй ач тусаа өгдөг талаар гадаад оюутнуудад өндрөөр үнэлэгддэг.",
+// culture
+            h4:"Сэтгэл татам гайхалтай соёл",
+            h5:"'Фүжи' уул, 'Вашокү' буюу Япон хоол зэрэг соёлын өв. Мөн 'Омотэнаши' буюу найрсаг зочломтгой зан чанар.",
+            p5:"Далайгаар хүрээлэгдэж, хавар зун, намар, өвөл дөрвөн улирлыг биеэр мэдэрч болох үзсэгэлэнт байгальтай Япон орон.",
+            p6:"Япон орны бэлэгдэл болсон 'Фүжи уул'-аас эхлээд Химэжо, Ицүкүшима сүм зэрэг дэлхийн өв санд бүртгэлтэй олон газрууд Японд бий.",
+            p7:"Дэлхийн биет бус өвд бүртгэгдсэн 'Вашокү' буюу Япон хоол бол тухайн улиралд боловсорч гүйцсэн хүнс ногоог хэрэглэж, өнгө алаглам үзсэглэнтэй, эрүүл амтат зоог байх ба урт наслалтаараа алдартай япончуудын эрүүл мэндийг дэмжин тэтгэж байна.",
+            p8:" Япончууд хууль журмыг дээдэлдэг, шударга ард түмэн гэж хүндлэгддэг.",
+            p9:"Мөн Японд юун түрүүнд бусдыг өмнөө тавьж хүндлэх 'Омотэнаши' буюу сэтгэл зүрхээрээ үйлчлэх зочломтой зан чанар бат шингэсэн байх тул гадаад оюутнуудыг сайхан сэтгэлээр угтан авах болно.",
+// enviroment 
+            h6:"Оршин суухад тохиромжтой амьдрах орчин",
+            h7:"Амьдрахад ээлтэй орчин, амар тайван, аюулгүй амьдрах дэд бүтэцтэй.",
+            p10:"Япон Улс нь дэлхийн бусад улсуудтай харьцуулахад гэмт хэргийн гаралт багатай, оршин суухад тохиромжтой улс гэдгээрээ алдартай. Эд зүйлээ гээж, алга болгосон ч буцаад олдох нь элбэг.",
+            p11:" Нийтийн унаа тээвэр яг цагийн хуваарийн дагуу явах тул амар тайван, аюулгүйгээр зорьсон газартаа хүрч болно.",
+            p12:"Эрүүл мэндийн даатгалын систем бүрэн бэхэжсэн тул өвдсөн ч маш бага зардлаар эрүүл мэндийн үйлчилгээг хүртэх боломжтой.",
+            p13:"Япон орон нь эх нутгаасаа холдож сэтгэл түгшин яваа гадаад оюутнууд сэтгэл амар амьдарч болох улс юм.",
+// diversity
+            h8:"Олон орноос ирэх гадаад оюутнууд",
+            p14:"Дэлхийн 170 гаруй улс орноос гадаад оюутан ирж суралцаж байна.",
+            p15:" Дэлхийн 170 гаруй улс орноос нийт 220,000 гадаад оюутан Японы дээд боловсролын байгууллагад суралцаж байна.",
+            p16:"Япон төдийгүй бусад орны соёл ахуйтай танилцсанаар танин мэдэхүйн цар хүрээ улам баяжин тэлэх болно.",
+// numbers
+            h9:"Япон ямар улс вэ?",
+            p17:"Япон бол далайгаар хүрээлэгдсэн арлын орон юм. Газар нутгийн 75 орчим хувь нь уулархаг. Япон улс дөрвөн улиралтай бөгөөд жилийн турш үзэсгэлэнт байгалийг нь үзэх боломжтой. Энэхүү гайхамшигт улс нь мөн Кабуки, цэцгийн баглаа, уран бичлэг гэх мэт уламжлалт соёл, түүхийн өвөөр баялаг тул хилийн чанадаас олныг зорихыг хүсдэг. Энэ нь эдийн засгийн хүчирхэг гүрэн гэгддэг бөгөөд сүүлийн үед анимэ, манга, тоглоом, кино зэрэг Японы соёл олны анхаарлыг татах болсон. Япон бол байгаль, түүх, технологи хоёр зэрэгцэн оршдог орон юм. Японд юу таны сэтгэлийг хөдөлгөж байна вэ?",
+            h10:"Японы бүс нутаг бүрийн онцлог",
+// 1
+            h11:"Хоккайдо",
+            p18:"Тус улсын газар нутгийн бараг 22 хувийг эзэлдэг өргөн уудам газар нутгийг ашигладаг Хоккайдогийн аж үйлдвэр нь голчлон хөдөө аж ахуй, сүүний аж ахуй юм. Мөн элбэг дэлбэг далайн хоолоор адислагддаг. Японы хамгийн хойд хэсэг учраас өвөл нь маш хүйтэн, зундаа ч сэрүүн байдаг. Саппорогийн цасны баяр бол олон жуулчдыг татдаг томоохон арга хэмжээний нэг юм.",
+// 2        
+            h12:"Тохоку",
+            p19:"Энэ бүс нутагт цагаан будааны 28 орчим хувийг үйлдвэрлэдэг бөгөөд энэ нь ихэнх япончуудын гол хүнсний бүтээгдэхүүн юм. Алим, интоор, тоор зэрэг жимсний үйлдвэрлэл ч хүчтэй байна. Аомори префийн 'Небута', Акита префийн 'Канто', Ямагатагийн 'Ханагаса' гэх мэт муж бүрт өвөрмөц олон наадам байдаг.",
+// 3            
+            h13:"Канто",
+            p20:"Улс төр, эдийн засаг, аж үйлдвэрийн төв болсон энэ бүс нутаг нь Японы нийт хүн амын бараг 32 хувийг эзэлдэг. Далайн эргийн бүс нь үйлдвэрүүдийн үйлдвэрлэлийн шугам, усан онгоцны ачаалал ихтэй боомт, төв хэсэг нь бизнес, соёлын гол цөм, эх газрын нутаг дэвсгэр нь газар тариалангаар баялаг. Талбай бүр өөрийн өвөрмөц байдлыг харуулдаг.",
+// 4
+            h14:"Чубу",
+            p21:"Чубу бүс нь Японы дунд байрладаг. Япон тэнгис рүү харсан тал нь цас ихтэй, цагаан будааны тариалалтад идэвхтэй оролцдог. Номхон далай руу харсан тал нь дулаан уур амьсгалтай бөгөөд мандарин, япон ногоон цай үйлдвэрлэдэг. Мөн Айчи мужийн Нагоя хотод төвтэй аж үйлдвэрийн бүстэй.",
+// 5
+            h15:"Кинки",
+            p22:"Кинки бүс нь баруун Японы цөм бөгөөд Канто бүстэй адил чухал юм. Японы уламжлалыг хадгалсан Киото, Нара, орчин үеийн барилгууд нь тэнгэрийн шугамыг дүрсэлсэн Осака, Кобе зэрэг хотуудаас эхлээд маш өвөрмөц хотууд олон бий.",
+// 6
+            h16:"Чугоку, Шикоку",
+            p23:"Чугокугийн Япон тэнгисийн эрэгт өвөлдөө цас их ордог бол зун нь Шикокугийн Номхон далайн эрэгт их хэмжээний бороо ордог. Сеточи тэнгис нь жилийн турш дулаан байдаг. Олон жижиг арлууд байдаг бөгөөд та Чугоку муж болон Шикоку бүсийг холбосон гүүрнээс тайван амгалан байдлыг харж болно.",
+// 7
+            h17:"Кюсю, Окинава",
+            p24:"Нэгэн цагт гадаад худалдааны цонх байсан Кюүшюд гадаадын соёлын түүхэн дурсгалт газар олон бий. Хойд хэсэг нь аж үйлдвэрийн бүс, өмнөд хэсэг нь газар тариалан эрхэлдэг. Далайн урсгалын улмаас энэ бүс нутагт загасны аж ахуй ч хөгжиж байна. Үзэсгэлэнт далайтай Окинава бол Японы аялал жуулчлалын хамгийн алдартай газруудын нэг юм.",
+
+
+        },
 
     },
     en: {
@@ -611,7 +665,6 @@ const messages = {
             f32:"About changing the category of residence permit in connection with employment",
 // footer5
         },
-
         catchingCold: {
             title1: '"Avoid catching a cold"',
             link1: "Avoid catching a cold",
@@ -647,7 +700,65 @@ const messages = {
             text5_2: "A newer strain of influenza is spreading around the world.. If you have symptom of the influenza or if you have met somebody who has contracted influenza and you think it is possible that you are infected, please contact the fever consultation office set up in your district by phone and ask how to get a medical examination or to consult a doctor.",
             text5_link: 'Ministry of Health, Labor and Welfare: "Municipal Influenza-related Contact and Information Desks"',
             text5_3: "In the case of having cough or sneeze, please refrain from going out if you don't have the urgent need, and wear mask and be careful not to infect other people.",
-        }   
+        },
+        attraction :{
+            header:"Faschinating Studying in Japan",
+// economy
+            h2:"World Class Science and Technology",
+            h3:"You can learn about cutting-edge science, technology and medicine, etc.",
+            p1:"Despite its scarce resources, Japan was able to grow economically and become a leading country in manufacturing precisely because of the advanced knowledge and technology fostered by its excellent education system. ",
+            p2:"Using its state-of-the-art science, technology and medicine, Japan has introduced many products to the world, including electric vehicles, digital cameras, optical fibers and artificial hearts. Instant noodles, which have changed the dietary life of the world, and karaoke, are also innovations of Japanese origin.",
+            p3:"The practice of transforming innovative ideas into creative products goes far back into Japanese history. Japanese schools focus not only on academic achievements but also on the development of human quality.",
+            p4:"This aspect of Japanese schools is highly appreciated by international students who think the studying experience in Japan helps them after they start working.",
+// culture
+            h4:"Fascinating Culture",
+            h5:"Cultural heritages such as Mt. Fuji and Japanese cuisine and 'Omotenashi' hospitality.",
+            p5:"Surrounded by the sea, Japan enjoys all four seasons.",
+            p6:"In Japan, there are a number of world heritage sites, such as Mt. Fuji, a symbol of Japan, as well as Himeji Castle and Itsukushima Shrine.",
+            p7:"Washoku (traditional Japanese cuisine), a registered intangible cultural heritage, is a colorful and healthy food that uses seasonal ingredients and contributes to Japan being one of the countries with the world's highest life expectancies",
+            p8:"Japanese people are known to be hardworking and to attach importance to discipline.",
+            p9:"'Omotenashi' hospitality, the mentality of caring for guests by giving them the highest priority, is second nature to Japanese people, and thus international students are always welcomed warmly.",
+// enviroment 
+            h6:"Conducive Living Environment",
+            h7:"Conducive living environment and safe and secure infrastructure",
+            p10:"Japan is known as a good place to live with its low crime rate. Even if you lose something, it will be returned to you most of the time.",
+            p11:"Japan's public transportation system boasts of its on-time departure and arrival and helps you reach your destination safely and securely. ",
+            p12:" With a well-established health insurance system, you can receive advanced medical care when you fall ill with only a small fee.",
+            p13:"Even international students who feel anxious after leaving their home country can find some peace of mind while staying in Japan",
+// diversity
+            h8:"Diverse International Students",
+            p14:"International students from more than 170 countries and regions across the world",
+            p15:"About 220,000 international students from more than 170 countries and regions of the world are studying at higher educational institutions in Japan.",
+            p16:"These students can broaden their horizons through exposure to Japanese as well as diverse cultures of the world.",
+// numbers
+            h9:"What is Japan like?",
+            p17:"Japan is an island country surrounded by the sea. About 75% of its area is mountainous. Japan has four seasons, and you can enjoy its beautiful nature throughout the year. This wonderful country is also rich in traditional culture and historical heritage such as Kabuki, flower arrangement, calligraphy, etc., which attracts many people from overseas to visit it. It is known as an economic powerhouse, and recently, Japanese culture, such as anime, manga, games, and movies, has been attracting much attention. Japan is a country where nature, history, and technology coexist in harmony. And what excites you about Japan?",
+            h10:"Features of each region of Japan",
+// 1
+            h11:"Hokkaido",
+            p18:"Utilizing the vast land which is almost 22% of the nation's land, industry in Hokkaido is mainly agriculture and dairy farming. It is also blessed with bountiful seafood. Being the most northern area of Japan, the winters here are very cold and even in the summers, it is cool. The Snow Festival in Sapporo is one of the biggest events that attract many visitors.",
+// 2        
+            h12:"Tohoku",
+            p19:"This region produces about 28% of the rice of the country, which is the staple food of most Japanese. The production of fruits like apples, cherries, and peaches is also strong. There are many festivals unique to each prefecture, like the 'Nebuta' of Aomori Pref, 'Kanto' of Akita Pref, and 'Hanagasa' of Yamagata Pref, and many more.",
+// 3            
+            h13:"Kanto",
+            p20:"Being the center of politics, economy, and industries, this region has almost 32% of the whole population of Japan. The coast area is a busy port for factories production lines and shipping, the central area is the core for business and culture, and the inland area is rich in agriculture. Each area shows its uniqueness.",
+// 4
+            h14:"Chubu",
+            p21:"The Chubu region sits in the middle of Japan. The side facing the Sea of Japan sees lots of snow and is active in rice farming. The side facing the Pacific Ocean is warm in climate and produces tangerines and Japanese green tea. It also has an industrial area centered in the city of Nagoya at Aichi Prefecture.",
+// 5
+            h15:"Kinki",
+            p22:"Kinki Region is the core of Western Japan and is as important as the Kanto Region. There are many cities that are very unique, starting with Kyoto and Nara which retain Japanese traditions, and cities like Osaka and Kobe where modern buildings shape the skyline.",
+// 6
+            h16:"Chugoku, Shikoku",
+            p23:"The Sea of Japan side of the Chugoku snows a lot in winter, whereas it rains heavily in summer on the side of the Pacific Ocean of Shikoku. The Setouchi Sea is warm throughout the year. There are many tiny islands and you can see a peaceful view from the bridge connecting Chugoku Region and Shikoku Region.",
+// 7
+            h17:"Kyushu, Okinawa",
+            p24:"Kyushu, once a window to overseas trade, has many historical sites of foreign culture. The northern part is an industrial area while the south is engaged in agriculture. The fishery is also thriving in this region due to the ocean current. Okinawa, with its beautiful ocean, is one of the most popular tourist destinations in Japan.",
+
+
+
+        },
     },
     jp: {
         menu: {
@@ -955,7 +1066,64 @@ const messages = {
             text5_2: "また「新型インフルエンザ」が世界的に大流行することがあります。現在インフルエンザのような症状があり、インフルエンザを発症した知人と数日前に会っていたなど感染の可能性に心当たりがある場合は、まずは各地域に設置されている発熱相談センターに電話で受診方法などについて相談してください。",
             text5_link: '厚生労働省「自治体のインフルエンザ関連お問い合わせ・情報提供窓口」',
             text5_3: "また、咳やくしゃみの症状がある場合は不要不急の外出は避け、必ずマスクを着用して周りの人に移さないように気をつけてください。",
-        }
+        },
+        attraction :{
+            header:"日本留学の魅力",
+// economy
+            h2:"世界最高レベルの教育水準",
+            h3:"世界をリードする科学技術等を学ぶことができる",
+            p1:"資源の乏しい日本が、モノづくり大国として経済成長を遂げた背景には、優れた教育で培った知識・技術があります。",
+            p2:"電気自動車、デジタルカメラ、光ファイバー、人工心臓等、最先端の科学技術・医学を駆使した製品を世界に発信してきました。世界の食生活を変えたインスタントラーメン、各国に普及しているカラオケも日本発祥です。",
+            p3:"日本には、工夫を重ね、独創的な商品を作り出す文化が根付いています。",
+            p4:"また、日本の学校では、学力を伸ばすだけでなく人間性が鍛えられ、社会に出てから役に立つと、留学生から高い評価を得ています。",
+// culture
+            h4:"魅力的な文化",
+            h5:"「富士山」や「和食」等の文化遺産、そして「おもてなし」の心",
+            p5:"海に囲まれ、春・夏・秋・冬の季節が楽しめる自然豊かな日本。",
+            p6:"日本の象徴とも言える富士山をはじめ、姫路城、厳島神社等の世界遺産が日本には多数あります。",
+            p7:"世界無形文化遺産に登録された和食は、季節の食材を取り入れ、色彩豊かで健康的な料理として、長寿大国としての日本を支えています",
+            p8:"日本人は規律を重んじ、真面目な国民性と言われています。",
+            p9:"また、日本にはまず相手のことを考える「おもてなし」の精神が根付いており、留学生を温かく迎えてくれます。",
+// enviroment 
+            h6:"住みやすい生活環境",
+            h7:"住みやすい環境、安心・安全なインフラ設備",
+            p10:"世界の中でも日本は犯罪が少なく、暮らしやすい国として有名です。万が一落し物をしても、戻ってくることが多いです。",
+            p11:"交通機関も定刻に到着・発車し、安心・安全に目的地まで送り届けてくれます。",
+            p12:"保険制度も整っているため、病気になっても、少ない負担で高度な医療が受けられます。",
+            p13:"母国を離れることに不安な留学生も、安心して暮らせる国です。",
+// diversity
+            h8:"多様な留学生",
+            p14:"世界170以上の国と地域からやってくる留学生",
+            p15:"世界170以上の国と地域からやってきた22万人もの留学生が、日本の高等教育機関等で学んでいます。",
+            p16:"日本のみならず、世界各国の文化に触れることで、視野が大きく広がるでしょう。",
+// numbers
+            h9:"日本ってどんな国？",
+            p17:"日本は海に囲まれた島国で、国土の約75%が山地です。四季があり、年間を通して美しい自然を楽しむことができます。また、歌舞伎、華道、書道などの伝統文化や歴史遺産も豊富で、海外から多くの人が日本を訪れています。経済大国としても知られる日本ですが、最近では、アニメ、漫画、ゲーム、映画など、日本発のカルチャーも注目を集めています。自然と歴史、技術が調和した日本。あなたはどんなところに興味を持ちましたか？",
+            h10:"日本各地の特徴",
+// 1
+            h11:"北海道",
+            p18:"日本国土の約22%の広大な土地をいかし、農業や酪農がさかん。海産物にも恵まれている。日本の最北にあり、冬の寒さは厳しく、夏は涼しい。札幌の雪まつりは多くの観光客でにぎわう一大イベント。",
+// 2        
+            h12:"東北",
+            p19:"日本人の主食であるコメの収穫量の約28％を占めている。リンゴ、サクランボ、モモなど果物の栽培もさかん。青森・ねぶた祭り、秋田・竿灯祭り、山形・花笠まつりなど各地でいろいろな祭りが行われる。",
+// 3            
+            h13:"関東",
+            p20:"政治・経済・産業の中心で、日本の約32%の人口を抱える。工業製品の製造・出荷がさかんな臨海部、ビジネスの中心・文化の発信地である都市部、農業生産の多い内陸部など多様な地域性がある。",
+// 4
+            h14:"中部",
+            p21:"中部地方は日本の中央に位置している。日本海側は雪が多く、米作りがさかん。太平洋側は暖かい気候で、ミカンやお茶がとれる。また、愛知県名古屋市を中心とした工業地帯を抱えている",
+// 5
+            h15:"近畿",
+            p22:"近畿地方は西日本の中核であり、関東地方と並ぶ重要な地方。京都や奈良のように日本の伝統を残している町と、大阪や神戸のようにビルの立ち並ぶ近代的な町があり、個性豊かな都市が多い。",
+// 6
+            h16:"中国・四国",
+            p23:"中国地方の日本海側は冬には雪が降り、四国地方の太平洋側は夏に降雨量が多い。瀬戸内海側は一年を通して暖かい気候。小さな島が多く、中国地方と四国地方を結ぶ橋からは穏やかな景色が見られる。",
+// 7
+            h17:"九州・沖縄",
+            p24:"かつて海外貿易の窓口であった九州には、外国文化の史跡が多くある。北部は工業、南部は農業が主な産業。海流の影響で漁業もさかん。沖縄は、美しい海が見られる国内有数の観光地。",
+
+
+        },
     }
 }
 export default messages;
