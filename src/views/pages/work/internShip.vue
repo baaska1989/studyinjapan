@@ -2,39 +2,36 @@
 
   <main class="l_container_main_body">
 
-    <h1 class="m_section_heading m_heading_lv1">Ажил мэргэжлийн дадлага буюу интерншип</h1>
+    <h1 class="m_section_heading m_heading_lv1">{{$t("internship.head_title")}}</h1>
 
     <div class="m_section wysiwyg">
-      <p>Оюутан суралцах хугацаандаа хувийн хэвшил зэрэгт өөрийн эзэмшсэн мэргэжил, ирээдүйн карьертайгаа холбогдуулан ажлын туршлага хуримтлуулах тогтолцоог интерншип буюу ажил мэргэжлийн дадлага гэдэг.<br>
-        Ажил мэргэжлийн дадлагыг сургалтын хөтөлбөрт тооцон кредит олгодог сургуулиуд бий. Энэ төрлийн хөтөлбөр бий эсэх, кредит цаг тооцогдох эсэх талаар тухайн сургуулиасаа тодруулаарай.<br>
-        Мөн цалин хөлстэй байх тохиолдолд танд олгогдсон зөвшөөрлийн хүрээнээс гадуурх үйл ажиллагаа эрхлэх зөвшөөрөл шаардлагатай болно.<br>
-        Долоо хоногт 28 цагаас дээш цаг дадлагад хамрагдах хүсэлтэй бол тухайн дадлагын агуулгыг нотлох баримт бичгийн хамт харьяа Гадаадын иргэн харьяатын асуудал хариуцсан газарт ганцаарчлан "Олгогдсон зөвшөөрлийн хүрээнээс гадуурх үйл ажиллагаа эрхлэх зөвшөөрөл"-ийн хүсэлт гаргана уу.</p>
+      <p>{{$t("internship.head_text1")}} <br>
+        {{$t("internship.head_text2")}}</p>
 
-      <h2>Цагийн ажил болон ажил мэргэжлийн дадлагын ялгаатай тал</h2>
-      <p><strong>Цагийн ажил</strong> : Хөдөлмөрийн хүчээ өгөөд түүний хариуд мөнгө авдаг хөдөлмөр эрхлэлт юм. </p>
-      <p><strong>Ажил мэргэжлийн дадлага</strong> : Ажиллах боломж олгож, ирээдүйн карьерт хэрэг болохуйц ажлын туршлага. Ихэнхдээ цалин хөлсгүй байдаг.</p>
+      <h2>{{$t("internship.title1")}}</h2>
+      <p><strong>{{$t("internship.text11_bold")}}</strong> {{$t("internship.text11")}} </p>
+      <p><strong>{{$t("internship.text12_bold")}}</strong> {{$t("internship.text12")}}</p>
 
-      <h2>Ажил мэргэжлийн дадлагыг хайх арга</h2>
-      <p><strong>Их, дээд сургуулийн Хөдөлмөр эрхлэлтийн хэлтэс, нэгжид</strong> : Зарын самбарыг тогтмол шалгаж байх.</p>
-      <p><strong>Хөдөлмөр эрхлэлтийг дэмжих сайт</strong> : ажлын төрөл, салбар харгалзахгүйгээр ажил мэргэжлийн дадлагажигчийг шалгаруулж байдаг.<br>
-        Зөвхөн ажил мэргэжлийн дадлагажигчийг зуучлах байгууллагууд : Хүлээн авагч буюу ажил олгогчийн талаар хангалттай мэдээлэлтэй байдаг тул оюутан, компанийн хооронд барагтаа таарахгүй байх тохиолдол бага.</p>
+      <h2>{{$t("internship.title2")}}</h2>
+      <p><strong>{{$t("internship.text21_bold")}}</strong> {{$t("internship.text21")}}</p>
+      <p><strong>{{$t("internship.text32_bold")}}</strong> {{$t("internship.text32")}}<br></p>
 
-      <h2>Бусад улсын Их, дээд сургуулийн оюутан Японд ажил мэргэжлийн дадлага хийх тохиолдолд шаардах оршин суух зөвшөөрөл</h2>
-      <p>Бусад улсын Их, дээд сургуульд суралцагч оюутан тухайн сургуулийн кредит цаг авах сургалтын хөтөлбөрийн нэгэн хэсэг болгож, Японы аж ахуйн нэгж байгууллагатай байгуулсан гэрээ, хэлэлцээрийг үндэслэн ажлын туршлага хуримтлуулахаар Японы хилээр нэвтэрч буй тохиолдолд уг хөтөлбөр нь цалин хөлстэй эсэх, оршин суух хугацаа зэргээс шалтгаалж, тэдний оршин суух зөвшөөрлийн ангилал нь "Тодорхой үйл ажиллагаа", "Соёлын үйл ажиллагаа", "Богино хугацаагаар оршин суух" эдгээрийн аль нэг болдог.</p>
+      <h2>{{$t("internship.title3")}}</h2>
+      <p>{{$t("internship.text31")}}</p>
 
-      <div style="background: #1e90ff; border: 1px solid #1e90ff; padding-left: 30px; margin-top:30px; color: #fff;">Эдийн засаг аж үйлдвэрийн яамны Даяарчлалыг идэвхижүүлэх ажил мэргэжлийн дадлагажих хөтөлбөр (Гадаадын их, дээд сургуулийн оюутан, төгсөгчдөд зориулсан)</div>
+      <div style="background: #1e90ff; border: 1px solid #1e90ff; padding-left: 30px; margin-top:30px; color: #fff;">{{$t("internship.frame1_title")}}</div>
       <div style="border: 1px solid #1e90ff; font-size: 100%; padding: 20px;">
-        Эдийн засаг аж үйлдвэрийн яамнаас гадаадын оюутан, залууст зориулсан Японы жижиг дунд, дундаас дээгүүр түвшний аж ахуйн нэгж байгууллагад ажил мэргэжлийн дадлагажих хөтөлбөрийг зохион байгуулдаг.<br>
-        Холбоо барих : Эдийн засаг аж үйлдвэрийн яам, Худалдаа эдийн засаг хамтын ажиллагааны газар, Технологи хүний нөөцийн хамтын ажиллагааны хэлтэс<br>
-        Утас : (+81)3-3501-1937</div>
+        {{$t("internship.frame1_text1")}}<br>
+        {{$t("internship.frame1_text2")}}<br>
+        {{$t("internship.frame1_text3")}}</div>
 
-      <div style="background: #1e90ff; border: 1px solid #1e90ff; padding-left: 30px; margin-top:30px; color: #fff;">Эрүүл мэнд, нийгмийн халамж, хөдөлмөрийн яам Гадаад иргэдийн хөдөлмөр эрхлэлтийн үйлчилгээний төв (Токио, Нагоя, Осака)</div>
+      <div style="background: #1e90ff; border: 1px solid #1e90ff; padding-left: 30px; margin-top:30px; color: #fff;">{{$t("internship.frame2_title")}}</div>
       <div style="border: 1px solid #1e90ff; font-size: 100%; padding: 20px;">
-        зэрэг үйлчилгээ үзүүлдэг.<br>
-        Холбоо барих :<br>
-        Токио <a href="https://jsite.mhlw.go.jp/tokyo-foreigner/" target="_blank">https://jsite.mhlw.go.jp/tokyo-foreigner/</a><br>
-        Нагоя <a href="https://jsite.mhlw.go.jp/aichi-foreigner/" target="_blank">https://jsite.mhlw.go.jp/aichi-foreigner/</a><br>
-        Осака <a href="https://jsite.mhlw.go.jp/osaka-foreigner/" target="_blank">https://jsite.mhlw.go.jp/osaka-foreigner/</a>
+        {{$t("internship.frame2_text1")}}<br>
+        {{$t("internship.frame2_text2")}}<br>
+        {{$t("internship.frame2_text3")}} <a href="https://jsite.mhlw.go.jp/tokyo-foreigner/" target="_blank">https://jsite.mhlw.go.jp/tokyo-foreigner/</a><br>
+        {{$t("internship.frame2_text4")}} <a href="https://jsite.mhlw.go.jp/aichi-foreigner/" target="_blank">https://jsite.mhlw.go.jp/aichi-foreigner/</a><br>
+        {{$t("internship.frame2_text5")}} <a href="https://jsite.mhlw.go.jp/osaka-foreigner/" target="_blank">https://jsite.mhlw.go.jp/osaka-foreigner/</a>
       </div>
     </div>
     <!-- /.m_section.wysiwyg -->
