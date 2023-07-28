@@ -395,7 +395,7 @@ ruby rt {
   }
   .l_wrapper {
     background-color: #d4cdbb;
-    background-image: url(../images/common/bg_header.jpg), url(../images/common/bg_wrapper.gif);
+    background-image: url(../images/common/bg_header.jpg);
     background-position: center 0, center 0;
     background-repeat: repeat-x, repeat;
     background-size: auto 45px, auto;
@@ -441,7 +441,7 @@ ruby rt {
 @media (min-width: 768px) {
   .l_wrapper {
     background-color: #d4cdbb;
-    background-image: url(../images/common/bg_header.jpg), url(../images/common/bg_wrapper.gif);
+    background-image: url(../images/common/bg_header.jpg);
     background-position: center 0, center 0;
     background-repeat: repeat-x, repeat;
     background-size: auto 45px, auto;
@@ -1189,8 +1189,10 @@ ruby rt {
     max-width: 1200px;
     margin: 0 auto;
     background: #fff;
+    border: 1px solid #6c757d;
+    box-shadow: 0 2px 4px rgba(15, 34, 58, 0.12);
     -webkit-box-shadow: 0 -10px 20px rgba(39, 39, 39, 0.001);
-            box-shadow: 0 -10px 20px rgba(39, 39, 39, 0.001);
+            /*box-shadow: 0 -10px 20px rgba(39, 39, 39, 0.001);*/
   }
 }
 @media (min-width: 768px) {
