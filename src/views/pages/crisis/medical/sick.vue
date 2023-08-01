@@ -44,31 +44,31 @@
         <div class="lifeH4 padT15"><h4><a id="2">{{$t("whenSick.title3")}}</a></h4></div>
         <p class="padT15">{{$t("whenSick.text3_1")}}</p>
         <ul class="padT15 padL15">
-          <li>- {{$t("whenSick.line3_11")}}</li>
-          <li>- {{$t("whenSick.line3_12")}}</li>
-          <li>- {{$t("whenSick.line3_13")}}</li>
-          <li>- {{$t("whenSick.line3_14")}}</li>
+          <li>- {{$t("whenSick.line3_1")}}</li>
+          <li>- {{$t("whenSick.line3_2")}}</li>
+          <li>- {{$t("whenSick.line3_3")}}</li>
+          <li>- {{$t("whenSick.line3_4")}}</li>
         </ul>
         <p class="padT15">{{$t("whenSick.text3_2")}}<br>
           <br>
           {{$t("whenSick.text3_3")}}</p>
 
         <ul class="padT15 padL15">
-          <li>- {{$t("whenSick.line3_31")}}</li>
-          <li>- {{$t("whenSick.line3_32")}}</li>
-          <li>- {{$t("whenSick.line3_33")}}</li>
-          <li>- {{$t("whenSick.line3_34")}}</li>
-          <li>- {{$t("whenSick.line3_35")}}</li>
-          <li>- {{$t("whenSick.line3_36")}}</li>
-          <li>- {{$t("whenSick.line3_37")}}</li>
-          <li>- {{$t("whenSick.line3_38")}}</li>
+          <li>- {{$t("whenSick.line3_5")}}</li>
+          <li>- {{$t("whenSick.line3_6")}}</li>
+          <li>- {{$t("whenSick.line3_7")}}</li>
+          <li>- {{$t("whenSick.line3_8")}}</li>
+          <li>- {{$t("whenSick.line3_9")}}</li>
+          <li>- {{$t("whenSick.line3_10")}}</li>
+          <li>- {{$t("whenSick.line3_11")}}</li>
+          <li>- {{$t("whenSick.line3_12")}}</li>
         </ul>
         <p class="padT15">{{$t("whenSick.text3_4")}}</p>
 
-        <div class="lifeH5 padT15"><h5>{{$t("whenSick.title3_title")}}</h5></div>
-        <p class="padT15">{{$t("whenSick.text3_5")}}<br>
+        <div class="lifeH5 padT15"><h5>{{$t("whenSick.title4")}}</h5></div>
+        <p class="padT15">{{$t("whenSick.text4_1")}}<br>
           <br>
-          {{$t("whenSick.text3_6")}}</p>
+          {{$t("whenSick.text4_2")}}</p>
 
       </div>
     </div>
