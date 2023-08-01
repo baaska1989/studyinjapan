@@ -1,7 +1,8 @@
 import Vue from "vue";
 import Router from 'vue-router';
 import Layout from '../views/layouts/Layout.vue';
-
+import Home from "@/views/pages/Home.vue";
+import Contact from "@/views/pages/Contact.vue";
 import PageNotFound from "@/views/pages/404.vue";
 Vue.use(Router);
 
@@ -14,12 +15,12 @@ const router = new Router({
             children: [{
                     path: "",
                     name: "Home",
-                    component: () => ("@/views/pages/Home.vue"),
+                    component: Home,
                 },
                 {
                     path: "contact",
                     name: "Contact",
-                    component: () => ("@/views/pages/Contact.vue"),
+                    component: Contact,
                 },
                 {
                     path: "/attraction/economy",
