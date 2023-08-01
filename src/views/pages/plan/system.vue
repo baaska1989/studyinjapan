@@ -192,57 +192,59 @@
             </tbody>
         </table>
 
-        <p>*1 Төгсөлтийн сургуулийн докторантурын хөтөлбөрийг эхний улирал (хоёр жил), хоёрдугаар улирал (гурван жил) гэж хувааж болно. Анагаах ухаан, шүд, мал эмнэлгийн бакалаврын курс зургаан жил, эмийн сангийн зургаан жилийн курс дөрвөн жил үргэлжилнэ.
-            *2 Магистр, докторын сургалтыг стандартын дагуу зааж өгсөн болно. 
+        <p>{{$t("plan.system.p3")}}
+            {{$t("plan.system.pp4")}} 
             <br>
-            *3 Техникийн коллежид суралцах хугацаа нь ихэвчлэн таван жил байдаг (худалдааны хөлөг онгоцны хувьд таван жил хагас). Олон улсын оюутнуудыг 3-р курст хүлээн авна. 
+            {{$t("plan.system.p4")}}
             <br>
-            Японы сургуулиудад хичээлийн жил ихэвчлэн дараа жилийн 4-р сараас 3-р сар хүртэл байдаг . Олон дээд боловсролын сургуулиуд семестрийн системийг ашигладаг. Урт амралт нь ихэвчлэн жилд гурван удаа байдаг: зун (7-р сарын сүүлээс 9-р сарын эхээр), өвөл (12-р сарын сүүлээс 1-р сарын эхээр), хавар (2-р сараас 3-р сарын). Японы ихэнх сургуулиуд 4-р сард эхэлдэг ч зарим сургуулиуд намрын элсэлтийн системтэй байдаг.
+            {{$t("plan.system.p5")}}
         </p>
         
         <div class="p_plan_data">
-            <div class="p_plan_data_title"><span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Дээд боловсролын сургалтын байгууллагын тоог үндэсний, төрийн болон хувийн хэвшлийн байгууллагуудаар</font></font></span></div>
+            <div class="p_plan_data_title"><span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+                {{$t("plan.system.h4")}}
+            </font></font></span></div>
             <table class="p_plan_data_table">
             <thead>
             <tr>
             <td></td>
-            <th scope="col"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Үндэсний</font></font></th>
-            <th scope="col"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">олон нийтийн</font></font></th>
-            <th scope="col"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">хувийн</font></font></th>
-            <th scope="col"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Нийт</font></font></th>
+            <th scope="col"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">{{$t("plan.system.th1")}}</font></font></th>
+            <th scope="col"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">{{$t("plan.system.th2")}}</font></font></th>
+            <th scope="col"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">{{$t("plan.system.th3")}}</font></font></th>
+            <th scope="col"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">{{$t("plan.system.th4")}}</font></font></th>
             </tr>
             </thead>
             <tbody>
             <tr>
-            <th scope="row"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">төгсөх ангийн оюутан</font></font></th>
+            <th scope="row"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">{{$t("plan.system.th5")}}</font></font></th>
             <td style="text-align: center;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">86</font></font></td>
             <td style="text-align: center;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">89</font></font></td>
             <td style="text-align: center;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">482</font></font></td>
             <td style="text-align: center;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">657</font></font></td>
             </tr>
             <tr>
-            <th scope="row"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Их сургууль (факультет)</font></font></th>
+            <th scope="row"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">{{$t("plan.system.th6")}}</font></font></th>
             <td style="text-align: center;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">86</font></font></td>
             <td style="text-align: center;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">101</font></font></td>
             <td style="text-align: center;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">620</font></font></td>
             <td style="text-align: center;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">807</font></font></td>
             </tr>
             <tr>
-            <th scope="row"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ахлах сургууль</font></font></th>
+            <th scope="row"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">{{$t("plan.system.th7")}}</font></font></th>
             <td style="text-align: center;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">0</font></font></td>
             <td style="text-align: center;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">14</font></font></td>
             <td style="text-align: center;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">295</font></font></td>
             <td style="text-align: center;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">309</font></font></td>
             </tr>
             <tr>
-            <th scope="row"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">технологийн коллеж</font></font></th>
+            <th scope="row"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">{{$t("plan.system.th8")}}</font></font></th>
             <td style="text-align: center;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">51</font></font></td>
             <td style="text-align: center;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">3</font></font></td>
             <td style="text-align: center;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">3</font></font></td>
             <td style="text-align: center;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">57</font></font></td>
             </tr>
             <tr>
-            <th scope="row"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Мэргэжлийн сургууль</font></font></th>
+            <th scope="row"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">{{$t("plan.system.th9")}}</font></font></th>
             <td style="text-align: center;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">8</font></font></td>
             <td style="text-align: center;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">180</font></font></td>
             <td style="text-align: center;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2533</font></font></td>
@@ -250,36 +252,30 @@
             </tr>
             </tbody>
             <caption><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
-                Эх сурвалж: “Сургуулийн 2020 оны санхүүгийн жилийн суурь судалгаа” (Боловсрол, соёл, спорт, шинжлэх ухаан, технологийн яам)
+                {{$t("plan.system.c1")}}
             </font></font></caption></table>
         </div>
 
         <div class="m_box">
-            <div class="m_box_heading"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Холбоотой холбоосууд</font></font></div>
+            <div class="m_box_heading"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+                {{$t("plan.system.l1")}}</font></font></div>
             <ul class="m_list m_list_link">
                 <li><a href="https://www.nicjp.niad.ac.jp/japanese-system/index.html" target="_blank" rel="noopener noreferrer"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
-                    Японы боловсролын систем (Дээд боловсролын мэргэшлийг хүлээн зөвшөөрөх мэдээллийн төв (NIC-Япон) HP)
-                </font></font><img src="/public/assets/images/other/event/blank.svg" width="14" height="14" alt="шинэ цонхонд нээх" class="u_icon u_icon_add_blank"></a></li>
+                    {{$t("plan.system.l2")}}                </font></font><img src="/public/assets/images/other/event/blank.svg" width="14" height="14" alt="шинэ цонхонд нээх" class="u_icon u_icon_add_blank"></a></li>
                 <li><a href="https://www.niad.ac.jp/consolidation/international/info/japan.html" target="_blank" rel="noopener noreferrer"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
-                    Япон дахь дээд боловсрол, чанарын баталгааны талаарх үндсэн мэдээлэл (Эрдмийн зэрэг болон их сургуулийн шинэчлэлийг дэмжих үндэсний байгууллага)
-                </font></font><img src="/ja/assets/images/icon/blank.svg" width="14" height="14" alt="шинэ цонхонд нээх" class="u_icon u_icon_add_blank"></a></li>
+                    {{$t("plan.system.l3")}}                </font></font><img src="/ja/assets/images/icon/blank.svg" width="14" height="14" alt="шинэ цонхонд нээх" class="u_icon u_icon_add_blank"></a></li>
                 <li><a href="http://www.mext.go.jp/a_menu/koutou/houjin/houjin.htm" target="_blank" rel="noopener noreferrer"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
-                    Үндэсний их, дээд сургуулийн корпорацуудын тойм (Боловсрол, соёл, спорт, шинжлэх ухаан, технологийн яамны вэбсайт)
-                </font></font><img src="/ja/assets/images/icon/blank.svg" width="14" height="14" alt="шинэ цонхонд нээх" class="u_icon u_icon_add_blank"></a></li>
+                    {{$t("plan.system.l4")}}                </font></font><img src="/ja/assets/images/icon/blank.svg" width="14" height="14" alt="шинэ цонхонд нээх" class="u_icon u_icon_add_blank"></a></li>
                 <li><a href="http://www.mext.go.jp/a_menu/koutou/shiritsu/index.htm" target="_blank" rel="noopener noreferrer"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
-                    Хувийн сургууль, сургуулийн корпорацуудыг сурталчлах (Боловсрол, соёл, спорт, шинжлэх ухаан, технологийн яамны вэбсайт)
-                </font></font><img src="/ja/assets/images/icon/blank.svg" width="14" height="14" alt="шинэ цонхонд нээх" class="u_icon u_icon_add_blank"></a></li>
+                    {{$t("plan.system.l5")}}                </font></font><img src="/ja/assets/images/icon/blank.svg" width="14" height="14" alt="шинэ цонхонд нээх" class="u_icon u_icon_add_blank"></a></li>
                 <li><a href="http://www.mext.go.jp/a_menu/koutou/kouritsu/index.htm" target="_blank" rel="noopener noreferrer"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
-                    Улсын их, дээд сургуулиудын тойм (Боловсрол, соёл, спорт, шинжлэх ухаан, технологийн яамны цахим хуудас)
-                </font></font><img src="/ja/assets/images/icon/blank.svg" width="14" height="14" alt="шинэ цонхонд нээх" class="u_icon u_icon_add_blank"></a></li>
+                    {{$t("plan.system.l6")}}                </font></font><img src="/ja/assets/images/icon/blank.svg" width="14" height="14" alt="шинэ цонхонд нээх" class="u_icon u_icon_add_blank"></a></li>
                 <li><a href="http://www.mext.go.jp/a_menu/koutou/tandai/index.htm" target="_blank" rel="noopener noreferrer"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
-                    Бага коллежийн тойм (Боловсрол, соёл, спорт, шинжлэх ухаан, технологийн яамны цахим хуудас)</font></font><img src="/ja/assets/images/icon/blank.svg" width="14" height="14" alt="шинэ цонхонд нээх" class="u_icon u_icon_add_blank"></a></li>
+                    {{$t("plan.system.l7")}}                </font></font><img src="/ja/assets/images/icon/blank.svg" width="14" height="14" alt="шинэ цонхонд нээх" class="u_icon u_icon_add_blank"></a></li>
                 <li><a href="http://www.mext.go.jp/a_menu/shougai/senshuu/main11_a1.htm" target="_blank" rel="noopener noreferrer"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
-                    Төрөлжсөн мэргэжлийн коллеж, сургуулийн төрөл бүрийн боловсролыг дэмжих (Боловсрол, соёл, спорт, шинжлэх ухаан, технологийн яамны цахим хуудас)
-                </font></font><img src="/ja/assets/images/icon/blank.svg" width="14" height="14" alt="шинэ цонхонд нээх" class="u_icon u_icon_add_blank"></a></li>
+                    {{$t("plan.system.l8")}}                </font></font><img src="/ja/assets/images/icon/blank.svg" width="14" height="14" alt="шинэ цонхонд нээх" class="u_icon u_icon_add_blank"></a></li>
                 <li><a href="http://www.mext.go.jp/a_menu/koutou/kousen/index.htm" target="_blank" rel="noopener noreferrer"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
-                    Технологийн коллежуудын тойм (техникийн коллежууд) (Боловсрол, соёл, спорт, шинжлэх ухаан, технологийн яамны вэбсайт)
-                </font></font><img src="/ja/assets/images/icon/blank.svg" width="14" height="14" alt="шинэ цонхонд нээх" class="u_icon u_icon_add_blank"></a></li>
+                    {{$t("plan.system.l9")}}                </font></font><img src="/ja/assets/images/icon/blank.svg" width="14" height="14" alt="шинэ цонхонд нээх" class="u_icon u_icon_add_blank"></a></li>
             </ul>
         </div>
     </div>

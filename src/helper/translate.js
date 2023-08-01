@@ -392,8 +392,7 @@ const messages = {
 
         },
         plan :{ 
-
-        system:{
+          system:{
             h1:"Японы боловсролын систем",
             p1:"Японд дээд боловсрол нь 12 жил бага боловсрол (6 жил бага сургууль), дунд боловсрол (3 жил бага дунд сургууль, 3 жил ахлах сургууль) төгссөний дараа эхэлдэг. Гадаад оюутнууд элсэх боломжтой таван дээд боловсролын байгууллага байдаг: (1) техникийн коллеж, (2) төрөлжсөн сургалтын коллеж (мэргэжлийн курс) = мэргэжлийн сургууль, (3) бага коллеж, (4) их дээд сургууль, (5) төгсөлтийн сургууль, үндэсний, төрийн болон хувийн хэвшлийн байгууллагууд гэж ойролцоогоор хуваагддаг. нэмэгдүүлэх.",
             h2:"Боловсролын систем",
@@ -459,13 +458,40 @@ const messages = {
             tr55:"4 жил",
             tr56:"Диплом*",
             tr57:"2-3 жил",
-        },    
-        choosestyle:{
-                m1:"Засгийн газраас ивээн тэтгэдэг гадаад оюутан",              
-        },
 
+            p3:"*1 Төгсөлтийн сургуулийн докторантурын хөтөлбөрийг эхний улирал (хоёр жил), хоёрдугаар улирал (гурван жил) гэж хувааж болно. Анагаах ухаан, шүд, мал эмнэлгийн бакалаврын курс зургаан жил, эмийн сангийн зургаан жилийн курс дөрвөн жил үргэлжилнэ.",
+            pp4:"*2 Магистр, докторын сургалтыг стандартын дагуу зааж өгсөн болно. ",
+            p4:" *3 Техникийн коллежид суралцах хугацаа нь ихэвчлэн таван жил байдаг (худалдааны хөлөг онгоцны хувьд таван жил хагас). Олон улсын оюутнуудыг 3-р курст хүлээн авна. ",
+            p5:"Японы сургуулиудад хичээлийн жил ихэвчлэн дараа жилийн 4-р сараас 3-р сар хүртэл байдаг . Олон дээд боловсролын сургуулиуд семестрийн системийг ашигладаг. Урт амралт нь ихэвчлэн жилд гурван удаа байдаг: зун (7-р сарын сүүлээс 9-р сарын эхээр), өвөл (12-р сарын сүүлээс 1-р сарын эхээр), хавар (2-р сараас 3-р сарын). Японы ихэнх сургуулиуд 4-р сард эхэлдэг ч зарим сургуулиуд намрын элсэлтийн системтэй байдаг.",
             
+            h4:"Дээд боловсролын сургалтын байгууллагын тоог үндэсний, төрийн болон хувийн хэвшлийн байгууллагуудаар ",
+            th1:"Үндэсний",
+            th2:"олон нийтийн",
+            th3:"хувийн",
+            th4:"Нийт",
+            th5:"төгсөх ангийн оюутан",
+            th6:"Их сургууль (факультет)",
+            th7:"ахлах сургууль",
+            th8:"технологийн коллеж",
+            th9:"Мэргэжлийн сургууль",
+        
+            c1:"Эх сурвалж: “Сургуулийн 2020 оны санхүүгийн жилийн суурь судалгаа” (Боловсрол, соёл, спорт, шинжлэх ухаан, технологийн яам)",
+            l1:"Холбоотой холбоосууд",
+            l2:"Японы боловсролын систем (Дээд боловсролын мэргэшлийг хүлээн зөвшөөрөх мэдээллийн төв (NIC-Япон) HP)",
+            l3:"Япон дахь дээд боловсрол, чанарын баталгааны талаарх үндсэн мэдээлэл (Эрдмийн зэрэг болон их сургуулийн шинэчлэлийг дэмжих үндэсний байгууллага)",
+            l4:"Үндэсний их, дээд сургуулийн корпорацуудын тойм (Боловсрол, соёл, спорт, шинжлэх ухаан, технологийн яамны вэбсайт)",
+            l5:" Хувийн сургууль, сургуулийн корпорацуудыг сурталчлах (Боловсрол, соёл, спорт, шинжлэх ухаан, технологийн яамны вэбсайт)",
+            l6:"Улсын их, дээд сургуулиудын тойм (Боловсрол, соёл, спорт, шинжлэх ухаан, технологийн яамны цахим хуудас)",
+            l7:"Бага коллежийн тойм (Боловсрол, соёл, спорт, шинжлэх ухаан, технологийн яамны цахим хуудас)",
+            l8:"Төрөлжсөн мэргэжлийн коллеж, сургуулийн төрөл бүрийн боловсролыг дэмжих (Боловсрол, соёл, спорт, шинжлэх ухаан, технологийн яамны цахим хуудас)",
+            l9:"Технологийн коллежуудын тойм (техникийн коллежууд) (Боловсрол, соёл, спорт, шинжлэх ухаан, технологийн яамны вэбсайт)",
+            },    
+          knowSchools:{
 
+            },
+          choosestyle:{
+                m1:"Засгийн газраас ивээн тэтгэдэг гадаад оюутан",              
+            },
         },
 
     },
@@ -836,9 +862,8 @@ const messages = {
 
 
         },
-        plan :{    
-            
-        system:{
+        plan :{      
+          system:{
             h1:"Japanese Educational System",
             p1:"In Japan, higher education starts upon the completion of 12 years of education: elementary education (6 years of elementary school) and secondary education (3 years of lower secondary school and 3 years of upper secondary school).There are 5 types of higher education institutions that international students can be admitted to, which are 1) colleges of technology, 2) vocational schools (postsecondary course of specialized training colleges), 3) junior colleges, 4) universities (undergraduate) and 5) graduate schools. Depending on the founding bodies, these higher education institutions are categorized into three types: national, local public and private.",
             h2:"Educational System",
@@ -875,7 +900,6 @@ const messages = {
             tr28:"124 credits or more",
             tr29:"Faculties of medicine, dentistry, veterinary and pharmacy (6-year program)",
             tr30:"6 years",
-            
             tr31:"Medicine and dentistry: 188 credits or more ",
             tr32:"Veterinary: 182 credits or more",
             tr33:"Pharmacy: 186 credits or more",
@@ -903,13 +927,40 @@ const messages = {
             tr55:"4 years",
             tr56:"Diploma",
             tr57:"2 to 3 years",
-            },
+
+            p3:"*1 Graduate school doctoral programs are sometimes divided into the first phase (two years) and second phase (three years). The required period of undergraduate study in medicine, dentistry and veterinary and certain pharmaceutical programs is six years, and the duration of their graduate (doctoral) program is four years.",
+            pp4:"*2 Master's and doctoral programs list the standard number of years.",
+            p4:"*3 The required period of study at a college of technology is normally five years, yet international students are accepted from the third year.",
+            p5:"Most higher educational institutions in Japan set their academic year from April to March of the following year. Many institutions use the semester system. The long holiday seasons are usually in the summer (late July to early September), winter (late December to early January) and spring (February to March). In Japan, most schools admit students in April, but some schools have an autumn admission system.",
             
+            h4:"Number of higher education institutions",
+            th1:"National",
+            th2:"Local public",
+            th3:"Private",
+            th4:"Total",
+            th5:"Graduate schools",
+            th6:"Universities (Undergraduate)",
+            th7:"Junior colleges",
+            th8:"Colleges of technology",
+            th9:"Professional training colleges",
 
+            c1:"Source: School Basic Survey 2022 (Ministry of Education, Culture, Sports, Science and Technology)",
+            l1:"Related links",
+            l2:"About the Japanese education system (National Information Center for Academic Recognition Japan (NIC-Japan) website)",
+            l3:"Basic Information on Higher Education and Quality Assurance in Japan (National Institution for Academic Degrees and Quality Enhancement of Higher Education)",
+            l4:"Outline of the National Universities(MEXT) ",
+            l5:"Promotion of the Private Universities（MEXT)",
+            l6:"Outline of the Public Universities（MEXT)",
+            l7:"Outline of the Junior Colleges（MEXT)",
+            l8:"Promotion of the Specialized Training Colleges and Miscellaneous School（MEXT)",
+            l9:"Outline of the Colleges of Technology（MEXT)",
+            },
+          knowSchools:{
 
-        choosestyle:{
+            },
+          choosestyle:{
                 m1:"Types of Japanese Government (MEXT) Scholarships",              
-        },
+            },
         },
 
     },
@@ -1278,8 +1329,7 @@ const messages = {
 
         },
         plan :{ 
-
-        system:{
+          system:{
             h1:"日本の教育制度",
             p1:"日本の高等教育は、初等教育（小学校6年間）及び中等教育（中学校3年間、高等学校3年間）の12年間を修了してから始まります。留学生が入学可能な高等教育機関としては、①高等専門学校、②専修学校（専門課程）＝専門学校、③短期大学、④大学、⑤大学院の5つがあり、国立・公立・私立に大別されます。",
             h2:"教育制度",
@@ -1342,15 +1392,41 @@ const messages = {
             tr54:"高度専門士*",
             tr55:"4年",
             tr56:"専門士*",
-            tr57:"2～3年",   
- 
-            },
+            tr57:"2～3年", 
             
+            p3:"*1 大学院博士課程は前期課程（2年）と、後期課程（3年）に分かれている場合があります。学士課程の修業年限が6年の医学・歯学・獣医学、6年制の薬学は博士課程の修業年限が４年です。",
+            pp4:"*2 修士課程と博士課程は標準的な年限として記載しています。",
+            p4:"*3 高等専門学校の修業年限は通常5年（商船は5年半）です。留学生は第3学年への受け入れとなります。",
+            p5:"日本の学校は、通常4月から翌年3月までを1学年としています。高等教育機関の多くの学校がセメスター制を取り入れています。長期休暇は通常、夏（7月下旬～9月上旬）、冬（12月下旬～1月上旬）、春（2～3月）の年3回です。日本ではほとんどの学校が4月入学ですが、秋入学の制度を持つ学校もあります。",
+            
+            h4:"国公私立別高等教育機関数",
+            th1:"国立",
+            th2:"公立",
+            th3:"私立",
+            th4:"計",
+            th5:"大学院",
+            th6:"大学（学部）",
+            th7:"短期大学",
+            th8:"高等専門学校",
+            th9:"専門学校",
 
+            c1:"出典：「令和4年度学校基本調査」（文部科学省）",
+            l1:"関連リンク",
+            l2:"日本の教育制度について（高等教育資格承認情報センター（NIC-Japan）HP）",
+            l3:"日本の高等教育・質保証の基本情報（独立行政法人大学改革支援・学位授与機構）",
+            l4:"国立大学法人の概要（文部科学省HP）",
+            l5:"私立学校・学校法人の振興（文部科学省HP）",
+            l6:"公立大学の概要（文部科学省HP）",
+            l7:"短期大学の概要（文部科学省HP）",
+            l8:"専修学校・各種学校教育の振興（文部科学省HP）",
+            l9:"高等専門学校（高専）の概要（文部科学省HP）",
+            },
+          knowSchools:{
 
-        choosestyle:{
+            },
+          choosestyle:{
                 m1:"Засгийн газраас ивээн тэтгэдэг гадаад оюутан",              
-        },
+            },
         },
     }
 }
