@@ -1,5 +1,6 @@
 <template>
   <div class="p_top_mainvisual">
+<!--    <Search />-->
     <VueSlickCarousel :arrows="true" :dots="true" :autoplay="true" :autoplaySpeed="4000">
 
       <span class="p_top_mainvisual_slider_item"><img src="_mt/2020/05/kv_02.jpg" alt=""></span>
@@ -22,9 +23,10 @@
 import VueSlickCarousel from 'vue-slick-carousel'
 import 'vue-slick-carousel/dist/vue-slick-carousel.css'
 import 'vue-slick-carousel/dist/vue-slick-carousel-theme.css'
+// import Search from "@/components/Search.vue";
 export default {
   name: "Slider",
-  components: { VueSlickCarousel },
+  components: {VueSlickCarousel },
 }
 </script>
 <style scoped>

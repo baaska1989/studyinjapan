@@ -4,7 +4,7 @@
     <slider />
 
     <section class="p_top_menu">
-      <h2 class="p_top_heading p_top_heading_menu"><span>хэрэглэгчийг хэлбэрээр ангилсан цэс</span></h2>
+      <h2 class="p_top_heading p_top_heading_menu"><span>Хэрэглэгчийг хэлбэрээр ангилсан цэс</span></h2>
       <div class="p_top_menu_list">
         <a class="p_top_menu_list_item p_top_menu_button" href="nav-applicants-for-study-abroad.html">Японд суралцахыг хүссэн танаа</a>
         <a class="p_top_menu_list_item p_top_menu_button is_purple" href="nav-studying-in-japan.html">Японд суралцаж буй танаа</a>
