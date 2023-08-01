@@ -6,7 +6,7 @@
 
     <main class="l_container_main_body">
 
-    <h1 class="m_section_heading m_heading_lv1"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Засгийн газраас ивээн тэтгэдэг гадаад оюутан</font></font></h1>
+    <h1 class="m_section_heading m_heading_lv1"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">{{$t("plan.choosestyle.m1")}}</font></font></h1>
         <div class="m_section wysiwyg">
             <div class="m_column m_column_col3">
                 <router-link class="m_column_item m_card_link m_card_link_pink" to="/plan/style/government/type">
