@@ -1584,4 +1584,4 @@ const messages = {
         },
     }
 }
-export default message;
+export default messages;

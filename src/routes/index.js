@@ -2,7 +2,6 @@ import Vue from "vue";
 import Router from 'vue-router';
 import Layout from '../views/layouts/Layout.vue';
 
-
 import PageNotFound from "@/views/pages/404.vue";
 Vue.use(Router);
 

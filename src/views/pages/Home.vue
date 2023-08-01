@@ -1,7 +1,7 @@
 <template>
   <main class="l_container_main_body">
 
-    <slider />
+    <Slider />
 
     <section class="p_top_menu">
       <h2 class="p_top_heading p_top_heading_menu"><span>{{ $t("homePage.title1") }}</span></h2>
