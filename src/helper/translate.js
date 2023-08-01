@@ -74,6 +74,16 @@ const messages = {
             sb84: "Хөдөлмөр эрхлэхтэй холбогдуулан оршин суух зөвшөөрлийн ангилал өөрчлөх тухай",
 
         },
+        homePage: {
+            title1: "хэрэглэгчийг хэлбэрээр ангилсан цэс",
+            text1_1: "Японд суралцахыг хүссэн танаа",
+            text1_2: "Японд суралцаж буй танаа",
+            text1_3: "Японд суралцаж төгссөн танаа",
+            title2: "Сургууль хайх (зөвхөн англи хэлээр)",
+            text2_1: "Сургууль хайх",
+            text2_2: "Тэтгэлэг хайх",
+            text2_3: "Богино хугацааны хөтөлбөр",
+        },
         partTime: {
             head_title: "Цагийн ажил",
             text1: "Хувийн зардлаар сурдаг гадаад оюутнуудын 67% нь цагийн ажил хийдэг бөгөөд сард дунджаар 59,000 иэн (413 ам. доллар)-н цалинтай байдаг. Цагийн ажил хийснээр сургалтын бүх төлбөр, амьжиргааны зардлыг нөхөх боломжгүй тул цагийн ажилд найдахгүйгээр санхүүгийн төлөвлөгөө гаргах хэрэгтэй.",
@@ -552,6 +562,16 @@ const messages = {
             sb82: "Professional practice",
             sb83: "Getting a job in Japan",
             sb84: "About changing the category of residence permit in connection with employment",
+        },
+        homePage: {
+            title1: "Menu by type of user",
+            text1_1: "For those who wish to study in Japan",
+            text1_2: "For those studying in Japan",
+            text1_3: "For those who finsihed studying in Japan",
+            title2: "Find schools",
+            text2_1: "Search schools",
+            text2_2: "Search scholarships",
+            text2_3: "Search short-term program",
         },
         partTime: {
             head_title: "Part-time Work",
@@ -1089,6 +1109,16 @@ const messages = {
             sb82: "専門的診療",
             sb83: "日本で就職する",
             sb84: "雇用に伴う在留資格の変更について",
+        },
+        homePage: {
+            title1: "対象者別メニュー",
+            text1_1: "日本への留学を希望する方へ」、",
+            text1_2: "日本に留学している方へ",
+            text1_3: "日本留学を終えた方へ",
+            title2: "学校検索",
+            text2_1: "学校を探す",
+            text2_2: "奨学金を探す",
+            text2_3: "短期プログラムを探す",
         },
         partTime: {
             head_title: "アルバイト",
