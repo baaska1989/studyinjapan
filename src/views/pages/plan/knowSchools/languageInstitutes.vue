@@ -6,74 +6,82 @@
 
   <main class="l_container_main_body">
 
-    <h1 class="m_section_heading m_heading_lv1">Япон хэлний байгууллага</h1>
+    <h1 class="m_section_heading m_heading_lv1">{{$t("plan.knowSchools.languageInstitutes.h1")}}</h1>
 
     <div class="m_section wysiwyg">
-        <p>Төрөлх хэл нь япон хэлгүй хүмүүст япон хэл заадаг байгууллага. Япон хэл сурсны дараа их сургуульд орох хүсэлтэй хүмүүст болон бизнесийн япон хэл сурах хүсэлтэй хүмүүст зориулсан сургалтын зорилго бүрт тохирсон сургалтууд байдаг.
-            Японы их дээд сургууль, мэргэжлийн сургуулиудын хичээлээс хоцрохгүйн тулд Япон хэлний түвшин тогтоох шалгалтын N1 эсвэл N2 шалгалтыг өгөх чадвартай байх шаардлагатай. Энэ нь 600-аас 900 гаруй цаг хичээллэх түвшин гэж ярьдаг.</p>
+        <p>
+            {{$t("plan.knowSchools.languageInstitutes.p1")}}
+        </p>
         <div>
-            <h2>Япон хэлний боловсрол олгодог байгууллагууд</h2>
+            <h2>{{$t("plan.knowSchools.languageInstitutes.h2")}}</h2>
             <div>
-                <h3>1. Япон хэлний сургууль</h3>
-                <p>Сургуулийн корпораци эсвэл корпорацийн байгуулсан сургуулиуд. Улсын хэмжээнд 600 орчим япон хэлний сургууль байдаг бөгөөд 60,000 орчим хүн япон хэл сурч байна. </p>
-                <h3 style="color: palevioletred">онцлог</h3>
+                <h3>{{$t("plan.knowSchools.languageInstitutes.h3")}}</h3>
+                <p>
+                    {{$t("plan.knowSchools.languageInstitutes.p2")}}                </p>
+                <h3 style="color: palevioletred">{{$t("plan.knowSchools.languageInstitutes.h4")}}</h3>
                 <ul>
-                    <li>Япон хэлний анхан шатны сургалтаас гадна дээд боловсролд элсэх курс, бизнесийн япон хэлний курс зэрэг төрөл бүрийн сургалтууд байдаг.</li>
-                    <li>Хэрэв та өөрийн улсад 12-оос доош жил дунд боловсрол эзэмшсэн бол " Бэлтгэл курс *1 " -тэй Япон хэлний сургуульд суралцаж их дээд сургуульд суралцах боломжтой .</li>
-                    <li>Дөрөв , аравдугаар сард элсэлт авдаг . (Зарим сургуулиуд 1, 7-р сард хичээллэдэг.)</li>
+                    <li>
+                        {{$t("plan.knowSchools.languageInstitutes.l1")}}                    </li>
+                    <li>
+                        {{$t("plan.knowSchools.languageInstitutes.l2")}}                    </li>
+                    <li>
+                        {{$t("plan.knowSchools.languageInstitutes.l3")}}                    </li>
                 </ul>
                 <p>
-                    (Тайлбар) "Оюутан"-ын оршин суугаа газрын статусыг зөвхөн Хууль зүйн сайдын томилсон япон хэлний боловсролын байгууллагуудад олон нийтэд зарласан байдлаар авах боломжтой.
-                </p>
+                    {{$t("plan.knowSchools.languageInstitutes.p3")}}                </p>
                 <p>
-                    *1 Бэлтгэл сургалт: Японы их дээд сургуульд элсэн орохын тулд ердийн сургуулийн 12 дахь жилийг төгссөн байх шаардлагатай. Хэрэв та өөрийн улсад 12-оос доош жил дунд боловсрол эзэмшсэн бол БСШУСЯ-наас тогтоосон “Бэлтгэл боловсролын дамжаа”-г дүүргэснээр их, дээд сургуульд элсэх эрх авах боломжтой. Бэлтгэл боловсролын сургалтанд оюутнууд зөвхөн япон хэл төдийгүй их дээд сургуульд элсэн ороход шаардлагатай үндсэн хичээлүүдийг судалдаг.
-                </p>
-                <p><span style="color: #000000; font-size: 16px;"><a href="/ja/_mt/2021/10/junbi_20190527_1.xlsx" target="_blank" download=""><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">＞Бэлтгэл сургалтын хөтөлбөрийн жагсаалт</font></font><img src="/ja/assets/images/icon/xlsx.png" width="14" height="14" alt="エクセルファイルをダウンロードする" class="u_icon u_icon_add_blank"></a></span></p>
+                    {{$t("plan.knowSchools.languageInstitutes.p4")}}                </p>
+                <p><span style="color: #000000; font-size: 16px;"><a href="/ja/_mt/2021/10/junbi_20190527_1.xlsx" target="_blank" download=""><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+                    {{$t("plan.knowSchools.languageInstitutes.p5")}}                </font></font><img src="/ja/assets/images/icon/xlsx.png" width="14" height="14" alt="エクセルファイルをダウンロードする" class="u_icon u_icon_add_blank"></a></span></p>
             </div>
             <div>
-                <h3>2. Төрөлжсөн сургалтын сургуулийн Япон хэлний курс</h3>
-                <p>Үүнийг мужийн захирагч тус бүрээр зөвшөөрөгдсөн мэргэжлийн сургалтын коллежид суулгадаг.</p>
-                <h3 style="color: palevioletred;">онцлог</h3>
+                <h3>{{$t("plan.knowSchools.languageInstitutes.h5")}}</h3>
+                <p>{{$t("plan.knowSchools.languageInstitutes.p6")}}</p>
+                <h3 style="color: palevioletred;">{{$t("plan.knowSchools.languageInstitutes.h4")}}</h3>
                 <ul>
-                    <li>Дөрөв, аравдугаар сард элсэлт авдаг.</li>
-                    <li>Япон хэлний анхан шатны сургалтаас гадна дээд боловсролд элсэн орох курсууд байдаг.</li>
-                    <li>Мэргэжлийн сургуулийн сурагчийн хувьд та оюутны хөнгөлөлт гэх мэт хөнгөлөлт эдлэх боломжтой.</li>
+                    <li>{{$t("plan.knowSchools.languageInstitutes.l4")}}</li>
+                    <li>{{$t("plan.knowSchools.languageInstitutes.l5")}}</li>
+                    <li>{{$t("plan.knowSchools.languageInstitutes.l6")}}</li>
                 </ul>
                 <p>
-                    (Тайлбар) "Оюутан"-ын оршин суугаа газрын статусыг зөвхөн Хууль зүйн сайдын томилсон сургуулиудад нийтэд зарлах замаар авах боломжтой.
-                </p>
+                    {{$t("plan.knowSchools.languageInstitutes.p7")}}                </p>
             </div>
         </div>    
         <div>
-            <h2>Сургуулийн хайлт</h2>
-            <p>Сургууль бүр өөр өөрийн онцлог шинж чанартай бөгөөд элсэлтийн шалгуур үзүүлэлтүүд өөр өөр байдаг тул дараах сайт эсвэл EXCEL программыг ашиглан өөрийн зорилгод тохирсон сургуулийг хайж олоорой.</p>
-                <h3 style="color: palevioletred;">Сургууль хайх зөвлөгөө!</h3>
+            <h2>{{$t("plan.knowSchools.languageInstitutes.h6")}}</h2>
+            <p>
+                {{$t("plan.knowSchools.languageInstitutes.p8")}}            </p>
+                <h3 style="color: palevioletred;">{{$t("plan.knowSchools.languageInstitutes.h7")}}</h3>
                 <ul>
-                    <li>Хууль зүйн сайдын тушаалаар олон нийтэд зарласан Япон хэлний сургалтын байгууллага мөн үү? (Япон хэлний сургууль, төрөлжсөн сургалтын коллежийн япон хэлний тэнхимийн хувьд)</li>
-                    <li>Буцаан олголтын бодлогыг вэбсайт эсвэл өргөдлийн маягт дээр нарийвчлан тусгасан уу?</li>
-                    <li>Би өөрийн сургалтын зорилгод нийцсэн хичээлд хамрагдах боломжтой юу?</li>
-                    <li>Ангийн түвшин, нэг ангид хэдэн сурагч байдаг вэ?</li>
-                    <li>Та олон улсын оюутнуудад зориулсан Японы их дээд сургуулийн элсэлтийн шалгалт (EJU) эсвэл Япон хэлний түвшин тогтоох шалгалтад (JLPT) бэлдэж байна уу?</li>
-                    <li>Төгсөгчид хаана сургуульд сурдаг вэ? Та ажил мэргэжлийн зөвлөгөө, амьдралын хэв маягийн зөвлөгөө өгдөг үү?</li>
-                    <li>Сургуулийн дотуур байр байна уу, дотуур байр байна уу?</li>
+                    <li>{{$t("plan.knowSchools.languageInstitutes.l7")}}</li>
+                    <li>{{$t("plan.knowSchools.languageInstitutes.l8")}}</li>
+                    <li>{{$t("plan.knowSchools.languageInstitutes.l9")}}</li>
+                    <li>{{$t("plan.knowSchools.languageInstitutes.l10")}}</li>
+                    <li>{{$t("plan.knowSchools.languageInstitutes.l11")}}</li>
+                    <li>{{$t("plan.knowSchools.languageInstitutes.l12")}}</li>
+                    <li>{{$t("plan.knowSchools.languageInstitutes.l13")}}</li>
                 </ul>
                 <p>
-                    (Тайлбар) "Оюутан"-ын оршин суугаа газрын статусыг зөвхөн Хууль зүйн сайдын томилсон сургуулиудад нийтэд зарлах замаар авах боломжтой.
-                </p>
-                <p><span style="color: #000000;"><strong></strong><a href="https://www.nisshinkyo.org/search/" target="_blank" rel="noopener noreferrer"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">＞Япон хэлний боловсролыг дэмжих нийгэмлэг</font></font><img src="/ja/assets/images/icon/blank.svg" width="14" height="14" alt="新しいウインドウで開く" class="u_icon u_icon_add_blank"></a></span></p>
-                <p><span style="color: #3366ff;"><a href="http://www.jalsa.jp/" target="_blank" rel="noopener noreferrer"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">＞ Япон хэлний бүх сургуулиудын холбоо (JaLSA)</font></font><img src="/ja/assets/images/icon/blank.svg" width="14" height="14" alt="新しいウインドウで開く" class="u_icon u_icon_add_blank"></a></span></p>
-                <p><span style="color: #000000;"><a href="http://www.moj.go.jp/isa/laws/nyukan_nyukanho_ho28-2.html" target="_blank" rel="noopener noreferrer"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">＞Мэдэгдэл өгсөн сургуулиудын жагсаалт Хууль зүйн яам</font></font><img src="/ja/assets/images/icon/blank.svg" width="14" height="14" alt="新しいウインドウで開く" class="u_icon u_icon_add_blank"></a></span></p>
-                <p><a href="/ja/_mt/2021/11/bekka2020ja.xlsx" target="_blank" download=""><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">＞Олон улсын оюутны тусгай курс хайх</font></font><img src="/ja/assets/images/icon/xlsx.png" width="14" height="14" alt="エクセルファイルをダウンロードする" class="u_icon u_icon_add_blank"></a></p>
+                    {{$t("plan.knowSchools.languageInstitutes.p8")}}                </p>
+                <p><span style="color: #000000;"><strong></strong><a href="https://www.nisshinkyo.org/search/" target="_blank" rel="noopener noreferrer"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+                    {{$t("plan.knowSchools.languageInstitutes.p9")}}</font></font><img src="/ja/assets/images/icon/blank.svg" width="14" height="14" alt="新しいウインドウで開く" class="u_icon u_icon_add_blank"></a></span></p>
+                <p><span style="color: #3366ff;"><a href="http://www.jalsa.jp/" target="_blank" rel="noopener noreferrer"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+                    {{$t("plan.knowSchools.languageInstitutes.p10")}}</font></font><img src="/ja/assets/images/icon/blank.svg" width="14" height="14" alt="新しいウインドウで開く" class="u_icon u_icon_add_blank"></a></span></p>
+                <p><span style="color: #000000;"><a href="http://www.moj.go.jp/isa/laws/nyukan_nyukanho_ho28-2.html" target="_blank" rel="noopener noreferrer"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+                    {{$t("plan.knowSchools.languageInstitutes.p11")}}</font></font><img src="/ja/assets/images/icon/blank.svg" width="14" height="14" alt="新しいウインドウで開く" class="u_icon u_icon_add_blank"></a></span></p>
+                <p><a href="/ja/_mt/2021/11/bekka2020ja.xlsx" target="_blank" download=""><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+                    {{$t("plan.knowSchools.languageInstitutes.p12")}}</font></font><img src="/ja/assets/images/icon/xlsx.png" width="14" height="14" alt="エクセルファイルをダウンロードする" class="u_icon u_icon_add_blank"></a></p>
         </div>
         <div>
-            <h2>Өргөдөл гаргах баримт бичиг</h2>
-            <p>Шаардлагатай үндсэн баримт бичгүүдийг доор харуулав. Бүрдүүлэх бичиг баримт болон элсэлтийн шалгуур нь сургуулиас шалтгаалаад өөр өөр байдаг тул хүссэн сургуультайгаа холбогдож дэлгэрэнгүй мэдээлэл авна уу.</p>
+            <h2>{{$t("plan.knowSchools.languageInstitutes.h17")}}</h2>
+            <p>
+                {{$t("plan.knowSchools.languageInstitutes.p13")}}            </p>
                 <ul>
-                    <li>Элсэлтийн өргөдөл / анкет (сургуулиас томилогдсон)</li>
-                    <li>Төгссөн боловсролын талаархи (хүлээгдэж буй) гэрчилгээ</li>
-                    <li>Эцсийн академик транскрипт</li>
-                    <li>Зардал төлөх чадварыг нотлох баримт бичиг</li>
-                    <li>бусад</li>
+                    <li>{{$t("plan.knowSchools.languageInstitutes.l14")}}</li>
+                    <li>{{$t("plan.knowSchools.languageInstitutes.l15")}}</li>
+                    <li>{{$t("plan.knowSchools.languageInstitutes.l16")}}</li>
+                    <li>{{$t("plan.knowSchools.languageInstitutes.l17")}}</li>
+                    <li>{{$t("plan.knowSchools.languageInstitutes.l18")}}</li>
                 </ul>
         </div>
     </div>
