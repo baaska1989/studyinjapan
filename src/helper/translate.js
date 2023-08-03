@@ -493,27 +493,22 @@ const messages = {
                     p1:"Төрөлх хэл нь япон хэлгүй хүмүүст япон хэл заадаг байгууллага. Япон хэл сурсны дараа их сургуульд орох хүсэлтэй хүмүүст болон бизнесийн япон хэл сурах хүсэлтэй хүмүүст зориулсан сургалтын зорилго бүрт тохирсон сургалтууд байдаг.Японы их дээд сургууль, мэргэжлийн сургуулиудын хичээлээс хоцрохгүйн тулд Япон хэлний түвшин тогтоох шалгалтын N1 эсвэл N2 шалгалтыг өгөх чадвартай байх шаардлагатай. Энэ нь 600-аас 900 гаруй цаг хичээллэх түвшин гэж ярьдаг.",
                     h2:"Япон хэлний боловсрол олгодог байгууллагууд",            
                     h3:"1. Япон хэлний сургууль",
-                    p2:"Сургуулийн корпораци эсвэл корпорацийн байгуулсан сургуулиуд. Улсын хэмжээнд 600 орчим япон хэлний сургууль байдаг бөгөөд 60,000 орчим хүн япон хэл сурч байна.",
-                    
+                    p2:"Сургуулийн корпораци эсвэл корпорацийн байгуулсан сургуулиуд. Улсын хэмжээнд 600 орчим япон хэлний сургууль байдаг бөгөөд 60,000 орчим хүн япон хэл сурч байна.",                    
                     h4:"онцлог",
-                    l1:"Япон хэлний анхан шатны сургалтаас гадна дээд боловсролд элсэх курс, бизнесийн япон хэлний курс зэрэг төрөл бүрийн сургалтууд байдаг.",
-                    
+                    l1:"Япон хэлний анхан шатны сургалтаас гадна дээд боловсролд элсэх курс, бизнесийн япон хэлний курс зэрэг төрөл бүрийн сургалтууд байдаг.",  
                     l2:"Хэрэв та өөрийн улсад 12-оос доош жил дунд боловсрол эзэмшсэн бол ''Бэлтгэл курс *1 '' -тэй Япон хэлний сургуульд суралцаж их дээд сургуульд суралцах боломжтой .",
                     l3:" Дөрөв , аравдугаар сард элсэлт авдаг . (Зарим сургуулиуд 1, 7-р сард хичээллэдэг.)",           
                     p3:"(Тайлбар) 'Оюутан'-ын оршин суугаа газрын статусыг зөвхөн Хууль зүйн сайдын томилсон япон хэлний боловсролын байгууллагуудад олон нийтэд зарласан байдлаар авах боломжтой.",
                     p4:" *1 Бэлтгэл сургалт: Японы их дээд сургуульд элсэн орохын тулд ердийн сургуулийн 12 дахь жилийг төгссөн байх шаардлагатай. Хэрэв та өөрийн улсад 12-оос доош жил дунд боловсрол эзэмшсэн бол БСШУСЯ-наас тогтоосон “Бэлтгэл боловсролын дамжаа”-г дүүргэснээр их, дээд сургуульд элсэх эрх авах боломжтой. Бэлтгэл боловсролын сургалтанд оюутнууд зөвхөн япон хэл төдийгүй их дээд сургуульд элсэн ороход шаардлагатай үндсэн хичээлүүдийг судалдаг.",
                     p5:">Бэлтгэл сургалтын хөтөлбөрийн жагсаалт",
-                    
                     h5:"2. Төрөлжсөн сургалтын сургуулийн Япон хэлний курс",
                     p6:"Үүнийг мужийн захирагч тус бүрээр зөвшөөрөгдсөн мэргэжлийн сургалтын коллежид суулгадаг.",
                     l4:"Дөрөв, аравдугаар сард элсэлт авдаг.",
                     l5:"Япон хэлний анхан шатны сургалтаас гадна дээд боловсролд элсэн орох курсууд байдаг.",
                     l6:"Мэргэжлийн сургуулийн сурагчийн хувьд та оюутны хөнгөлөлт гэх мэт хөнгөлөлт эдлэх боломжтой.",
                     p7:"(Тайлбар) 'Оюутан'-ын оршин суугаа газрын статусыг зөвхөн Хууль зүйн сайдын томилсон сургуулиудад нийтэд зарлах замаар авах боломжтой.",
-
                     h6:"3. Сургуулийн хайлт",
                     p8:"Сургууль бүр өөр өөрийн онцлог шинж чанартай бөгөөд элсэлтийн шалгуур үзүүлэлтүүд өөр өөр байдаг тул дараах сайт эсвэл EXCEL программыг ашиглан өөрийн зорилгод тохирсон сургуулийг хайж олоорой.",
-
                     h7:"Сургууль хайх зөвлөгөө!",
                     l7:"Хууль зүйн сайдын тушаалаар олон нийтэд зарласан Япон хэлний сургалтын байгууллага мөн үү? (Япон хэлний сургууль, төрөлжсөн сургалтын коллежийн япон хэлний тэнхимийн хувьд)",
                     l8:"Буцаан олголтын бодлогыг вэбсайт эсвэл өргөдлийн маягт дээр нарийвчлан тусгасан уу?",
@@ -522,7 +517,6 @@ const messages = {
                     l11:"Та олон улсын оюутнуудад зориулсан Японы их дээд сургуулийн элсэлтийн шалгалт (EJU) эсвэл Япон хэлний түвшин тогтоох шалгалтад (JLPT) бэлдэж байна уу?",
                     l12:"Төгсөгчид хаана сургуульд сурдаг вэ? Та ажил мэргэжлийн зөвлөгөө, амьдралын хэв маягийн зөвлөгөө өгдөг үү?",
                     l13:"Сургуулийн дотуур байр байна уу, дотуур байр байна уу?",
-
                     p9:"＞Япон хэлний боловсролыг дэмжих нийгэмлэг",
                     p10:"＞ Япон хэлний бүх сургуулиудын холбоо (JaLSA)",
                     p11:"＞Мэдэгдэл өгсөн сургуулиудын жагсаалт Хууль зүйн яам",
@@ -561,7 +555,6 @@ const messages = {
                     p5:" ①-ээс ③-ийн тухайд, хэрэв курс нь 12 жилээс бага бол тухайн сургалтын бэлтгэлийн курс эсвэл сургалтын байгууламжийн курст хамрагдах шаардлагатай.",
                     h5:"Сургуулийн хайлт",
                     h6:"Мэргэжлийн сургууль сонгох зөвлөмж!",
-
                     td1:"Зүйлийг шалгана уу",
                     td2:"дэлгэрэнгүй",
                     td3:"албан ёсоор магадлан итгэмжлэгдсэн сургууль",
@@ -579,16 +572,13 @@ const messages = {
                     td15:"Нэгдүгээр жилийн сургалтын төлбөр, төгсөлтийн төлбөрийн нийт дүн, төлбөрийн хугацааг шалгая.",
                     td16:"эргэн тойрон дахь нэр хүнд",
                     td17:"Төгсөгчид болон олон улсын оюутнуудын сүлжээг ашиглах.",
-
                     a1:"＞Үндэсний төрөлжсөн сургалтын коллежуудын холбоо",
                     a2:"＞Мэргэжлийн сургуулиудыг хайх (Токиогийн мэргэшсэн сургалтын коллежуудын холбоо)",
                     a3:"＞Олон улсын оюутан элсүүлэх мэргэжлийн сургуулиудын жагсаалт (Мэргэжлийн болон Ажил мэргэжлийн боловсролын сан)",
                     a4:">Японы дээд боловсролын байгууллагуудын жагсаалт (Дээд боловсролын мэргэшлийг хүлээн зөвшөөрөх мэдээллийн төв (NIC-Япон))",
-
                     d1:"Нэг цэгийн зөвлөгөө",
                     d2:"Төгсөлтийн шаардлагыг шалгана уу",
                     d3:": Танай курс диплом эсвэл ахисан түвшний дипломын зэрэг олгох эсэхийг сургуулиасаа асуу.",
-
                     h7:"Өргөдөл гаргах баримт бичиг",
                     l15:"Элсэлтийн өргөдөл / анкет (сургуулиас томилогдсон)",
                     l16:"Төгссөн боловсролын талаархи (хүлээгдэж буй) гэрчилгээ",
@@ -613,12 +603,59 @@ const messages = {
                     td30:"Сургуулиа төгсөөд ажил мэргэжлийн зам",
                     td31:"'Диплом' авах боломжтой тэнхимүүдэд их, дээд сургуульд шилжүүлэхийг зөвшөөрдөг.",
                     td32:"Гүнзгийрүүлсэн диплом авах боломжтой тэнхимүүд төгсөлтийн сургуульд элсэх эрхтэй гэж хүлээн зөвшөөрдөг",
-                
-                    
-
-
-
                                 },
+            technologyColleges: {
+                h1:"Технологийн коллеж",
+                p1:"Технологийн коллежууд нь 'техникийн коллеж' (KOSEN) гэж нэрлэгддэг дээд боловсролын байгууллагууд юм. Бага дунд сургуулиа төгссөний дараа бид 5 жилийн хугацаанд (худалдааны хөлөг онгоцтой холбоотой хэлтэсүүдэд 5 жил хагас) тогтвортой боловсрол олгоно.Олон улсын оюутнууд ихэвчлэн гурав дахь жилдээ шилждэг. Япон даяар 51 үндэсний технологийн коллеж, 55 кампус байдаг. Мөн төрийн болон хувийн технологийн коллежууд байдаг. Зарим хувийн технологийн коллежууд оюутнуудыг эхний жилдээ элсүүлэхийг зөвшөөрдөг.",
+                h2:"Боловсролын онцлог",
+                l1:"Дэвшилтэт онолд суурилсан туршилт, практик сургалт, дасгал сургуулилтыг онцолсон боловсролоор дэлхийн жишигт нийцсэн техник, технологид суралцаж, шинжлэх ухаан, технологийн дэвшилтэт технологид шууд хариу үйлдэл үзүүлэх практик инженерүүдийг бэлтгэдэг дээд боловсролын байгууллага юм.",
+                l2:"Ихэнх тэнхимүүд нь инженерийн чиглэлээр ажилладаг бөгөөд далайчдыг сургах зорилготой худалдааны тэнгисийн хэлтсүүд байдаг.",
+                l3:"5 жилийн сургалтанд хамрагдсан хүмүүс 'Ахмад' цол авах боломжтой.",
+                l4:"5 жилийн сургалтын хөтөлбөр дээр ахисан түвшний боловсрол олгодог 2 жилийн гүнзгийрүүлсэн сургалттай.",
+                l5:"Оюутнууд гүнзгийрүүлсэн сургалтанд хамрагдсаны дараа Эрдмийн зэрэг олгох, их сургуулийн шинэчлэлийг дэмжих үндэсний байгууллагад (NIAD-QE) хүсэлт гаргаж, шалгалтад тэнцэж, бакалаврын зэрэг авах боломжтой.",
+                l6:"Түүнчлэн техникийн коллеж төгсөөд их сургуулийн гуравдугаар дамжаанд шилжин суралцах, эсвэл хувийн техникийн коллежийн дэргэдэх их дээд сургуульд элсэн суралцаж, цаашид боловсрол, судалгаагаа гүнзгийрүүлэх боломжтой.",
+                h3:"Өргөдөл гаргах чадвар/нөхцөл",
+                p2:"Та дараах шаардлага, болзлыг хангасан байх ёстой. (Үндэсний технологийн коллежийн хувьд)",
+                p3:"(1) Японы иргэншилгүй хүмүүс болон Японд байнга оршин суух эрх аваагүй хүмүүс. Зарчмын хувьд, өргөдөл гаргах үед Японы иргэншилтэй өргөдөл гаргагчид ажилд авах эрхгүй. Гэсэн хэдий ч өргөдөл гаргах үед Японы иргэншилтэй давхар иргэншилтэй, гадаад иргэншил сонгохоор төлөвлөж байгаа бөгөөд шилжүүлэх үед Япон улсын иргэншлээсээ татгалзах боломжтой.",
+                p4:"(2) 2024 оны 4-р сарын 1-ний байдлаар 17 ба түүнээс дээш насны хүмүүс (2024 оны 4-р сард шилжүүлсэн бол)",
+                p5:"(3) Дараах нөхцлүүдийн аль нэгийг хангасан байх ёстой.",
+                l7:"Гадаад улсад 11 ба түүнээс дээш жил сургуулиа төгссөн эсвэл төгсөх төлөвтэй байгаа хүмүүс.",
+                l8:"Гадаад улсад 11 ба түүнээс дээш жил суралцсантай тэнцэх эрдмийн гэрчилгээ олгох шалгалтад тэнцсэн буюу тэнцэх төлөвтэй хүмүүс.",
+                l9:"Япон дахь гадаадын ахлах сургуультай дүйцэхүйц гадаад сургуулийг төгссөн эсвэл төгсөхөөр хүлээгдэж буй хүмүүс",
+                l10:"Швейцарийн Иргэний хуульд үндэслэсэн Олон Улсын Бакалавриатын Нарийн бичгийн дарга нарын газраас гадаадын аль нэг улсад олон улсын бакалаврын зэрэг авсан эсвэл авахаар хүлээгдэж буй хүмүүс.",
+                l11:"Холбооны Бүгд Найрамдах ХБНГУ-ын муж бүрт гадаад улсад их дээд сургуульд элсэх зэрэгт хүлээн зөвшөөрөгдсөн Абитурын мэргэшлийг авсан эсвэл авахаар хүлээгдэж буй хүмүүс.",
+                l12:"Бүгд Найрамдах Франц улсад их дээд сургуульд элсэх зэрэгт хүлээн зөвшөөрөгдсөн гадаадад бакалаврын зэрэг авсан эсвэл авахаар хүлээгдэж буй хүмүүс.",
+                l13:"Олон улсын үнэлгээний байгууллагуудаас (WASC, CIS, ACSI) магадлан итгэмжлэгдсэн 11 жилийн гадаад сургуулийн курс төгссөн эсвэл төгсөхөөр хүлээгдэж буй хүмүүс",
+                l14:"Ахлах сургууль төгссөнтэй тэнцэх буюу түүнээс дээш эрдмийн чадвартай гэж хүлээн зөвшөөрөгдсөн хүмүүс",
+                p6:"①-ээс ③ хүртэлх хугацаанд, хэрэв 11 жилээс бага хугацаатай бол Боловсрол, соёл, спорт, шинжлэх ухаан, технологийн сайдын тушаалаар заасан бэлтгэлийн сургалт эсвэл сургалтын байгууллагын курст хамрагдах шаардлагатай.",
+                
+                h4:"Хэрэглээний арга",
+                h5:"Японы засгийн газрын тэтгэлэг",
+                p7:"Япон улсын Засгийн газрын (Монбукагакүшо) тэтгэлэгт хамрагдах хүсэлтээ өөрийн улс дахь Японы дипломат албанд шилжүүлнэ үү. Танай улс эсвэл бүс нутаг ажилд орох боломжтой эсэх, хэрхэн өргөдөл гаргахаа мэдэхийн тулд өөрийн улс дахь Японы дипломат төлөөлөгчийн газартай холбогдоно уу. Тэтгэлгийн төлбөрийн талаарх дэлгэрэнгүй мэдээллийг Засгийн газрын зардлын хуудаснаас үзнэ үү.",
+                h6:"Хувийн санхүүжилтээр гадаадад суралцах",
+                h7:"Өргөдөл гаргах баримт бичиг",
+                l15:"Элсэх өргөдөл",
+                l16:"Зардлын төлбөрийн төлөвлөгөө",
+                l17:"эрүүл мэндийн гэрчилгээ",
+                l18:"бусад",
+                o1:" Дэлгэрэнгүйг ",
+                o2:"Технологийн дээд сургуулийн",
+                o3:"вэб сайтаас үзнэ үү",
+                o4:"2024 оны шилжилтийн элсэлтийн талаарх мэдээллийг 2023 оны 10 эсвэл 11 сарын орчимд нийтлэх болно.",
+                o5:" Технологийн дээд сургууль ",
+                o6:" нь үндэсний технологийн коллежуудыг (техникийн коллеж) байгуулж, ажиллуулдаг бие даасан захиргааны байгууллага юм. ",
+                o7:"Мөн Технологийн дээд сургууль үндэсний технологийн коллежид элсэх хамтарсан шалгалтыг явуулдаг.",
+                h8:"Элсэлтийн шалгалт",
+                p8:"Технологийн дээд сургууль нь дараах зүйлсийг иж бүрэн үнэлж, тэнцсэн/бүтэлгүй шийдвэр гаргана. (2022 оны FY үр дүн)",
+                l19:"Өргөдөл гаргах баримт бичиг",
+                l20:"Олон улсын оюутнуудад зориулсан Японы их дээд сургуулийн элсэлтийн шалгалтын дүн (EJU).",
+                l21:"TOEFL®, IELTS, эсвэл TOEIC® L&R оноо",
+                l22:"Ярилцлагын үнэлгээ (онлайнаар хийгдсэн)",
+                h9:"Сургуулиа төгсөөд ажил мэргэжлийн зам",
+                p9:"Техникийн коллеж төгссөний дараа та ажиллах эсвэл дээд боловсрол эзэмшихээр сонгож болно. Ажил горилогчид нэр хүндтэй 20 гаруй компаниас ажлын санал авч болно. Техникийн коллежид олж авсан мэдлэг, ур чадвараа ашиглан судалгаа, боловсруулалт, үйлдвэрлэлийн менежмент, үйлдвэрлэлийн талбай гэх мэт ажилд идэвхтэй оролцдог. Гадаад оюутнууд ихэвчлэн үндэсний их дээд сургуульд шилжин суралцдаг.",
+                p10:"Сургуулиа төгсөөд ямар төлөвлөгөөтэй байгаа вэ?",                    
+            },
+                               
             
             },
 
@@ -1092,25 +1129,21 @@ const messages = {
                 h2:"Types of Japanese Language Institutes",            
                 h3:"1. Japanese Language Schools",
                 p2:"Japanese language schools are established by incorporated educational institutions, business companies and other sponsors. Japan offers over 600 such language schools, at which approximately 49,000 students are studying Japanese.",
-                
                 h4:"Characteristics",
                 l1:"Aside from basic Japanese language courses, Japanese language schools provide university preparation courses, business Japanese courses, and others.", 
                 l2:"If your country's secondary education curriculum lasts less than 12 years, you will need to take a ''university preparatory course''*1 in order to become eligible to apply for university.",
                 l3:"Admission periods are in April and in October. (Some schools have programs that start in January or July, as well.)", 
                 p3:"Note: In order to qualify for the 'Student' status of residence, you must attend a Japanese language institution designated by the Minister of Justice.",
                 p4:"*1. University preparatory course: In order to be admitted to a Japanese university, an applicant must have completed at least 12 years of formal education.However, in some countries or regions, education through high school lasts less than 12 years. In this case, students must complete MEXT (Ministry of Education, Culture, Sports, Science and Technology)'s designated 'university preparatory course for admission to university' in order to be eligible to apply for Japanese universities.In the preparatory course, students study not only the Japanese language but also the basic subjects required for university entrance.",
-                p5:">List of University Preparatory CoursesDownload Excel file",
-                
+                p5:">List of University Preparatory CoursesDownload Excel file",               
                 h5:"2. Vocational School Japanese Language Programs",
                 p6:"These are established in vocational schools approved by each prefectural governor.",
                 l4:"Admission periods are in April and in October.",
                 l5:"Aside from basic Japanese language courses, they provide courses for higher education.",
                 l6:"Students may be eligible for student discounts and other benefits as vocational schools students.",
-                p7:"Note: In order to qualify for the 'Student' status of residence, you must attend a school designated by the Minister of Justice in a public notice.",
-                
+                p7:"Note: In order to qualify for the 'Student' status of residence, you must attend a school designated by the Minister of Justice in a public notice.",                
                 h6:"Find Schools",
                 p8:"Each school has different characteristics and admission requirements, so please use the following websites and Excel sheet to find the school that best suits your needs.",
-
                 h7:"Key to Finding Schools",
                 l7:"Is it an institution of Japanese language education authorized by the Minister of Justice in a public notice? (for Japanese language schools and vocational school Japanese language programs)",
                 l8:"Is the refund policy explained in detail on the website or application requirements?",
@@ -1118,8 +1151,7 @@ const messages = {
                 l10:" What are the class level divisions and how many students are in a class?",
                 l11:" Does it provide training for the Examination for Japanese University Admission for International Students (EJU) or the Japanese Language Proficiency Test (JLPT)?",
                 l12:"What schools do graduates attend? Does the school provide career and daily life counseling?",
-                l13:"Are there any school dormitories or housing facilities?",
-                
+                l13:"Are there any school dormitories or housing facilities?",             
                 p9:"Association for the Promotion of Japanese Language Education",
                 p10:"Japanese Language School Association (JaLSA)",
                 p11:" List of Authorized Schools Ministry of Justice",
@@ -1158,7 +1190,6 @@ const messages = {
                 p5:"Note: With regard to 1) through 3) above, if the period of schooling the student has completed is less than 12 years, he/she must also complete an authorized university preparatory course or an authorized course at a training facility, among other things.",
                 h5:"Find Schools",
                 h6:"Key points for choosing a school",
-
                 td1:"Checklist",
                 td2:"Details",
                 td3:"Officially accredited schools",
@@ -1176,12 +1207,10 @@ const messages = {
                 td15:"How much are school expenses for the first year? What about the total amount of school expenses to be incurred before graduation? When is the payment due date?",
                 td16:"School reputation",
                 td17:"Take advantage of a network of graduates, international students, etc.",
-
                 a1:"＞National Association of Vocational School of Japan",
                 a2:"＞Search for professional training colleges(Metropolitan Tokyo Professional Institution Association)",
                 a3:"＞List of professional training colleges accepting international students　(Association for Technical and Career Education)",
                 a4:"＞List of Higher Educational Institutions in Japan (National Information Center for Academic Recognition Japan (NIC-Japan))",
-
                 d1:"Important Point",
                 d2:"",
                 d3:"Be sure to check with the school whether the course grants a diploma or advanced diploma.",
@@ -1209,16 +1238,58 @@ const messages = {
                 td30:"After Graduation",
                 td31:"If you obtain a diploma, you are eligible to transfer to a university",
                 td32:"If you obtain an advanced diproma, you are eligible to enroll in a graduate school",
-
-
-
-
-
-                      
-            
-            
-
                                 },
+            technologyColleges: {
+                h1:"Colleges of Technology",
+                p1:"Colleges of Technology, or 'Kosen,' are higher education institutions that offer a comprehensive five-year program (five and a half for mercantile marine studies) for junior high school graduates.As a general rule, international students start from the third year of the college of technology's program, skipping the first and second years. There are 51 national colleges of technology with 55 campuses in Japan. In addition to this, there are also local public and private colleges of technology. Furthermore, there are also private colleges of technology where you can enroll from the first year.",
+                h2:"Educational Characteristics",
+                l1:" Kosen (college of technology) offer advanced educational programs designed to cultivate hands-on engineers with world-class expertise and abilities to handle cutting-edge science and technology. The focus is on lab work, training and practical exercises, along with acquisition of advanced theoretical knowledge.",
+                l2:"The majority of Kosen departments are in the engineering field, although there are also mercantile marine departments aimed at developing maritime experts.",
+                l3:"Graduates of the five-year Kosen program are awarded an Associate degree.",
+                l4:"Individuals completing the five-year curriculum may proceed to a two-year advanced course to attain a higher level of education.",
+                l5:"Individuals successfully completing two-year advanced courses following graduation from Kosen will be awarded a bachelor's degree upon passing the examination administered by the NIAD-QE.",
+                l6:"There are also other options to enhance learning and research capabilities upon graduation from Kosen. For example, attending a university from the third year, or advancing to a university affiliated with a private Kosen.",
+                h3:"Eligibility for Transfer Admission",
+                p2:"Applicants must satisfy one of the following eligibility criteria (in the case of national kosen).",
+                p3:"(1) Those who do not have Japanese nationality or permanent resident permission of Japan. Applicants who have Japanese citizenship at the time of application are generally not eligible for application.However, dual nationals who have Japanese citizenship at the time of application and who plan to choose a foreign nationality and renounce Japanese citizenship by the time of transfer are eligible.",
+                p4:"(2) Individuals at least 17 years of age on April 1, 2024 (referring to transfer students from April of the 2024 school year).",
+                p5:"(3) One of the following conditions must be met:",
+                l7:"Individuals who have completed (or are scheduled to complete) at least 11 years of schooling in countries other than Japan.",
+                l8:"Individuals who have successfully passed (or are scheduled to pass) an academic qualification examination that is equivalent to the completion of 11 years or more of schooling in countries other than Japan.",
+                l9:"Individuals who have completed (or are scheduled to complete) studies at international schools in Japan that are officially recognized as equivalent to high schools in countries other than Japan.",
+                l10:"Individuals who have obtained (or are scheduled to obtain) an IB diploma from the International Baccalaureate, a foundation whose establishment was based on the Swiss Civil Code, in countries other than Japan.",
+                l11:"Individuals who have obtained (or are scheduled to obtain) an Abitur, a university admission qualification that each state in Germany can grant, in countries other than Japan.",
+                l12:"Individuals who have obtained (or are scheduled to obtain) a Baccalaureate - a university admission qualification of France.",
+                l13:"Individuals who have completed (or are scheduled to complete) 11 years of curriculum at international schools in Japan that are accredited by any of the following international accreditation organizations: WASC, CIS, or ACSI.",
+                l14:"Individuals recognized as having academic ability that is equivalent to graduates of upper secondary school or above.",
+                p6:"* With regard to 1 to 3 above, applicants who have not completed 11 years of schooling are required to complete a university preparatory course or a course at a research institution authorized by the Ministry of Education, Culture, Sports, Science and Technology of Japan, among other things.",
+
+                h4:"Application Process",
+                h5:"For government-sponsored international students",
+                p7:"You can apply for the Japanese government (MEXT)'s scholarship through the Japanese embassy in your country/region. As the application process differs according to the country/region, please inquire at your local Japanese embassy or consulate general to see whether your country/region is eligible for the scholarship.For details about the MEXT scholarship, see the government sponsorship page.",
+                h6:"For privately-financed international students",
+                h7:"Application Documents",
+                l15:"School application form　",
+                l16:"Financial plan　",
+                l17:"Health check-up certificate　",
+                l18:"Other",
+                o1:"For further details,",
+                o2:"access the website of the National Institute of Technology*",
+                o3:"1. Information regarding 2024 transfers will be released during October to November 2023.",
+                o4:"",
+                o5:" National Institute of Technology:It is an independent administrative organization that manages Kosen",
+                o6:" It is also responsible for the unified/",
+                o7:"common entrance examination for national Kosen.",
+                h8:"Entrance examinations",
+                p8:"The National Institute of Technology bases admission judgments on comprehensive evaluations of the following items (2022 results)",
+                l19:"Application documents",
+                l20:"Examination for Japanese University Admission for International Students (EJU) results",
+                l21:"TOEFL®, IELTS, or TOEIC® L&R score",
+                l22:"Performance during the interview (conducted online)",
+                h9:"After graduation",
+                p9:"Graduates of Kosen can either choose to work or continue their studies at another school. Some graduates receive over 20 job offers from well-known companies.Many Kosen graduates are active in research and development, production management, and production sites, making use of the knowledge and technology they acquired at colleges of technology.",
+                p10:"What are your plans after graduation?",                    
+            },
 
 
             },
@@ -1772,12 +1843,10 @@ const messages = {
                 td15:" 	初年度の学費及び卒業までの総額と支払いのタイミングを確認しましょう。",
                 td16:"周囲の評判",
                 td17:"卒業生や留学生のネットワーク等を利用しましょう。",
-
                 a1:"＞全国専修学校各種学校総連合会",
                 a2:"＞専門学校検索（東京都専修学校各種学校協会）",
                 a3:"＞留学生を受け入れている専門学校リスト（職業教育・キャリア教育財団）",
                 a4:"＞日本の高等教育機関一覧（高等教育資格承認情報センター（NIC-Japan)）",
-
                 d1:"ワンポイントアドバイス",
                 d2:"卒業要件の確認 ",
                 d3:"： 「専門士」または「高度専門士」の称号が得られる課程かどうかは、学校に確認しましょう。",
@@ -1805,15 +1874,59 @@ const messages = {
                 td30:"卒業後の進路",
                 td31:"「専門士」を得られる学科は、大学編入学を認められる",
                 td32:"「高度専門士」を得られる学科は、大学院への入学資格を認められる",
-
-
-
-
-
-
-
-
                                 },
+            technologyColleges: {
+                h1:"高等専門学校",
+                p1:"高等専門学校は、「高専（KOSEN）」とよばれている高等教育機関です。中学校卒業後に5年間（商船に関する学科は5年半）の一貫した教育を行います。通常、外国人留学生は、第3学年に編入学します。国立高専は日本全国に51校55キャンパスあります。このほか、公立や私立の高専もあります。私立の高専の中には、第1学年から入学が可能な学校もあります。",
+                h2:"教育の特徴",
+                l1:"高度な理論を基礎としながら実験・実習・演習を重視した教育により、世界に通用する技術を学び、最新の科学・技術にすぐに対応できる実践的技術者を養成する高等教育機関です。",
+                l2:"学科の多くは工学分野で、その他に船員養成を目的とした商船学科等もあります。",
+                l3:"5年の課程を修了した者は「準学士」の称号が取得できます。",
+                l4:"5年間の教育課程の上にさらに高度な教育を行う2年制の専攻科があります。",
+                l5:"専攻科を修了し、独立行政法人大学改革支援・学位授与機構（NIAD-QE)に申請を行い審査に合格すると、「学士」の学位が取得できます。",
+                l6:"また、高専を卒業後に大学の3年次に編入したり、私立の高専では併設する大学に進学をして、さらに深く教育研究を行う道もあります。",
+                h3:"出願資格・条件",
+                p2:"以下の資格・条件を満たしている必要があります。（国立高専の場合）",
+                p3:"（１）日本国籍を有しない者及び日本国の永住許可を得ていない者。出願時に日本国籍を有する者は、原則として募集の対象となりません。ただし、出願時に日本国籍を有する二重国籍者であって、編入学時までに外国の国籍を選択し、日本国籍を離脱する予定の者は対象とします。",
+                p4:"（２）2024年4月1日現在で満17歳以上である者（2024年度4月に編入学する場合）",
+                p5:"（３）次のいずれかの条件を満たしている必要があります。",
+                l7:"外国において、学校教育における11年以上の課程を修了した者及び修了見込みの者",
+                l8:"外国における11年以上の課程修了相当の学力認定試験に合格した者及び合格見込みの者",
+                l9:"日本において、外国の高等学校相当として指定された外国人学校を修了した者及び修了見込みの者",
+                l10:"外国において、スイス民法典に基づく財団法人である国際バカロレア事務局が授与する国際バカロレア資格を取得した者及び取得見込みの者",
+                l11:"外国において、ドイツ連邦共和国の各州において大学入学資格として認められているアビトゥア資格を取得した者及び取得見込みの者",
+                l12:"外国において、フランス共和国において大学入学資格として認められているバカロレア資格を取得した者及び取得見込みの者",
+                l13:"国際的な評価団体（WASC,CIS,ACSI）の認定を受けた11年の外国人学校の課程を修了した者及び修了見込みの者",
+                l14:"高等学校卒業と同等以上の学力を有すると認められる者",
+                p6:"①から③について、11年の課程に満たない場合は、文部科学大臣が指定する準備教育課程又は研修施設における課程等を修了する必要があります。",
+
+                h4:"出願方法",
+                h5:"国費留学の場合",
+                p7:"あなたの国にある日本の在外公館を通して、日本政府（文部科学省）奨学金に申し込みをします。あなたの国や地域が募集対象国となっているかどうか、また出願の方法等は、あなたの国にある日本の在外公館へお問い合わせください。 奨学金の支給内容等詳細は、国費ページをご確認ください。",
+                h6:"私費留学の場合",
+                h7:"出願書類",
+                l15:"入学願書",
+                l16:"経費支弁計画書　",
+                l17:"健康診断証明書",
+                l18:"その他",
+                o1:"詳しくは、",
+                o2:"高専機構新しいウインドウで開く*1のウェブサイトで確認しましょう。",
+                o3:"2024年度編入学に関する情報は、2023年10～11月頃に掲載される予定です。",
+                o4:"",
+                o5:"*1高専機構とは、",
+                o6:"国立高等専門学校（高専）を設置・運営している独立行政法人です。",
+                o7:"国立高専の共同選抜試験等も高専機構が行っています。",
+                h8:"入学試験",
+                p8:"高専機構では以下の項目を総合的に評価して合否判定を行います。（2022年度実施実績）",
+                l19:"出願書類",
+                l20:"日本留学試験（EJU）結果",
+                l21:"TOEFL®、IELTS、TOEIC® L&Rいずれかの成績",
+                l22:"面接の評価（オンラインで実施）",
+                h9:"卒業後の進路",
+                p9:"高専を卒業した後は、就職か進学かを選択できます。就職希望者には、有名企業20社以上から求人が来ることもあります。多くの卒業生は、高専で身につけた知識や技術を活かして、研究開発・生産管理・生産現場等で活躍しています。留学生は国立大学に編入学することが多いです。",
+                p10:"卒業後の予定は何ですか？",                    
+            },
+                                
 
             },
 

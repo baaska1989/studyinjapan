@@ -6,70 +6,86 @@
 
   <main class="l_container_main_body">
 
-    <h1 class="m_section_heading m_heading_lv1">Технологийн коллеж</h1>
+    <h1 class="m_section_heading m_heading_lv1">{{$t("plan.knowSchools.technologyColleges.h1")}}</h1>
 
     <div class="m_section wysiwyg">
-        <p>Технологийн коллежууд нь "техникийн коллеж" (KOSEN) гэж нэрлэгддэг дээд боловсролын байгууллагууд юм. Бага дунд сургуулиа төгссөний дараа бид 5 жилийн хугацаанд (худалдааны хөлөг онгоцтой холбоотой хэлтэсүүдэд 5 жил хагас) тогтвортой боловсрол олгоно.
-            Олон улсын оюутнууд ихэвчлэн гурав дахь жилдээ шилждэг. Япон даяар 51 үндэсний технологийн коллеж, 55 кампус байдаг. Мөн төрийн болон хувийн технологийн коллежууд байдаг. Зарим хувийн технологийн коллежууд оюутнуудыг эхний жилдээ элсүүлэхийг зөвшөөрдөг.</p>
+        <p>
+            {{$t("plan.knowSchools.technologyColleges.p1")}}</p>
         <div>
-            <h2>Боловсролын онцлог</h2>
+            <h2>{{$t("plan.knowSchools.technologyColleges.h2")}}</h2>
             <ul>
-                <li>Дэвшилтэт онолд суурилсан туршилт, практик сургалт, дасгал сургуулилтыг онцолсон боловсролоор дэлхийн жишигт нийцсэн техник, технологид суралцаж, шинжлэх ухаан, технологийн дэвшилтэт технологид шууд хариу үйлдэл үзүүлэх практик инженерүүдийг бэлтгэдэг дээд боловсролын байгууллага юм.</li>
-                <li>Ихэнх тэнхимүүд нь инженерийн чиглэлээр ажилладаг бөгөөд далайчдыг сургах зорилготой худалдааны тэнгисийн хэлтсүүд байдаг.</li>
-                <li>5 жилийн сургалтанд хамрагдсан хүмүүс "Ахмад" цол авах боломжтой.</li>
-                <li>5 жилийн сургалтын хөтөлбөр дээр ахисан түвшний боловсрол олгодог 2 жилийн гүнзгийрүүлсэн сургалттай.</li>
-                <li>Оюутнууд гүнзгийрүүлсэн сургалтанд хамрагдсаны дараа Эрдмийн зэрэг олгох, их сургуулийн шинэчлэлийг дэмжих үндэсний байгууллагад (NIAD-QE) хүсэлт гаргаж, шалгалтад тэнцэж, бакалаврын зэрэг авах боломжтой.</li>
-                <li>Түүнчлэн техникийн коллеж төгсөөд их сургуулийн гуравдугаар дамжаанд шилжин суралцах, эсвэл хувийн техникийн коллежийн дэргэдэх их дээд сургуульд элсэн суралцаж, цаашид боловсрол, судалгаагаа гүнзгийрүүлэх боломжтой.</li>
+                <li>
+                    {{$t("plan.knowSchools.technologyColleges.l1")}}                </li>
+                <li>{{$t("plan.knowSchools.technologyColleges.l2")}}</li>
+                <li>{{$t("plan.knowSchools.technologyColleges.l3")}}</li>
+                <li>{{$t("plan.knowSchools.technologyColleges.l4")}}</li>
+                <li>{{$t("plan.knowSchools.technologyColleges.l5")}}</li>
+                <li>{{$t("plan.knowSchools.technologyColleges.l6")}}</li>
             </ul>
         </div>
         <div>
-            <h2>Өргөдөл гаргах чадвар/нөхцөл</h2>
-            <p>Та дараах шаардлага, болзлыг хангасан байх ёстой. (Үндэсний технологийн коллежийн хувьд)<br>
-
-                (1) Японы иргэншилгүй хүмүүс болон Японд байнга оршин суух эрх аваагүй хүмүүс. Зарчмын хувьд, өргөдөл гаргах үед Японы иргэншилтэй өргөдөл гаргагчид ажилд авах эрхгүй. Гэсэн хэдий ч өргөдөл гаргах үед Японы иргэншилтэй давхар иргэншилтэй, гадаад иргэншил сонгохоор төлөвлөж байгаа бөгөөд шилжүүлэх үед Япон улсын иргэншлээсээ татгалзах боломжтой.<br>
-
-                (2) 2024 оны 4-р сарын 1-ний байдлаар 17 ба түүнээс дээш насны хүмүүс (2024 оны 4-р сард шилжүүлсэн бол)<br>
-
-                (3) Дараах нөхцлүүдийн аль нэгийг хангасан байх ёстой.</p>
+            <h2>{{$t("plan.knowSchools.technologyColleges.h1")}}</h2>
+            <p>
+                {{$t("plan.knowSchools.technologyColleges.p2")}}                <br>
+                {{$t("plan.knowSchools.technologyColleges.p3")}}                <br>
+                {{$t("plan.knowSchools.technologyColleges.p4")}}                <br>
+                {{$t("plan.knowSchools.technologyColleges.p5")}}            </p>
             <ol>
-                <li>Гадаад улсад 11 ба түүнээс дээш жил сургуулиа төгссөн эсвэл төгсөх төлөвтэй байгаа хүмүүс.</li>
-                <li>Гадаад улсад 11 ба түүнээс дээш жил суралцсантай тэнцэх эрдмийн гэрчилгээ олгох шалгалтад тэнцсэн буюу тэнцэх төлөвтэй хүмүүс.</li>
-                <li>Япон дахь гадаадын ахлах сургуультай дүйцэхүйц гадаад сургуулийг төгссөн эсвэл төгсөхөөр хүлээгдэж буй хүмүүс</li>
-                <li>Швейцарийн Иргэний хуульд үндэслэсэн Олон Улсын Бакалавриатын Нарийн бичгийн дарга нарын газраас гадаадын аль нэг улсад олон улсын бакалаврын зэрэг авсан эсвэл авахаар хүлээгдэж буй хүмүүс.</li>
-                <li>Холбооны Бүгд Найрамдах ХБНГУ-ын муж бүрт гадаад улсад их дээд сургуульд элсэх зэрэгт хүлээн зөвшөөрөгдсөн Абитурын мэргэшлийг авсан эсвэл авахаар хүлээгдэж буй хүмүүс.</li>
-                <li>Бүгд Найрамдах Франц улсад их дээд сургуульд элсэх зэрэгт хүлээн зөвшөөрөгдсөн гадаадад бакалаврын зэрэг авсан эсвэл авахаар хүлээгдэж буй хүмүүс.</li>
-                <li>Олон улсын үнэлгээний байгууллагуудаас (WASC, CIS, ACSI) магадлан итгэмжлэгдсэн 11 жилийн гадаад сургуулийн курс төгссөн эсвэл төгсөхөөр хүлээгдэж буй хүмүүс</li>
-                <li>Ахлах сургууль төгссөнтэй тэнцэх буюу түүнээс дээш эрдмийн чадвартай гэж хүлээн зөвшөөрөгдсөн хүмүүс</li>
+                <li>{{$t("plan.knowSchools.technologyColleges.l7")}}</li>
+                <li>{{$t("plan.knowSchools.technologyColleges.l8")}}</li>
+                <li>{{$t("plan.knowSchools.technologyColleges.l9")}}</li>
+                <li>{{$t("plan.knowSchools.technologyColleges.l10")}}</li>
+                <li>{{$t("plan.knowSchools.technologyColleges.l11")}}</li>
+                <li>{{$t("plan.knowSchools.technologyColleges.l12")}}</li>
+                <li>{{$t("plan.knowSchools.technologyColleges.l13")}}</li>
+                <li>{{$t("plan.knowSchools.technologyColleges.l14")}}</li>
             </ol>
-            <p>①-ээс ③ хүртэлх хугацаанд, хэрэв 11 жилээс бага хугацаатай бол Боловсрол, соёл, спорт, шинжлэх ухаан, технологийн сайдын тушаалаар заасан бэлтгэлийн сургалт эсвэл сургалтын байгууллагын курст хамрагдах шаардлагатай.</p>
+            <p>
+                {{$t("plan.knowSchools.technologyColleges.p6")}}            </p>
         </div>
         <div>
-            <h2>Хэрэглээний арга</h2>
-            <h3>Японы засгийн газрын тэтгэлэг</h3>
-            <p>Япон улсын Засгийн газрын (Монбукагакүшо) тэтгэлэгт хамрагдах хүсэлтээ өөрийн улс дахь Японы дипломат албанд шилжүүлнэ үү. Танай улс эсвэл бүс нутаг ажилд орох боломжтой эсэх, хэрхэн өргөдөл гаргахаа мэдэхийн тулд өөрийн улс дахь Японы дипломат төлөөлөгчийн газартай холбогдоно уу. Тэтгэлгийн төлбөрийн талаарх дэлгэрэнгүй мэдээллийг Засгийн газрын зардлын хуудаснаас үзнэ үү.</p>
-            <h3>Хувийн санхүүжилтээр гадаадад суралцах</h3>
-            <h4>Өргөдөл гаргах баримт бичиг</h4>
+            <h2> {{$t("plan.knowSchools.technologyColleges.h4")}}</h2>
+            <h3> {{$t("plan.knowSchools.technologyColleges.h5")}}</h3>
+            <p>
+                {{$t("plan.knowSchools.technologyColleges.p7")}}            </p>
+            <h3> {{$t("plan.knowSchools.technologyColleges.h6")}}</h3>
+            <h4> {{$t("plan.knowSchools.technologyColleges.h7")}}</h4>
             <ol>
-                <li>Элсэх өргөдөл</li>
-                <li>Зардлын төлбөрийн төлөвлөгөө</li>
-                <li>эрүүл мэндийн гэрчилгээ</li>
-                <li>бусад</li>
+                <li> {{$t("plan.knowSchools.technologyColleges.l15")}}</li>
+                <li>{{$t("plan.knowSchools.technologyColleges.l16")}}</li>
+                <li>{{$t("plan.knowSchools.technologyColleges.l17")}}</li>
+                <li>{{$t("plan.knowSchools.technologyColleges.l18")}}</li>
             </ol>
-            <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Дэлгэрэнгүйг </font></font><span style="font-size: 16px;"><a href="https://www.kosen-k.go.jp/exam/admissions/hennyugaku.html" target="_blank" rel="noopener noreferrer"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Технологийн дээд сургуулийн </font></font><img src="/ja/assets/images/icon/blank.svg" width="14" height="14" alt="шинэ цонхонд нээх" class="u_icon u_icon_add_blank"></a></span><font style="vertical-align: inherit;"><span style="font-size: 14px;"><span style="font-size: 16px;"><font style="vertical-align: inherit;">вэб сайтаас үзнэ үү</font></span></span></font><span style="font-size: 14px;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> *1 . </font></font><span style="font-size: 16px;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2024 оны шилжилтийн элсэлтийн талаарх мэдээллийг 2023 оны 10 эсвэл 11 сарын орчимд нийтлэх болно.</font></font></span></span></p>
-            <p><span style="font-size: 14px;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">*1 </font></font></span><span style="font-size: 14px;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Технологийн дээд сургууль </font></font></span><span style="font-size: 14px;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">нь үндэсний технологийн коллежуудыг (техникийн коллеж) байгуулж, ажиллуулдаг бие даасан захиргааны байгууллага юм. </font><font style="vertical-align: inherit;">Мөн Технологийн дээд сургууль үндэсний технологийн коллежид элсэх хамтарсан шалгалтыг явуулдаг.</font></font></span></p>
-            <h3>Элсэлтийн шалгалт</h3>
-            <p>Технологийн дээд сургууль нь дараах зүйлсийг иж бүрэн үнэлж, тэнцсэн/бүтэлгүй шийдвэр гаргана. (2022 оны FY үр дүн)</p>
+            <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+                {{$t("plan.knowSchools.technologyColleges.o1")}} 
+            </font></font><span style="font-size: 16px;"><a href="https://www.kosen-k.go.jp/exam/admissions/hennyugaku.html" target="_blank" rel="noopener noreferrer"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+                {{$t("plan.knowSchools.technologyColleges.o2")}} 
+            </font></font><img src="/ja/assets/images/icon/blank.svg" width="14" height="14" alt="шинэ цонхонд нээх" class="u_icon u_icon_add_blank"></a></span><font style="vertical-align: inherit;"><span style="font-size: 14px;"><span style="font-size: 16px;"><font style="vertical-align: inherit;">
+                {{$t("plan.knowSchools.technologyColleges.o3")}} 
+            </font></span></span></font><span style="font-size: 14px;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> *1 . </font></font><span style="font-size: 16px;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+                {{$t("plan.knowSchools.technologyColleges.o4")}} 
+            </font></font></span></span></p>
+            <p><span style="font-size: 14px;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">*1 </font></font></span><span style="font-size: 14px;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+                {{$t("plan.knowSchools.technologyColleges.o5")}} 
+            </font></font></span><span style="font-size: 14px;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+                {{$t("plan.knowSchools.technologyColleges.o6")}} 
+            </font><font style="vertical-align: inherit;">
+                {{$t("plan.knowSchools.technologyColleges.o7")}} 
+            </font></font></span></p>
+            <h3>{{$t("plan.knowSchools.technologyColleges.h8")}} </h3>
+            <p>{{$t("plan.knowSchools.technologyColleges.p8")}}</p>
             <ol>
-                <li>Өргөдөл гаргах баримт бичиг</li>
-                <li>Олон улсын оюутнуудад зориулсан Японы их дээд сургуулийн элсэлтийн шалгалтын дүн (EJU).</li>
-                <li>TOEFL®, IELTS, эсвэл TOEIC® L&R оноо</li>
-                <li>Ярилцлагын үнэлгээ (онлайнаар хийгдсэн)</li>
+                <li>{{$t("plan.knowSchools.technologyColleges.l19")}}</li>
+                <li>{{$t("plan.knowSchools.technologyColleges.l20")}}</li>
+                <li>{{$t("plan.knowSchools.technologyColleges.l21")}}</li>
+                <li>{{$t("plan.knowSchools.technologyColleges.l22")}}</li>
             </ol>
         </div>    
         <div>
-            <h2>Сургуулиа төгсөөд ажил мэргэжлийн зам</h2>
-            <p>Техникийн коллеж төгссөний дараа та ажиллах эсвэл дээд боловсрол эзэмшихээр сонгож болно. Ажил горилогчид нэр хүндтэй 20 гаруй компаниас ажлын санал авч болно. Техникийн коллежид олж авсан мэдлэг, ур чадвараа ашиглан судалгаа, боловсруулалт, үйлдвэрлэлийн менежмент, үйлдвэрлэлийн талбай гэх мэт ажилд идэвхтэй оролцдог. Гадаад оюутнууд ихэвчлэн үндэсний их дээд сургуульд шилжин суралцдаг.</p>
-            <a href="/ja/assets/images/planning/know-schools/colleges-of-technology/image_01.png" target="_blank" rel="noopener noreferrer"> <img alt="Сургуулиа төгсөөд ямар төлөвлөгөөтэй байгаа вэ?" src="/public/assets/images/other/event/image_01.png"> </a>
+            <h2>{{$t("plan.knowSchools.technologyColleges.h9")}} </h2>
+            <p>
+                {{$t("plan.knowSchools.technologyColleges.p9")}}            </p>
+            <a href="/ja/assets/images/planning/know-schools/colleges-of-technology/image_01.png" target="_blank" rel="noopener noreferrer"> <img alt="Сургуулиа төгсөөд ямар төлөвлөгөөтэй байгаа вэ? " src="/public/assets/images/other/event/image_01.png"> </a>
         </div>
     </div>
     <!-- /.m_section.wysiwyg -->
