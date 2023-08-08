@@ -20,34 +20,34 @@
             <p>Япон дахь бүс нутгийн цагаачлалын товчоонд "Эрх бүхий гэрчилгээ (COE)"-ыг ирээдүйн оюутан (өргөдөл гаргагч) эсвэл итгэмжлэгдсэн төлөөлөгч (өргөдөл гаргагчийн хамаатан садан, хүлээн авах боловсролын байгууллагын ажилтнууд гэх мэт) өргөдөл гаргах ёстой.</p>
             <img src="public/assets/">
             <ul class="m_list m_list_notice">
-                <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Ихэнх тохиолдолд хүлээн авагч боловсролын байгууллага (сургууль) таны өмнөөс өргөдөл гаргах болно.</font></font></li>
-                <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Шаардлагатай бичиг баримтыг хүлээн авах боловсролын байгууллага (сургууль) -тай холбоо барина уу.</font></font></li>
+                <li>Ихэнх тохиолдолд хүлээн авагч боловсролын байгууллага (сургууль) таны өмнөөс өргөдөл гаргах болно.</li>
+                <li>Шаардлагатай бичиг баримтыг хүлээн авах боловсролын байгууллага (сургууль) -тай холбоо барина уу.</li>
             </ul>
         </div>
         <div>
             <h2>Японд оршин суух төлбөрөө төлөх санхүүгийн чадамжийг нотлох баримт бичиг</h2>
             <p>Эрх бүхий гэрчилгээ (COE), виз гэх мэт өргөдөл гаргахдаа та Японд байх хугацаандаа гарсан зардлыг зохих ёсоор төлсөн гэдгээ нотлох баримтыг ирүүлэхийг шаардаж болно.</p>
             <ul>
-                <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Шаардлагатай бичиг баримт・・・Санхүүгийн дэмжигчийн банкны үлдэгдлийн гэрчилгээ (өргөдөл гаргагч, асран хамгаалагч), сүүлийн хэдэн жилийн орлогын гэрчилгээ, татварын гэрчилгээ гэх мэт.</font></font></li>
+                <li>Шаардлагатай бичиг баримт・・・Санхүүгийн дэмжигчийн банкны үлдэгдлийн гэрчилгээ (өргөдөл гаргагч, асран хамгаалагч), сүүлийн хэдэн жилийн орлогын гэрчилгээ, татварын гэрчилгээ гэх мэт.</li>
             </ul>
         </div>
         <div>
             <h2>Виз мэдүүлж байна</h2>
             <p>Эрх бүхий гэрчилгээ (COE) гарсны дараа эх орондоо байгаа Японы дипломат төлөөлөгчийн газарт виз мэдүүлнэ үү.</p>
             <ul>
-                <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Шаардлагатай бичиг баримт・・・① Паспорт ② Визний анкет ③ Зураг ④ Эрх бүхий гэрчилгээ (COE) ⑤ Бусад</font></font></li>
+                <li>Шаардлагатай бичиг баримт・・・① Паспорт ② Визний анкет ③ Зураг ④ Эрх бүхий гэрчилгээ (COE) ⑤ Бусад</li>
             </ul>
         </div>
         <div>
             <h2>Япон руу орох</h2>
             <p>Нэвтрэх үед дараах бичиг баримтыг бүрдүүлэх шаардлагатай.</p>
             <ul>
-                <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Шаардлагатай бичиг баримт・・・① Паспорт ② Визний анкет ③ Зураг ④ Эрх бүхий гэрчилгээ (COE) ⑤ Бусад</font></font></li>
+                <li>Шаардлагатай бичиг баримт・・・① Паспорт ② Визний анкет ③ Зураг ④ Эрх бүхий гэрчилгээ (COE) ⑤ Бусад</li>
             </ul>
             <p>*"Visit Japan Web" цагаачлалын онлайн үйлчилгээг ашигласнаар та хорио цээрийн дэглэм, цагаачлал, гаалийн мэдүүлгийг онлайнаар бөглөх боломжтой. <br>
                 "Японы вэбээр зочилно уу"-ны талаарх дэлгэрэнгүй мэдээллийг доорх вэб сайтаас авна уу.</p>
             <img>
-            <p><a href="https://vjw-lp.digital.go.jp/" target="_blank" rel="noopener noreferrer"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">&gt; Японы вэб сайтад зочилно уу (гадаад сайт)</font></font><img src="/ja/assets/images/icon/blank.svg" width="14" height="14" alt="新しいウインドウで開く" class="u_icon u_icon_add_blank"></a></p>
+            <p><a href="https://vjw-lp.digital.go.jp/" target="_blank" rel="noopener noreferrer">&gt; Японы вэб сайтад зочилно уу (гадаад сайт)<img src="/ja/assets/images/icon/blank.svg" width="14" height="14" alt="新しいウインドウで開く" class="u_icon u_icon_add_blank"></a></p>
         </div>
         <div>
             <h2>Оршин суух карт</h2>
@@ -73,11 +73,11 @@
                 *Дүрмээр бол, шалгалтанд тэнцсэний дараа эх орондоо буцаж очоод "Коллежийн оюутан" гэсэн оршин суух статустай виз авах шаардлагатай.</p>
         </div>
         <div class="m_box">
-            <div class="m_box_heading"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Холбоотой холбоосууд</font></font></div>
+            <div class="m_box_heading">Холбоотой холбоосууд</div>
             <ul class="m_list m_list_link">
-            <li><a href="http://www.immi-moj.go.jp/" target="_blank" rel="noopener noreferrer"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Хууль зүйн яамны Цагаачлалын албаны агентлаг</font></font><img src="/ja/assets/images/icon/blank.svg" width="14" height="14" alt="新しいウインドウで開く" class="u_icon u_icon_add_blank"></a></li>
-            <li><a href="https://www.studyinjapan.go.jp/ja/life/zairyuinjapan/" target="_blank" rel="noopener noreferrer"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Японд сурч байх үеийн оршин суугаа газрын байдал</font></font><img src="/ja/assets/images/icon/blank.svg" width="14" height="14" alt="新しいウインドウで開く" class="u_icon u_icon_add_blank"></a></li>
-            <li><a href="https://www.studyinjapan.go.jp/ja/job/immigration-procedures/" target="_blank" rel="noopener noreferrer"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Хөдөлмөр эрхлэхтэй холбоотой оршин суугаа газрын статусыг өөрчлөх журам</font></font><img src="/ja/assets/images/icon/blank.svg" width="14" height="14" alt="新しいウインドウで開く" class="u_icon u_icon_add_blank"></a></li>
+            <li><a href="http://www.immi-moj.go.jp/" target="_blank" rel="noopener noreferrer">Хууль зүйн яамны Цагаачлалын албаны агентлаг<img src="/ja/assets/images/icon/blank.svg" width="14" height="14" alt="新しいウインドウで開く" class="u_icon u_icon_add_blank"></a></li>
+            <li><a href="https://www.studyinjapan.go.jp/ja/life/zairyuinjapan/" target="_blank" rel="noopener noreferrer">Японд сурч байх үеийн оршин суугаа газрын байдал<img src="/ja/assets/images/icon/blank.svg" width="14" height="14" alt="新しいウインドウで開く" class="u_icon u_icon_add_blank"></a></li>
+            <li><a href="https://www.studyinjapan.go.jp/ja/job/immigration-procedures/" target="_blank" rel="noopener noreferrer">Хөдөлмөр эрхлэхтэй холбоотой оршин суугаа газрын статусыг өөрчлөх журам<img src="/ja/assets/images/icon/blank.svg" width="14" height="14" alt="新しいウインドウで開く" class="u_icon u_icon_add_blank"></a></li>
             </ul>
         </div>
     </div>

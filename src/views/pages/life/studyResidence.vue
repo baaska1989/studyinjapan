@@ -22,24 +22,24 @@
                     Гэсэн хэдий ч, хэрэв танд хүчинтэй паспорт, оршин суух үнэмлэх байгаа бөгөөд дахин нэвтрэх тусгай зөвшөөрлийн дагуу Япон улсаас гарахыг хүсч байвал (явсан өдрөөс хойш 1 жилийн дотор, эсвэл таны оршин суух хугацаа нь явсан өдрөөс хойш 1 жил өнгөрсний өмнө ирсэн бол та Японд дахин орох болно.</p>
         
                 <p>Дахин орох / явахад зориулсан ED карт</p>
-                <div style="background: #f0f8ff; border: #000080 solid 2px; font-size: 100%; padding: 20px;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Та Японоос гарахдаа оршин суух үнэмлэхээ үзүүлж, дахин нэвтрэхийн тулд ED карт дээрх заасан баганыг шалгана уу.</font></font></div>
+                <div style="background: #f0f8ff; border: #000080 solid 2px; font-size: 100%; padding: 20px;">Та Японоос гарахдаа оршин суух үнэмлэхээ үзүүлж, дахин нэвтрэхийн тулд ED карт дээрх заасан баганыг шалгана уу.</div>
             </div>
             <div>
                 <h2>Оршин суух хугацааг сунгах</h2>
                 <p>Хэрэв та хилээр орохдоо тогтоосон оршин суух хугацаа дууссан өдрөөс хойш үргэлжлүүлэн оршин суухыг хүсвэл Бүсийн цагаачлалын товчоонд оршин суух хугацааг сунгах зөвшөөрөл авах хүсэлт гаргах ёстой. <br>
                     Хэрэв та оршин суух хугацаа дуусахаас өмнө хууль бусаар оршин суувал шийтгэгдэх эсвэл албадан гаргах болно.</p>
-                <div style="background: #f0f8ff; border: #000080 solid 2px; font-size: 100%; padding: 20px;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Хэрэв та визээ сунгахаа мартаж, хууль бусаар оршин суугч болсон бол сургуулиасаа хөөгдөх эсвэл тэтгэлэгээ алдах магадлалтай.</font></font></div>
+                <div style="background: #f0f8ff; border: #000080 solid 2px; font-size: 100%; padding: 20px;">Хэрэв та визээ сунгахаа мартаж, хууль бусаар оршин суугч болсон бол сургуулиасаа хөөгдөх эсвэл тэтгэлэгээ алдах магадлалтай.</div>
             </div>
             <div>
                 <h2>Оршин суух статусыг цуцлах</h2>
                 <p>Өргөдөл гаргагчийн эрхлэхээр төлөвлөж буй үйл ажиллагаа, карьераа хуурамчаар үйлдсэн, эсвэл хуурамч бичиг баримт бүрдүүлсэн тохиолдолд оршин суух статус нь хүчингүй болно.</p>
-                <div style="background: #f0f8ff; border: #000080 solid 2px; font-size: 100%; padding: 20px;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Хэдийгээр оршин суугаа газрын статус нь "Оюутан" байсан ч сургуульд явахын оронд ажиллаж байгаа бол хүндэтгэн үзэх шалтгаангүй бол оршин суугаа газрын статусаа цуцална.</font></font></div>
+                <div style="background: #f0f8ff; border: #000080 solid 2px; font-size: 100%; padding: 20px;">Хэдийгээр оршин суугаа газрын статус нь "Оюутан" байсан ч сургуульд явахын оронд ажиллаж байгаа бол хүндэтгэн үзэх шалтгаангүй бол оршин суугаа газрын статусаа цуцална.</div>
             </div>
             <div>
                 <h2>Гэр бүлийн дуудлага</h2>
                 <p>Хэрэв та "Коллежийн оюутан" гэх мэт оршин суух статустай их дээд сургуульд суралцаж байгаа бол гадаад оюутны тэтгэлэгт хамрагдсан эхнэр, нөхөр, хүүхдүүд оршин суух хугацааны дагуу Японд "Хамааралтай" гэсэн оршин суух статустай байж болно.
                     Японд дасаж, санхүүгийн хувьд бэлэн болсныхоо дараа гэр бүлээ авчир.</p>
-                <div style="background: #f0f8ff; border: #000080 solid 2px; font-size: 100%; padding: 20px;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Хэрэв таны асрамжийн хүмүүс Японд түр зочиноор (ихэвчлэн жуулчны виз гэгддэг) орж ирвэл тэдний оршин суугаа статусаа Японд хараат хүн болгон өөрчлөхөд хэцүү байх тул болгоомжтой байгаарай.</font></font></div>
+                <div style="background: #f0f8ff; border: #000080 solid 2px; font-size: 100%; padding: 20px;">Хэрэв таны асрамжийн хүмүүс Японд түр зочиноор (ихэвчлэн жуулчны виз гэгддэг) орж ирвэл тэдний оршин суугаа статусаа Японд хараат хүн болгон өөрчлөхөд хэцүү байх тул болгоомжтой байгаарай.</div>
             </div>
             <div>
                 <h2>Цагаачлалын албаны агентлаг болон хотын захиргаанд мэдэгдэх, өргөдөл гаргах</h2>
@@ -49,11 +49,11 @@
                     <li>Хотын захиргаа - оршин суугаа газраа өөрчлөх эсвэл гадаадад суралцаад эх орондоо буцаж ирэх үед.</li>
                 </ul>
                 <div class="m_box">
-                <div class="m_box_heading"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Холбоотой холбоосууд</font></font></div>
+                <div class="m_box_heading">Холбоотой холбоосууд</div>
                     <ul class="m_list m_list_link">
-                        <li><a href="http://www.immi-moj.go.jp/" target="_blank" rel="noopener noreferrer"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Хууль зүйн яамны Цагаачлалын албаны агентлаг</font></font><img src="/ja/assets/images/icon/blank.svg" width="14" height="14" alt="шинэ цонхонд нээх" class="u_icon u_icon_add_blank"></a></li>
-                        <li><a href="https://www.studyinjapan.go.jp/ja/planning/immigration-procedures/" target="_blank" rel="noopener noreferrer"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Цагаачлалын журам, оршин суугаа байдлын тухай</font></font><img src="/ja/assets/images/icon/blank.svg" width="14" height="14" alt="шинэ цонхонд нээх" class="u_icon u_icon_add_blank"></a></li>
-                        <li><a href="https://www.studyinjapan.go.jp/ja/job/immigration-procedures/" target="_blank" rel="noopener noreferrer"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Хөдөлмөр эрхлэхтэй холбоотой оршин суугаа газрын статусыг өөрчлөх журам</font></font><img src="/ja/assets/images/icon/blank.svg" width="14" height="14" alt="шинэ цонхонд нээх" class="u_icon u_icon_add_blank"></a></li>
+                        <li><a href="http://www.immi-moj.go.jp/" target="_blank" rel="noopener noreferrer">Хууль зүйн яамны Цагаачлалын албаны агентлаг<img src="/ja/assets/images/icon/blank.svg" width="14" height="14" alt="шинэ цонхонд нээх" class="u_icon u_icon_add_blank"></a></li>
+                        <li><a href="https://www.studyinjapan.go.jp/ja/planning/immigration-procedures/" target="_blank" rel="noopener noreferrer">Цагаачлалын журам, оршин суугаа байдлын тухай<img src="/ja/assets/images/icon/blank.svg" width="14" height="14" alt="шинэ цонхонд нээх" class="u_icon u_icon_add_blank"></a></li>
+                        <li><a href="https://www.studyinjapan.go.jp/ja/job/immigration-procedures/" target="_blank" rel="noopener noreferrer">Хөдөлмөр эрхлэхтэй холбоотой оршин суугаа газрын статусыг өөрчлөх журам<img src="/ja/assets/images/icon/blank.svg" width="14" height="14" alt="шинэ цонхонд нээх" class="u_icon u_icon_add_blank"></a></li>
                     </ul>
                 </div>
             </div>

@@ -31,8 +31,8 @@
                     {{$t("plan.knowSchools.languageInstitutes.p3")}}                </p>
                 <p>
                     {{$t("plan.knowSchools.languageInstitutes.p4")}}                </p>
-                <p><span style="color: #000000; font-size: 16px;"><a href="/ja/_mt/2021/10/junbi_20190527_1.xlsx" target="_blank" download=""><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
-                    {{$t("plan.knowSchools.languageInstitutes.p5")}}                </font></font><img src="/ja/assets/images/icon/xlsx.png" width="14" height="14" alt="エクセルファイルをダウンロードする" class="u_icon u_icon_add_blank"></a></span></p>
+                <p><span style="color: #000000; font-size: 16px;"><a href="/ja/_mt/2021/10/junbi_20190527_1.xlsx" target="_blank" download="">
+                    {{$t("plan.knowSchools.languageInstitutes.p5")}}                <img src="/ja/assets/images/icon/xlsx.png" width="14" height="14" alt="エクセルファイルをダウンロードする" class="u_icon u_icon_add_blank"></a></span></p>
             </div>
             <div>
                 <h3>{{$t("plan.knowSchools.languageInstitutes.h5")}}</h3>
@@ -63,14 +63,14 @@
                 </ul>
                 <p>
                     {{$t("plan.knowSchools.languageInstitutes.p8")}}                </p>
-                <p><span style="color: #000000;"><strong></strong><a href="https://www.nisshinkyo.org/search/" target="_blank" rel="noopener noreferrer"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
-                    {{$t("plan.knowSchools.languageInstitutes.p9")}}</font></font><img src="/ja/assets/images/icon/blank.svg" width="14" height="14" alt="新しいウインドウで開く" class="u_icon u_icon_add_blank"></a></span></p>
-                <p><span style="color: #3366ff;"><a href="http://www.jalsa.jp/" target="_blank" rel="noopener noreferrer"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
-                    {{$t("plan.knowSchools.languageInstitutes.p10")}}</font></font><img src="/ja/assets/images/icon/blank.svg" width="14" height="14" alt="新しいウインドウで開く" class="u_icon u_icon_add_blank"></a></span></p>
-                <p><span style="color: #000000;"><a href="http://www.moj.go.jp/isa/laws/nyukan_nyukanho_ho28-2.html" target="_blank" rel="noopener noreferrer"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
-                    {{$t("plan.knowSchools.languageInstitutes.p11")}}</font></font><img src="/ja/assets/images/icon/blank.svg" width="14" height="14" alt="新しいウインドウで開く" class="u_icon u_icon_add_blank"></a></span></p>
-                <p><a href="/ja/_mt/2021/11/bekka2020ja.xlsx" target="_blank" download=""><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
-                    {{$t("plan.knowSchools.languageInstitutes.p12")}}</font></font><img src="/ja/assets/images/icon/xlsx.png" width="14" height="14" alt="エクセルファイルをダウンロードする" class="u_icon u_icon_add_blank"></a></p>
+                <p><span style="color: #000000;"><strong></strong><a href="https://www.nisshinkyo.org/search/" target="_blank" rel="noopener noreferrer">
+                    {{$t("plan.knowSchools.languageInstitutes.p9")}}<img src="/ja/assets/images/icon/blank.svg" width="14" height="14" alt="新しいウインドウで開く" class="u_icon u_icon_add_blank"></a></span></p>
+                <p><span style="color: #3366ff;"><a href="http://www.jalsa.jp/" target="_blank" rel="noopener noreferrer">
+                    {{$t("plan.knowSchools.languageInstitutes.p10")}}<img src="/ja/assets/images/icon/blank.svg" width="14" height="14" alt="新しいウインドウで開く" class="u_icon u_icon_add_blank"></a></span></p>
+                <p><span style="color: #000000;"><a href="http://www.moj.go.jp/isa/laws/nyukan_nyukanho_ho28-2.html" target="_blank" rel="noopener noreferrer">
+                    {{$t("plan.knowSchools.languageInstitutes.p11")}}<img src="/ja/assets/images/icon/blank.svg" width="14" height="14" alt="新しいウインドウで開く" class="u_icon u_icon_add_blank"></a></span></p>
+                <p><a href="/ja/_mt/2021/11/bekka2020ja.xlsx" target="_blank" download="">
+                    {{$t("plan.knowSchools.languageInstitutes.p12")}}<img src="/ja/assets/images/icon/xlsx.png" width="14" height="14" alt="エクセルファイルをダウンロードする" class="u_icon u_icon_add_blank"></a></p>
         </div>
         <div>
             <h2>{{$t("plan.knowSchools.languageInstitutes.h17")}}</h2>

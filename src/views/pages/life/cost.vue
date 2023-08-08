@@ -16,52 +16,52 @@
                 <table width="388" height="236">
                     <tbody>
                     <tr>
-                    <td style="width: 186px;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Цагаан будаа (5 кг)</font></font></td>
-                    <td style="width: 186px;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">1,972 иен</font></font></td>
+                    <td style="width: 186px;">Цагаан будаа (5 кг)</td>
+                    <td style="width: 186px;">1,972 иен</td>
                     </tr>
                     <tr>
-                    <td style="width: 186px;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Талх (1 кг)</font></font></td>
-                    <td style="width: 186px;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">479 иен</font></font></td>
+                    <td style="width: 186px;">Талх (1 кг)</td>
+                    <td style="width: 186px;">479 иен</td>
                     </tr>
                     <tr>
-                    <td style="width: 186px;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Сүү (1000 мл)</font></font></td>
-                    <td style="width: 186px;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">212 иен</font></font></td>
+                    <td style="width: 186px;">Сүү (1000 мл)</td>
+                    <td style="width: 186px;">212 иен</td>
                     </tr>
                     <tr>
-                    <td style="width: 186px;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Тахианы өндөг (10 ширхэг)</font></font></td>
-                    <td style="width: 186px;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">227 иен</font></font></td>
+                    <td style="width: 186px;">Тахианы өндөг (10 ширхэг)</td>
+                    <td style="width: 186px;">227 иен</td>
                     </tr>
                     <tr>
-                    <td style="width: 186px;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Алим (1 кг)</font></font></td>
-                    <td style="width: 186px;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">847 иен</font></font></td>
+                    <td style="width: 186px;">Алим (1 кг)</td>
+                    <td style="width: 186px;">847 иен</td>
                     </tr>
                     <tr>
-                    <td style="width: 186px;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Байцаа (1 кг)</font></font></td>
-                    <td style="width: 186px;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">146 иен</font></font></td>
+                    <td style="width: 186px;">Байцаа (1 кг)</td>
+                    <td style="width: 186px;">146 иен</td>
                     </tr>
                     <tr>
-                    <td style="width: 186px;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Карбонатлаг ундаа (1 литр)</font></font></td>
-                    <td style="width: 186px;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">195 иен</font></font></td>
+                    <td style="width: 186px;">Карбонатлаг ундаа (1 литр)</td>
+                    <td style="width: 186px;">195 иен</td>
                     </tr>
                     <tr>
-                    <td style="width: 186px;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">гамбургер</font></font></td>
-                    <td style="width: 186px;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">214 иен</font></font></td>
+                    <td style="width: 186px;">гамбургер</td>
+                    <td style="width: 186px;">214 иен</td>
                     </tr>
                     <tr>
-                    <td style="width: 186px;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Автомашины бензин (1 литр)</font></font></td>
-                    <td style="width: 186px;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">170 иен</font></font></td>
+                    <td style="width: 186px;">Автомашины бензин (1 литр)</td>
+                    <td style="width: 186px;">170 иен</td>
                     </tr>
                     <tr>
-                    <td style="width: 186px;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Ариун цэврийн цаас (1000м)</font></font></td>
-                    <td style="width: 186px;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">695 иен</font></font></td>
+                    <td style="width: 186px;">Ариун цэврийн цаас (1000м)</td>
+                    <td style="width: 186px;">695 иен</td>
                     </tr>
                     <tr>
-                    <td style="width: 186px;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">үс засах</font></font></td>
-                    <td style="width: 186px;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">3,658 иен</font></font></td>
+                    <td style="width: 186px;">үс засах</td>
+                    <td style="width: 186px;">3,658 иен</td>
                     </tr>
                     <tr>
-                    <td style="width: 186px;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Такси (4км)</font></font></td>
-                    <td style="width: 186px;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">1,519 иен</font></font></td>
+                    <td style="width: 186px;">Такси (4км)</td>
+                    <td style="width: 186px;">1,519 иен</td>
                     </tr>
                     </tbody>
                 </table>

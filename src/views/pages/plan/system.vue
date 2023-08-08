@@ -18,152 +18,152 @@
                 <tr style="height: 19px; background-color: #706f6f;">
                     <td style="width: 147px; height: 19px; text-align: center;"></td>
                     <td style="width: 185.61px; height: 19px; text-align: center;">
-                        <span style="font-size: 16px;"><strong><span style="color: #ffffff;"><font style="vertical-align: inherit;">
-                            <font style="vertical-align: inherit;">{{$t("plan.system.tr1")}}</font></font></span></strong></span></td>
+                        <span style="font-size: 16px;"><strong><span style="color: #ffffff;">
+                            {{$t("plan.system.tr1")}}</span></strong></span></td>
                     <td style="width: 187.38px; height: 19px; text-align: center;"><span style="font-size: 16px;"><strong>
-                        <span style="color: #ffffff;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+                        <span style="color: #ffffff;">
                             {{$t("plan.system.tr2")}}
-                        </font></font></span></strong></span></td>
+                        </span></strong></span></td>
                     <td style="width: 207px; height: 19px; text-align: center;"><span style="font-size: 16px;"><strong>
-                        <span style="color: #ffffff;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+                        <span style="color: #ffffff;">
                             {{$t("plan.system.tr3")}}
-                        </font></font></span></strong></span></td>
+                        </span></strong></span></td>
                     <td style="width: 279px; height: 19px; text-align: center;"><span style="font-size: 16px;"><strong>
-                        <span style="color: #ffffff;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+                        <span style="color: #ffffff;">
                             {{$t("plan.system.tr4")}}
-                        </font></font></span></strong></span></td>
+                        </span></strong></span></td>
                 </tr>
                 <tr style="height: 14px;">
-                    <td style="width: 147px; height: 82px;" rowspan="5"><font style="vertical-align: inherit;">
-                        <font style="vertical-align: inherit;">{{$t("plan.system.tr5")}}</font></font></td>
-                    <td style="width: 185.61px; height: 14px; text-align: center;"><font style="vertical-align: inherit;">
-                        <font style="vertical-align: inherit;">{{$t("plan.system.tr6")}}</font></font><span style="font-size: 12px;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
-                            *1</font></font></span></td>
-                    <td style="width: 187.38px; height: 14px; text-align: center;"><font style="vertical-align: inherit;">
-                        <font style="vertical-align: inherit;">{{$t("plan.system.tr7")}}</font></font></td>
-                    <td style="width: 207px; height: 14px; text-align: center;"><font style="vertical-align: inherit;">
-                        <font style="vertical-align: inherit;">{{$t("plan.system.tr8")}} </font></font><span style="font-size: 12px;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
-                            *2</font></font></span></td>
-                    <td style="width: 279px; height: 14px; text-align: center;"><font style="vertical-align: inherit;">
-                        <font style="vertical-align: inherit;">
-                            {{$t("plan.system.tr9")}}</font></font></td>
+                    <td style="width: 147px; height: 82px;" rowspan="5">
+                        {{$t("plan.system.tr5")}}</td>
+                    <td style="width: 185.61px; height: 14px; text-align: center;">
+                        {{$t("plan.system.tr6")}}<span style="font-size: 12px;">
+                            *1</span></td>
+                    <td style="width: 187.38px; height: 14px; text-align: center;">
+                        {{$t("plan.system.tr7")}}</td>
+                    <td style="width: 207px; height: 14px; text-align: center;">
+                        {{$t("plan.system.tr8")}} <span style="font-size: 12px;">
+                            *2</span></td>
+                    <td style="width: 279px; height: 14px; text-align: center;">
+                        
+                            {{$t("plan.system.tr9")}}</td>
                 </tr>
                 <tr style="height: 17px;">
-                    <td style="width: 185.61px; height: 17px; text-align: center;"><font style="vertical-align: inherit;">
-                        <font style="vertical-align: inherit;">{{$t("plan.system.tr10")}}</font></font></td>
-                    <td style="width: 187.38px; height: 17px; text-align: center;"><font style="vertical-align: inherit;">
-                        <font style="vertical-align: inherit;">{{$t("plan.system.tr11")}}</font></font></td>
-                    <td style="width: 207px; height: 17px; text-align: center;"><font style="vertical-align: inherit;">
-                        <font style="vertical-align: inherit;">{{$t("plan.system.tr12")}} </font></font><span style="font-size: 12px;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
-                            *2</font></font></span></td>
-                    <td style="width: 279px; height: 17px; text-align: center;"><font style="vertical-align: inherit;">
-                        <font style="vertical-align: inherit;">{{$t("plan.system.tr13")}}</font></font></td>
+                    <td style="width: 185.61px; height: 17px; text-align: center;">
+                        {{$t("plan.system.tr10")}}</td>
+                    <td style="width: 187.38px; height: 17px; text-align: center;">
+                        {{$t("plan.system.tr11")}}</td>
+                    <td style="width: 207px; height: 17px; text-align: center;">
+                        {{$t("plan.system.tr12")}} <span style="font-size: 12px;">
+                            *2</span></td>
+                    <td style="width: 279px; height: 17px; text-align: center;">
+                        {{$t("plan.system.tr13")}}</td>
                 </tr>
                 <tr style="height: 17px;">
-                    <td style="width: 185.61px; height: 51px; text-align: center;" rowspan="3"><font style="vertical-align: inherit;">
-                        <font style="vertical-align: inherit;">{{$t("plan.system.tr14")}}</font></font></td>
-                    <td style="width: 187.38px; height: 17px; text-align: center;"><font style="vertical-align: inherit;">
-                        <font style="vertical-align: inherit;">{{$t("plan.system.tr15")}}</font></font></td>
-                    <td style="width: 207px; height: 17px; text-align: center;"><font style="vertical-align: inherit;">
-                        <font style="vertical-align: inherit;">{{$t("plan.system.tr16")}}</font></font></td>
-                    <td style="width: 279px; height: 17px; text-align: center;"><font style="vertical-align: inherit;">
-                        <font style="vertical-align: inherit;">{{$t("plan.system.tr17")}}</font></font></td>
+                    <td style="width: 185.61px; height: 51px; text-align: center;" rowspan="3">
+                        {{$t("plan.system.tr14")}}</td>
+                    <td style="width: 187.38px; height: 17px; text-align: center;">
+                        {{$t("plan.system.tr15")}}</td>
+                    <td style="width: 207px; height: 17px; text-align: center;">
+                        {{$t("plan.system.tr16")}}</td>
+                    <td style="width: 279px; height: 17px; text-align: center;">
+                        {{$t("plan.system.tr17")}}</td>
                 </tr>
                 <tr style="height: 17px;">
-                    <td style="width: 187.38px; height: 17px; text-align: center;"><font style="vertical-align: inherit;">
-                        <font style="vertical-align: inherit;">{{$t("plan.system.tr18")}}</font></font></td>
-                    <td style="width: 207px; height: 17px; text-align: center;"><font style="vertical-align: inherit;">
-                        <font style="vertical-align: inherit;">{{$t("plan.system.tr19")}}</font></font></td>
-                    <td style="width: 279px; height: 17px; text-align: center;"><font style="vertical-align: inherit;">
-                        <font style="vertical-align: inherit;">{{$t("plan.system.tr20")}}</font></font></td>
+                    <td style="width: 187.38px; height: 17px; text-align: center;">
+                        {{$t("plan.system.tr18")}}</td>
+                    <td style="width: 207px; height: 17px; text-align: center;">
+                        {{$t("plan.system.tr19")}}</td>
+                    <td style="width: 279px; height: 17px; text-align: center;">
+                        {{$t("plan.system.tr20")}}</td>
                 </tr>
                 <tr style="height: 17px;">
-                    <td style="width: 187.38px; height: 17px; text-align: center;"><font style="vertical-align: inherit;">
-                        <font style="vertical-align: inherit;">{{$t("plan.system.tr21")}}</font></font></td>
-                    <td style="width: 207px; height: 17px; text-align: center;"><font style="vertical-align: inherit;">
-                        <font style="vertical-align: inherit;">{{$t("plan.system.tr22")}}</font></font></td>
-                    <td style="width: 279px; height: 17px; text-align: center;"><font style="vertical-align: inherit;">
-                        <font style="vertical-align: inherit;">{{$t("plan.system.tr23")}}</font></font></td>
+                    <td style="width: 187.38px; height: 17px; text-align: center;">
+                        {{$t("plan.system.tr21")}}</td>
+                    <td style="width: 207px; height: 17px; text-align: center;">
+                        {{$t("plan.system.tr22")}}</td>
+                    <td style="width: 279px; height: 17px; text-align: center;">
+                        {{$t("plan.system.tr23")}}</td>
                 </tr>
                 <tr style="height: 41.12px;">
-                    <td style="width: 147px; height: 54.12px;" rowspan="2"><font style="vertical-align: inherit;">
-                        <font style="vertical-align: inherit;">{{$t("plan.system.tr24")}}</font></font></td>
-                    <td style="width: 185.61px; height: 41.12px; text-align: center;"><font style="vertical-align: inherit;">
-                        <font style="vertical-align: inherit;">{{$t("plan.system.tr25")}}</font></font></td>
-                    <td style="width: 187.38px; height: 54.12px; text-align: center;" rowspan="2"><font style="vertical-align: inherit;">
-                        <font style="vertical-align: inherit;">{{$t("plan.system.tr26")}}</font></font></td>
-                    <td style="width: 207px; height: 41.12px; text-align: center;"><font style="vertical-align: inherit;">
-                        <font style="vertical-align: inherit;">{{$t("plan.system.tr27")}}</font></font></td>
-                    <td style="width: 279px; height: 41.12px; text-align: center;"><font style="vertical-align: inherit;">
-                        <font style="vertical-align: inherit;">{{$t("plan.system.tr28")}}</font></font></td>
+                    <td style="width: 147px; height: 54.12px;" rowspan="2">
+                        {{$t("plan.system.tr24")}}</td>
+                    <td style="width: 185.61px; height: 41.12px; text-align: center;">
+                        {{$t("plan.system.tr25")}}</td>
+                    <td style="width: 187.38px; height: 54.12px; text-align: center;" rowspan="2">
+                        {{$t("plan.system.tr26")}}</td>
+                    <td style="width: 207px; height: 41.12px; text-align: center;">
+                        {{$t("plan.system.tr27")}}</td>
+                    <td style="width: 279px; height: 41.12px; text-align: center;">
+                        {{$t("plan.system.tr28")}}</td>
                 </tr>
                 <tr style="height: 13px;">
-                    <td style="width: 185.61px; height: 13px; text-align: center;"><font style="vertical-align: inherit;">
-                        <font style="vertical-align: inherit;">{{$t("plan.system.tr29")}}</font></font></td>
+                    <td style="width: 185.61px; height: 13px; text-align: center;">
+                        {{$t("plan.system.tr29")}}</td>
                     <td style="width: 207px; height: 13px; text-align: center;">
-                    <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">{{$t("plan.system.tr30")}}</font></font></p>
+                    <p>{{$t("plan.system.tr30")}}</p>
                     </td>
                     <td style="width: 279px; height: 13px; text-align: center;">
-                    <p><font style="vertical-align: inherit;">
-                        <font style="vertical-align: inherit;">{{$t("plan.system.tr31")}}</font></font><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
-                            {{$t("plan.system.tr32")}}</font></font><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
-                                {{$t("plan.system.tr33")}}</font></font></p>
+                    <p>
+                        {{$t("plan.system.tr31")}}<br>
+                            {{$t("plan.system.tr32")}}<br>
+                                {{$t("plan.system.tr33")}}</p>
                     </td>
                 </tr>
                 <tr style="height: 11px;">
-                    <td style="width: 147px; height: 11px;"><font style="vertical-align: inherit;">
-                        <font style="vertical-align: inherit;">{{$t("plan.system.tr34")}}</font></font></td>
+                    <td style="width: 147px; height: 11px;">
+                        {{$t("plan.system.tr34")}}</td>
                     <td style="width: 185.61px; height: 11px; text-align: center;">
                     <p></p>
                     </td>
-                    <td style="width: 187.38px; height: 11px; text-align: center;"><font style="vertical-align: inherit;">
-                        <font style="vertical-align: inherit;">{{$t("plan.system.tr35")}}</font></font></td>
+                    <td style="width: 187.38px; height: 11px; text-align: center;">
+                        {{$t("plan.system.tr35")}}</td>
                     <td style="width: 207px; height: 11px; text-align: center;">
-                    <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">{{$t("plan.system.tr36")}}</font></font></p>
+                    <p>{{$t("plan.system.tr36")}}</p>
                     </td>
                     <td style="width: 279px; height: 11px; text-align: center;">
-                    <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">{{$t("plan.system.tr37")}}</font></font></p>
+                    <p>{{$t("plan.system.tr37")}}</p>
                     </td>
                 </tr>
                 <tr style="height: 44px;">
-                    <td style="width: 147px; height: 44px;"><font style="vertical-align: inherit;">
-                        <font style="vertical-align: inherit;">{{$t("plan.system.tr38")}}</font></font></td>
+                    <td style="width: 147px; height: 44px;">
+                        {{$t("plan.system.tr38")}}</td>
                     <td style="width: 185.61px; height: 44px; text-align: center;"></td>
-                    <td style="width: 187.38px; height: 44px; text-align: center;"><font style="vertical-align: inherit;">
-                        <font style="vertical-align: inherit;">{{$t("plan.system.tr39")}}</font></font></td>
+                    <td style="width: 187.38px; height: 44px; text-align: center;">
+                        {{$t("plan.system.tr39")}}</td>
                     <td style="width: 207px; height: 44px; text-align: center;">
-                    <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">{{$t("plan.system.tr40")}}</font></font></p>
+                    <p>{{$t("plan.system.tr40")}}</p>
                     </td>
                     <td style="width: 279px; height: 44px; text-align: center;">
-                    <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
-                        {{$t("plan.system.tr41")}} </font></font><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
-                            {{$t("plan.system.tr42")}}</font></font></p>
+                    <p>
+                        {{$t("plan.system.tr41")}} <br>
+                            {{$t("plan.system.tr42")}}</p>
                     </td>
                 </tr>
                 <tr style="height: 44px;">
-                    <td style="width: 147px; height: 44px;"><font style="vertical-align: inherit;">
-                        <font style="vertical-align: inherit;">{{$t("plan.system.tr43")}}</font></font></td>
+                    <td style="width: 147px; height: 44px;">
+                        {{$t("plan.system.tr43")}}</td>
                     <td style="width: 185.61px; height: 44px; text-align: center;"></td>
-                    <td style="width: 187.38px; height: 44px; text-align: center;"><font style="vertical-align: inherit;">
-                        <font style="vertical-align: inherit;">{{$t("plan.system.tr44")}}</font></font></td>
+                    <td style="width: 187.38px; height: 44px; text-align: center;">
+                        {{$t("plan.system.tr44")}}</td>
                     <td style="width: 207px; height: 44px; text-align: center;">
-                    <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">{{$t("plan.system.tr45")}}</font></font></p>
+                    <p>{{$t("plan.system.tr45")}}</p>
                     </td>
                     <td style="width: 279px; height: 44px; text-align: center;">
-                    <p><font style="vertical-align: inherit;">
-                        <font style="vertical-align: inherit;">{{$t("plan.system.tr46")}}</font></font><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
-                            {{$t("plan.system.tr47")}}</font></font></p>
+                    <p>
+                        {{$t("plan.system.tr46")}}<br>
+                            {{$t("plan.system.tr47")}}</p>
                     </td>
                 </tr>
                 <tr style="height: 44px;">
-                    <td style="width: 147px; height: 44px;"><font style="vertical-align: inherit;">
-                        <font style="vertical-align: inherit;">{{$t("plan.system.tr48")}}</font></font></td>
+                    <td style="width: 147px; height: 44px;">
+                        {{$t("plan.system.tr48")}}</td>
                     <td style="width: 185.61px; height: 44px; text-align: center;"></td>
-                    <td style="width: 187.38px; height: 44px; text-align: center;"><font style="vertical-align: inherit;">
-                        <font style="vertical-align: inherit;">{{$t("plan.system.tr49")}}</font></font></td>
+                    <td style="width: 187.38px; height: 44px; text-align: center;">
+                        {{$t("plan.system.tr49")}}</td>
                     <td style="width: 207px; height: 44px; text-align: center;">
-                    <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">{{$t("plan.system.tr50")}}</font></font><span style="font-size: 12px;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
-                        *3</font></font></span></p>
+                    <p>{{$t("plan.system.tr50")}}<span style="font-size: 12px;">
+                        *3</span></p>
                     </td>
                     <td style="width: 279px; height: 44px; text-align: center;">
                     <p></p>
@@ -171,22 +171,22 @@
                 </tr>
                 <tr style="height: 17px;">
                     <td style="width: 147px; height: 34px;" rowspan="2">
-                    <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">{{$t("plan.system.tr51")}}</font></font></p>
-                    <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">{{$t("plan.system.tr52")}}</font></font></p>
+                    <p>{{$t("plan.system.tr51")}}</p>
+                    <p>{{$t("plan.system.tr52")}}</p>
                     </td>
-                    <td style="width: 185.61px; height: 17px; text-align: center;" rowspan="2"><font style="vertical-align: inherit;">
-                        <font style="vertical-align: inherit;">{{$t("plan.system.tr53")}}</font></font></td>
-                    <td style="width: 187.38px; height: 17px; text-align: center;"><font style="vertical-align: inherit;">
-                        <font style="vertical-align: inherit;">{{$t("plan.system.tr54")}}</font></font></td>
-                    <td style="width: 207px; height: 17px; text-align: center;"><font style="vertical-align: inherit;">
-                        <font style="vertical-align: inherit;">{{$t("plan.system.tr55")}}</font></font></td>
+                    <td style="width: 185.61px; height: 17px; text-align: center;" rowspan="2">
+                        {{$t("plan.system.tr53")}}</td>
+                    <td style="width: 187.38px; height: 17px; text-align: center;">
+                        {{$t("plan.system.tr54")}}</td>
+                    <td style="width: 207px; height: 17px; text-align: center;">
+                        {{$t("plan.system.tr55")}}</td>
                     <td style="width: 279px; height: 17px; text-align: center;"></td>
                 </tr>
                 <tr style="height: 17px;">
-                    <td style="width: 187.38px; height: 17px; text-align: center;"><font style="vertical-align: inherit;">
-                        <font style="vertical-align: inherit;">{{$t("plan.system.tr56")}}</font></font></td>
-                    <td style="width: 207px; height: 17px; text-align: center;"><font style="vertical-align: inherit;">
-                        <font style="vertical-align: inherit;">{{$t("plan.system.tr57")}}</font></font></td>
+                    <td style="width: 187.38px; height: 17px; text-align: center;">
+                        {{$t("plan.system.tr56")}}</td>
+                    <td style="width: 207px; height: 17px; text-align: center;">
+                        {{$t("plan.system.tr57")}}</td>
                     <td style="width: 279px; height: 17px; text-align: center;"></td>
                 </tr>
             </tbody>
@@ -201,81 +201,81 @@
         </p>
         
         <div class="p_plan_data">
-            <div class="p_plan_data_title"><span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+            <div class="p_plan_data_title"><span>
                 {{$t("plan.system.h4")}}
-            </font></font></span></div>
+            </span></div>
             <table class="p_plan_data_table">
             <thead>
             <tr>
             <td></td>
-            <th scope="col"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">{{$t("plan.system.th1")}}</font></font></th>
-            <th scope="col"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">{{$t("plan.system.th2")}}</font></font></th>
-            <th scope="col"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">{{$t("plan.system.th3")}}</font></font></th>
-            <th scope="col"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">{{$t("plan.system.th4")}}</font></font></th>
+            <th scope="col">{{$t("plan.system.th1")}}</th>
+            <th scope="col">{{$t("plan.system.th2")}}</th>
+            <th scope="col">{{$t("plan.system.th3")}}</th>
+            <th scope="col">{{$t("plan.system.th4")}}</th>
             </tr>
             </thead>
             <tbody>
             <tr>
-            <th scope="row"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">{{$t("plan.system.th5")}}</font></font></th>
-            <td style="text-align: center;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">86</font></font></td>
-            <td style="text-align: center;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">89</font></font></td>
-            <td style="text-align: center;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">482</font></font></td>
-            <td style="text-align: center;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">657</font></font></td>
+            <th scope="row">{{$t("plan.system.th5")}}</th>
+            <td style="text-align: center;">86</td>
+            <td style="text-align: center;">89</td>
+            <td style="text-align: center;">482</td>
+            <td style="text-align: center;">657</td>
             </tr>
             <tr>
-            <th scope="row"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">{{$t("plan.system.th6")}}</font></font></th>
-            <td style="text-align: center;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">86</font></font></td>
-            <td style="text-align: center;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">101</font></font></td>
-            <td style="text-align: center;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">620</font></font></td>
-            <td style="text-align: center;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">807</font></font></td>
+            <th scope="row">{{$t("plan.system.th6")}}</th>
+            <td style="text-align: center;">86</td>
+            <td style="text-align: center;">101</td>
+            <td style="text-align: center;">620</td>
+            <td style="text-align: center;">807</td>
             </tr>
             <tr>
-            <th scope="row"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">{{$t("plan.system.th7")}}</font></font></th>
-            <td style="text-align: center;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">0</font></font></td>
-            <td style="text-align: center;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">14</font></font></td>
-            <td style="text-align: center;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">295</font></font></td>
-            <td style="text-align: center;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">309</font></font></td>
+            <th scope="row">{{$t("plan.system.th7")}}</th>
+            <td style="text-align: center;">0</td>
+            <td style="text-align: center;">14</td>
+            <td style="text-align: center;">295</td>
+            <td style="text-align: center;">309</td>
             </tr>
             <tr>
-            <th scope="row"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">{{$t("plan.system.th8")}}</font></font></th>
-            <td style="text-align: center;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">51</font></font></td>
-            <td style="text-align: center;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">3</font></font></td>
-            <td style="text-align: center;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">3</font></font></td>
-            <td style="text-align: center;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">57</font></font></td>
+            <th scope="row">{{$t("plan.system.th8")}}</th>
+            <td style="text-align: center;">51</td>
+            <td style="text-align: center;">3</td>
+            <td style="text-align: center;">3</td>
+            <td style="text-align: center;">57</td>
             </tr>
             <tr>
-            <th scope="row"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">{{$t("plan.system.th9")}}</font></font></th>
-            <td style="text-align: center;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">8</font></font></td>
-            <td style="text-align: center;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">180</font></font></td>
-            <td style="text-align: center;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2533</font></font></td>
-            <td style="text-align: center;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2721</font></font></td>
+            <th scope="row">{{$t("plan.system.th9")}}</th>
+            <td style="text-align: center;">8</td>
+            <td style="text-align: center;">180</td>
+            <td style="text-align: center;">2533</td>
+            <td style="text-align: center;">2721</td>
             </tr>
             </tbody>
-            <caption><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+            <caption>
                 {{$t("plan.system.c1")}}
-            </font></font></caption></table>
+            </caption></table>
         </div>
 
         <div class="m_box">
-            <div class="m_box_heading"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
-                {{$t("plan.system.l1")}}</font></font></div>
+            <div class="m_box_heading">
+                {{$t("plan.system.l1")}}</div>
             <ul class="m_list m_list_link">
-                <li><a href="https://www.nicjp.niad.ac.jp/japanese-system/index.html" target="_blank" rel="noopener noreferrer"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
-                    {{$t("plan.system.l2")}}                </font></font><img src="/public/assets/images/other/event/blank.svg" width="14" height="14" alt="шинэ цонхонд нээх" class="u_icon u_icon_add_blank"></a></li>
-                <li><a href="https://www.niad.ac.jp/consolidation/international/info/japan.html" target="_blank" rel="noopener noreferrer"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
-                    {{$t("plan.system.l3")}}                </font></font><img src="/ja/assets/images/icon/blank.svg" width="14" height="14" alt="шинэ цонхонд нээх" class="u_icon u_icon_add_blank"></a></li>
-                <li><a href="http://www.mext.go.jp/a_menu/koutou/houjin/houjin.htm" target="_blank" rel="noopener noreferrer"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
-                    {{$t("plan.system.l4")}}                </font></font><img src="/ja/assets/images/icon/blank.svg" width="14" height="14" alt="шинэ цонхонд нээх" class="u_icon u_icon_add_blank"></a></li>
-                <li><a href="http://www.mext.go.jp/a_menu/koutou/shiritsu/index.htm" target="_blank" rel="noopener noreferrer"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
-                    {{$t("plan.system.l5")}}                </font></font><img src="/ja/assets/images/icon/blank.svg" width="14" height="14" alt="шинэ цонхонд нээх" class="u_icon u_icon_add_blank"></a></li>
-                <li><a href="http://www.mext.go.jp/a_menu/koutou/kouritsu/index.htm" target="_blank" rel="noopener noreferrer"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
-                    {{$t("plan.system.l6")}}                </font></font><img src="/ja/assets/images/icon/blank.svg" width="14" height="14" alt="шинэ цонхонд нээх" class="u_icon u_icon_add_blank"></a></li>
-                <li><a href="http://www.mext.go.jp/a_menu/koutou/tandai/index.htm" target="_blank" rel="noopener noreferrer"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
-                    {{$t("plan.system.l7")}}                </font></font><img src="/ja/assets/images/icon/blank.svg" width="14" height="14" alt="шинэ цонхонд нээх" class="u_icon u_icon_add_blank"></a></li>
-                <li><a href="http://www.mext.go.jp/a_menu/shougai/senshuu/main11_a1.htm" target="_blank" rel="noopener noreferrer"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
-                    {{$t("plan.system.l8")}}                </font></font><img src="/ja/assets/images/icon/blank.svg" width="14" height="14" alt="шинэ цонхонд нээх" class="u_icon u_icon_add_blank"></a></li>
-                <li><a href="http://www.mext.go.jp/a_menu/koutou/kousen/index.htm" target="_blank" rel="noopener noreferrer"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
-                    {{$t("plan.system.l9")}}                </font></font><img src="/ja/assets/images/icon/blank.svg" width="14" height="14" alt="шинэ цонхонд нээх" class="u_icon u_icon_add_blank"></a></li>
+                <li><a href="https://www.nicjp.niad.ac.jp/japanese-system/index.html" target="_blank" rel="noopener noreferrer">
+                    {{$t("plan.system.l2")}}                <img src="/public/assets/images/other/event/blank.svg" width="14" height="14" alt="шинэ цонхонд нээх" class="u_icon u_icon_add_blank"></a></li>
+                <li><a href="https://www.niad.ac.jp/consolidation/international/info/japan.html" target="_blank" rel="noopener noreferrer">
+                    {{$t("plan.system.l3")}}                <img src="/ja/assets/images/icon/blank.svg" width="14" height="14" alt="шинэ цонхонд нээх" class="u_icon u_icon_add_blank"></a></li>
+                <li><a href="http://www.mext.go.jp/a_menu/koutou/houjin/houjin.htm" target="_blank" rel="noopener noreferrer">
+                    {{$t("plan.system.l4")}}                <img src="/ja/assets/images/icon/blank.svg" width="14" height="14" alt="шинэ цонхонд нээх" class="u_icon u_icon_add_blank"></a></li>
+                <li><a href="http://www.mext.go.jp/a_menu/koutou/shiritsu/index.htm" target="_blank" rel="noopener noreferrer">
+                    {{$t("plan.system.l5")}}                <img src="/ja/assets/images/icon/blank.svg" width="14" height="14" alt="шинэ цонхонд нээх" class="u_icon u_icon_add_blank"></a></li>
+                <li><a href="http://www.mext.go.jp/a_menu/koutou/kouritsu/index.htm" target="_blank" rel="noopener noreferrer">
+                    {{$t("plan.system.l6")}}                <img src="/ja/assets/images/icon/blank.svg" width="14" height="14" alt="шинэ цонхонд нээх" class="u_icon u_icon_add_blank"></a></li>
+                <li><a href="http://www.mext.go.jp/a_menu/koutou/tandai/index.htm" target="_blank" rel="noopener noreferrer">
+                    {{$t("plan.system.l7")}}                <img src="/ja/assets/images/icon/blank.svg" width="14" height="14" alt="шинэ цонхонд нээх" class="u_icon u_icon_add_blank"></a></li>
+                <li><a href="http://www.mext.go.jp/a_menu/shougai/senshuu/main11_a1.htm" target="_blank" rel="noopener noreferrer">
+                    {{$t("plan.system.l8")}}                <img src="/ja/assets/images/icon/blank.svg" width="14" height="14" alt="шинэ цонхонд нээх" class="u_icon u_icon_add_blank"></a></li>
+                <li><a href="http://www.mext.go.jp/a_menu/koutou/kousen/index.htm" target="_blank" rel="noopener noreferrer">
+                    {{$t("plan.system.l9")}}                <img src="/ja/assets/images/icon/blank.svg" width="14" height="14" alt="шинэ цонхонд нээх" class="u_icon u_icon_add_blank"></a></li>
             </ul>
         </div>
     </div>

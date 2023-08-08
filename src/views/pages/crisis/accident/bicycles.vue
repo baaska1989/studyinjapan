@@ -2,28 +2,28 @@
   <main style="padding: 30px;">
     <div id="MainTextCnt">
 
-      <div class="lifeH3"><h3 class="llText">"Keep the bicyclists' rule for safe driving"</h3></div>
+      <div class="lifeH3"><h3 class="llText">{{ $t("crisis.accident.bicycles.t1") }}</h3></div>
 
       <div class="w660 cenObj">
         <div class="padT20 marB20">
           <table cellspacing="5" cellpadding="0" border="0" class="lifeHeadMenu">
             <tbody><tr>
-              <td><a href="#1">Traffic Regulations for Bicycle</a></td>
-              <td><a href="#2">Handling Traffic Accident</a></td>
+              <td><a href="#1">{{ $t("crisis.accident.bicycles.l1") }}</a></td>
+              <td><a href="#2">{{ $t("crisis.accident.bicycles.l2") }}</a></td>
             </tr>
             <tr>
-              <td><a href="#3">Registration, etc.</a></td>
+              <td><a href="#3">{{ $t("crisis.accident.bicycles.l3") }}</a></td>
               <td>&nbsp;</td>
             </tr>
             </tbody></table>
         </div>
 
-        <p>Listed below are the cases of a road accident.</p>
+        <p>{{ $t("crisis.accident.bicycles.p1") }}</p>
 
         <ul class="padT15 padL15">
-          <li>1. Two bicycles traveling on a sidewalk crashed into each other, and the one of which was caught off balance and its motorcyclist fell over on the roadway. He was run over by a car that came from backward and died.</li>
-          <li>2. A motorcyclist crossed a intersection ignoring that the traffic light was red, so that a truck driver who attempted to avoid the bicycle run into a building and died.</li>
-          <li>3. A bicycle of a woman aged 71's and that of a 14 year-old boy's collided at night, and the former died from the accident. Both didn't turn the front light on when the accident occurred.</li>
+          <li>1. {{ $t("crisis.accident.bicycles.li1_1") }}</li>
+          <li>2. {{ $t("crisis.accident.bicycles.li1_2") }}</li>
+          <li>3. {{ $t("crisis.accident.bicycles.li1_3") }}</li>
         </ul>
         <p class="padT15">Furthermore, we have the cases of a bicycle accident which led to the large amount of compensation for damage (from Metropolitan Police Department's website).</p>
         <ul class="padT15 padL15">
@@ -43,13 +43,7 @@
 
         <ul class="padT15 padL15">
           <li>
-            <p class="padT15">1. In principle, bicycles should be on the main road. Keep the left side of the roadway. But cyclists may travel on the sidewalk on the occasions described below.</p>
-            <ul class="padT15">
-              <li>if there is a sign that says bicycles are permitted.</li>
-              <li>cyclists aged under 13, aged over 70 or disable may travel on the sidewalk.</li>
-              <li>when traveling on the sidewalk is necessary, judging from the traffic condition of the roadway (for example, when there are obstacles such as parking cars).</li>
-            </ul>
-            <p class="padT15">When you travel on the sidewalks, you must ride in a way and at a speed that does not obstruct pedestrian traffic and keep to the side facing the road.</p>
+            <p class="padT15">1. In principle, bicycles should be on the main road. Keep the left side of the roadway. But cyclists may travel on the sidewalk on the occasions described below. if there is a sign that says bicycles are permitted. cyclists aged under 13, aged over 70 or disable may travel on the sidewalk. when traveling on the sidewalk is necessary, judging from the traffic condition of the roadway (for example, when there are obstacles such as parking cars). When you travel on the sidewalks, you must ride in a way and at a speed that does not obstruct pedestrian traffic and keep to the side facing the road.</p>
           </li>
           <li class="padT15">2. You must not ride a bicycle while under the influence of alcohol. Driving while intoxicated shall be subject to imprisonment at forced labor for not more than five years or a fine of not more than 1,000,000 yen.</li>
           <li class="padT15">3. Having two people on a bicycle is prohibited in Japan (except carrying a child aged under six).</li>

@@ -13,28 +13,28 @@
             <table class="p_plan_subject_table">
                 <tbody>
                     <tr>
-                    <th scope="row" class="p_plan_subject_table_blank"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">судлаач оюутан</font></font></th>
-                    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">35-аас доош насны болон их дээд сургууль төгссөн хүмүүс (түүний дотор төгсөгчид). </font><font style="vertical-align: inherit;">Эсвэл 16 жилийн сургууль төгссөн хүмүүс</font></font></td>
+                    <th scope="row" class="p_plan_subject_table_blank">судлаач оюутан</th>
+                    <td>35-аас доош насны болон их дээд сургууль төгссөн хүмүүс (түүний дотор төгсөгчид). Эсвэл 16 жилийн сургууль төгссөн хүмүүс</td>
                     </tr>
                     <tr>
-                    <th scope="row"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">багш бэлтгэх оюутан</font></font></th>
-                    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">35-аас доош насны, их, дээд сургууль, багшийн сургууль төгссөн, бага, дунд боловсролын сургалтын байгууллагад одоогийн багшаар 5-аас доошгүй жил ажилласан, өөрийн улсын багшийн сургуульд багшаар ажилласан туршлагатай (одоогийн их сургуулийн багш нар хамрагдахгүй).</font></font></td>
+                    <th scope="row">багш бэлтгэх оюутан</th>
+                    <td>35-аас доош насны, их, дээд сургууль, багшийн сургууль төгссөн, бага, дунд боловсролын сургалтын байгууллагад одоогийн багшаар 5-аас доошгүй жил ажилласан, өөрийн улсын багшийн сургуульд багшаар ажилласан туршлагатай (одоогийн их сургуулийн багш нар хамрагдахгүй).</td>
                     </tr>
                     <tr>
-                    <th scope="row"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">бакалаврын оюутан</font></font></th>
-                    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">17-25 насны 12 жилийн сургууль төгссөн эсвэл ахлах сургуульд тохирсон сургуулийн сургалтын хөтөлбөрийг дүүргэсэн хүмүүс (түүний дунд ирээдүйн оюутнууд)</font></font></td>
+                    <th scope="row">бакалаврын оюутан</th>
+                    <td>17-25 насны 12 жилийн сургууль төгссөн эсвэл ахлах сургуульд тохирсон сургуулийн сургалтын хөтөлбөрийг дүүргэсэн хүмүүс (түүний дунд ирээдүйн оюутнууд)</td>
                     </tr>
                     <tr>
-                    <th scope="row"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Япон хэл, соёлыг гадаадад сурдаг оюутан</font></font></th>
-                    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">18-30 насны, Японд ирэх болон Японд буцаж ирэхдээ гадаадын (Японоос бусад) их дээд сургуульд элсэн суралцаж, Япон хэл, соёлтой холбоотой мэргэжлээр суралцаж буй хүмүүс.</font></font></td>
+                    <th scope="row">Япон хэл, соёлыг гадаадад сурдаг оюутан</th>
+                    <td>18-30 насны, Японд ирэх болон Японд буцаж ирэхдээ гадаадын (Японоос бусад) их дээд сургуульд элсэн суралцаж, Япон хэл, соёлтой холбоотой мэргэжлээр суралцаж буй хүмүүс.</td>
                     </tr>
                     <tr>
-                    <th scope="row"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">технологийн коллежийн олон улсын оюутан</font></font></th>
-                    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">17-25 насны, ахлах сургуульд (бага сургуулиас нийт 11 ба түүнээс дээш жил суралцсан) зохих курс төгссөн хүмүүс (боломжтой оюутнуудыг оруулаад)</font></font></td>
+                    <th scope="row">технологийн коллежийн олон улсын оюутан</th>
+                    <td>17-25 насны, ахлах сургуульд (бага сургуулиас нийт 11 ба түүнээс дээш жил суралцсан) зохих курс төгссөн хүмүүс (боломжтой оюутнуудыг оруулаад)</td>
                     </tr>
                     <tr>
-                    <th scope="row"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Мэргэшсэн сургалтын коллеж гадаад оюутнууд</font></font></th>
-                    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">17-25 насны 12 жилийн сургуулийн боловсрол эзэмшсэн хүмүүс эсвэл Японы ахлах сургуульд тохирсон сургуулийн курс төгссөн хүмүүс (түүний дунд ирээдүйн оюутнууд)</font></font></td>
+                    <th scope="row">Мэргэшсэн сургалтын коллеж гадаад оюутнууд</th>
+                    <td>17-25 насны 12 жилийн сургуулийн боловсрол эзэмшсэн хүмүүс эсвэл Японы ахлах сургуульд тохирсон сургуулийн курс төгссөн хүмүүс (түүний дунд ирээдүйн оюутнууд)</td>
                     </tr>
                 </tbody>
             </table>

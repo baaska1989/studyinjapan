@@ -56,22 +56,22 @@
                 <li>{{$t("plan.knowSchools.technologyColleges.l17")}}</li>
                 <li>{{$t("plan.knowSchools.technologyColleges.l18")}}</li>
             </ol>
-            <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+            <p>
                 {{$t("plan.knowSchools.technologyColleges.o1")}} 
-            </font></font><span style="font-size: 16px;"><a href="https://www.kosen-k.go.jp/exam/admissions/hennyugaku.html" target="_blank" rel="noopener noreferrer"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+            <span style="font-size: 16px;"><a href="https://www.kosen-k.go.jp/exam/admissions/hennyugaku.html" target="_blank" rel="noopener noreferrer">
                 {{$t("plan.knowSchools.technologyColleges.o2")}} 
-            </font></font><img src="/ja/assets/images/icon/blank.svg" width="14" height="14" alt="шинэ цонхонд нээх" class="u_icon u_icon_add_blank"></a></span><font style="vertical-align: inherit;"><span style="font-size: 14px;"><span style="font-size: 16px;"><font style="vertical-align: inherit;">
+            <img src="/ja/assets/images/icon/blank.svg" width="14" height="14" alt="шинэ цонхонд нээх" class="u_icon u_icon_add_blank"></a></span><span style="font-size: 14px;"><span style="font-size: 16px;">
                 {{$t("plan.knowSchools.technologyColleges.o3")}} 
-            </font></span></span></font><span style="font-size: 14px;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> *1 . </font></font><span style="font-size: 16px;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+            </span></span><span style="font-size: 14px;"> *1 . <span style="font-size: 16px;">
                 {{$t("plan.knowSchools.technologyColleges.o4")}} 
-            </font></font></span></span></p>
-            <p><span style="font-size: 14px;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">*1 </font></font></span><span style="font-size: 14px;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+            </span></span></p>
+            <p><span style="font-size: 14px;">*1 </span><span style="font-size: 14px;">
                 {{$t("plan.knowSchools.technologyColleges.o5")}} 
-            </font></font></span><span style="font-size: 14px;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+            </span><span style="font-size: 14px;">
                 {{$t("plan.knowSchools.technologyColleges.o6")}} 
-            </font><font style="vertical-align: inherit;">
+            
                 {{$t("plan.knowSchools.technologyColleges.o7")}} 
-            </font></font></span></p>
+            </span></p>
             <h3>{{$t("plan.knowSchools.technologyColleges.h8")}} </h3>
             <p>{{$t("plan.knowSchools.technologyColleges.p8")}}</p>
             <ol>
