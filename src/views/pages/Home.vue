@@ -1,8 +1,5 @@
 <template>
   <main class="l_container_main_body">
-
-    <Slider />
-
     <section class="p_top_menu">
       <h2 class="p_top_heading p_top_heading_menu"><span>{{ $t("homePage.title1") }}</span></h2>
       <div class="p_top_menu_list">
@@ -25,12 +22,8 @@
 </template>
 
 <script>
-
-  import Slider from "@/components/Slider.vue";
-
   export default {
     name: "Home",
-    components: {Slider},
     data()
     {
       return {

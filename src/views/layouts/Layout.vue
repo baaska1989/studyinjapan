@@ -1,19 +1,22 @@
 <template>
   <div id="wrapper" class="l_wrapper p_top">
-    <header class="l_header u_hide_pc">
-      <div class="l_header_logo">
-        <router-link to="/">
-          <picture>
-            <img src="../../assets/images/common/logo_header.png" alt="Study in Japan">
-          </picture>
-        </router-link>
-      </div>
-      <input type="checkbox" id="nav__checkbox" class="nav__checkbox">
-      <label for="nav__checkbox" class="nav__toggle" @click="showMenu()">
-        <img src="https://img.icons8.com/material-outlined/30/000000/menu--v1.png" class="hamburger"  />
-        <img src="https://img.icons8.com/plumpy/30/000000/x.png" class="close" />
-      </label>
-    </header>
+    <nav class="navbar">
+      <header class="l_header u_hide_pc">
+        <div class="l_header_logo">
+          <router-link to="/">
+            <picture>
+              <img src="../../assets/images/common/logo_header.png" alt="Study in Japan">
+            </picture>
+          </router-link>
+        </div>
+        <input type="checkbox" id="nav__checkbox" class="nav__checkbox">
+        <label for="nav__checkbox" class="nav__toggle" @click="showMenu()">
+          <img src="https://img.icons8.com/material-outlined/30/000000/menu--v1.png" class="hamburger"  />
+          <img src="https://img.icons8.com/plumpy/30/000000/x.png" class="close" />
+        </label>
+      </header>
+    </nav>
+    <Slider />
     <div class="l_container">
       <div class="l_container_inner" >
         <div class="l_container_aside js_drower_nav" :class="this.showMobileMenu ? 'is-open nav-display' : ''">
@@ -35,10 +38,11 @@ import Header from "@/components/Header.vue";
 import Footer from "@/components/Footer.vue";
 import Sidebar from "@/components/Sidebar.vue";
 import Search from "@/components/Search.vue";
+import Slider from "@/components/Slider.vue";
 
 export default {
   name: "Layout",
-  components: {Search, Sidebar, Footer, Header},
+  components: {Slider, Search, Sidebar, Footer, Header},
   data()
   {
     return {
