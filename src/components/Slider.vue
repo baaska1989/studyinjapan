@@ -3,15 +3,15 @@
     <Search />
     <VueSlickCarousel :arrows="true" :dots="false" :autoplay="true" :autoplaySpeed="8000">
 
-      <span class="p_top_mainvisual_slider_item"><img src="_mt/2020/05/kv_02.jpg" alt=""></span>
+      <span class="p_top_mainvisual_slider_item"><img src="@/assets/_mt/2020/05/kv_02.jpg" alt=""></span>
 
-      <span class="p_top_mainvisual_slider_item"><img src="_mt/2020/05/kv_03.jpg" alt=""></span>
+      <span class="p_top_mainvisual_slider_item"><img src="@/assets/_mt/2020/05/kv_03.jpg" alt=""></span>
 
-      <span class="p_top_mainvisual_slider_item"><img src="_mt/2020/05/kv_04.jpg" alt=""></span>
+      <span class="p_top_mainvisual_slider_item"><img src="@/assets/_mt/2020/05/kv_04.jpg" alt=""></span>
 
-      <span class="p_top_mainvisual_slider_item"><img src="_mt/2020/05/kv_05.jpg" alt=""></span>
+      <span class="p_top_mainvisual_slider_item"><img src="@/assets/_mt/2020/05/kv_05.jpg" alt=""></span>
 
-      <span class="p_top_mainvisual_slider_item"><img src="_mt/2020/05/kv_01.jpg" alt=""></span>
+      <span class="p_top_mainvisual_slider_item"><img src="@/assets/_mt/2020/05/kv_01.jpg" alt=""></span>
 
     </VueSlickCarousel>
 

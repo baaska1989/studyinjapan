@@ -44,64 +44,64 @@
                 <table width="300" height="376" style="height: 376px;">
                     <tbody>
                     <tr style="background-color: #636363;">
-                    <td style="width: 236.31px; text-align: center;"><span style="font-size: 16px;"><strong><span style="color: #ffffff;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">бүс нутаг</font></font></span></strong></span></td>
-                    <td style="width: 236.69px; text-align: center;"><span style="font-size: 16px;"><strong><span style="color: #ffffff;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Орон сууцны дундаж зардал (йен)</font></font></span></strong></span></td>
+                    <td style="width: 236.31px; text-align: center;"><span style="font-size: 16px;"><strong><span style="color: #ffffff;">бүс нутаг</span></strong></span></td>
+                    <td style="width: 236.69px; text-align: center;"><span style="font-size: 16px;"><strong><span style="color: #ffffff;">Орон сууцны дундаж зардал (йен)</span></strong></span></td>
                     </tr>
                     <tr>
-                    <td style="width: 236.31px; text-align: center;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">улсын дундаж</font></font></td>
-                    <td style="width: 236.69px; text-align: center;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">38,000</font></font></td>
+                    <td style="width: 236.31px; text-align: center;">улсын дундаж</td>
+                    <td style="width: 236.69px; text-align: center;">38,000</td>
                     </tr>
                     <tr>
-                    <td style="width: 236.31px; text-align: center;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Токио</font></font></td>
-                    <td style="width: 236.69px; text-align: center;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">50,000</font></font></td>
+                    <td style="width: 236.31px; text-align: center;">Токио</td>
+                    <td style="width: 236.69px; text-align: center;">50,000</td>
                     </tr>
                     <tr>
-                    <td style="width: 236.31px; text-align: center;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Хоккайдо</font></font></td>
-                    <td style="width: 236.69px; text-align: center;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">30,000</font></font></td>
+                    <td style="width: 236.31px; text-align: center;">Хоккайдо</td>
+                    <td style="width: 236.69px; text-align: center;">30,000</td>
                     </tr>
                     <tr>
-                    <td style="width: 236.31px; text-align: center;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Тохоку</font></font></td>
-                    <td style="width: 236.69px; text-align: center;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">34,000</font></font></td>
+                    <td style="width: 236.31px; text-align: center;">Тохоку</td>
+                    <td style="width: 236.69px; text-align: center;">34,000</td>
                     </tr>
                     <tr>
-                    <td style="width: 236.31px; text-align: center;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Канто</font></font></td>
-                    <td style="width: 236.69px; text-align: center;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">44,000</font></font></td>
+                    <td style="width: 236.31px; text-align: center;">Канто</td>
+                    <td style="width: 236.69px; text-align: center;">44,000</td>
                     </tr>
                     <tr>
-                    <td style="width: 236.31px; text-align: center;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Чубу</font></font></td>
-                    <td style="width: 236.69px; text-align: center;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">29,000</font></font></td>
+                    <td style="width: 236.31px; text-align: center;">Чубу</td>
+                    <td style="width: 236.69px; text-align: center;">29,000</td>
                     </tr>
                     <tr>
-                    <td style="width: 236.31px; text-align: center;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Кинки</font></font></td>
-                    <td style="width: 236.69px; text-align: center;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">37,000</font></font></td>
+                    <td style="width: 236.31px; text-align: center;">Кинки</td>
+                    <td style="width: 236.69px; text-align: center;">37,000</td>
                     </tr>
                     <tr>
-                    <td style="width: 236.31px; text-align: center;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Хятад</font></font></td>
-                    <td style="width: 236.69px; text-align: center;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">27,000</font></font></td>
+                    <td style="width: 236.31px; text-align: center;">Хятад</td>
+                    <td style="width: 236.69px; text-align: center;">27,000</td>
                     </tr>
                     <tr>
-                    <td style="width: 236.31px; text-align: center;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Шикоку</font></font></td>
-                    <td style="width: 236.69px; text-align: center;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">24,000</font></font></td>
+                    <td style="width: 236.31px; text-align: center;">Шикоку</td>
+                    <td style="width: 236.69px; text-align: center;">24,000</td>
                     </tr>
                     <tr>
-                    <td style="width: 236.31px; text-align: center;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Кюүшю</font></font></td>
-                    <td style="width: 236.69px; text-align: center;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">26,000</font></font></td>
+                    <td style="width: 236.31px; text-align: center;">Кюүшю</td>
+                    <td style="width: 236.69px; text-align: center;">26,000</td>
                     </tr>
                     <tr>
-                    <td style="width: 236.31px;" colspan="2"><span style="font-size: 12px;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Эх сурвалж: 2021 оны Хувийн санхүүжилттэй олон улсын оюутнуудын амьдрах нөхцлийн судалгаа (JASSO)</font></font></span></td>
+                    <td style="width: 236.31px;" colspan="2"><span style="font-size: 12px;">Эх сурвалж: 2021 оны Хувийн санхүүжилттэй олон улсын оюутнуудын амьдрах нөхцлийн судалгаа (JASSO)</span></td>
                     </tr>
                     </tbody>
                 </table>
-                <div style="display: inline-block; background: #000080; padding: 5px 10px; color: #ffffff;"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Нэг цэгийн зөвлөгөө</font></font></strong></div>
-                <div style="padding: 10px; border: 2px solid #000080;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Тооцоолсон байрны зардал (сард) </font></font><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Оюутны дотуур байр: Дотуур байрны төлбөр 28,000 иен (JASSO Токиогийн Япон хэлний боловсролын төвийн хувьд) </font></font><br><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Орон сууц</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> : Өртөөний нэр хүнд, буудлаас хол зай, барилгын нас зэргээс шалтгаалж ихээхэн ялгаатай. </font><font style="vertical-align: inherit;">Хөдөө орон нутагт 30,000-40,000 иенийн үнэтэй орон сууц олддог ч Токиод байр хайж байхдаа 60,000 иен дотор байр хайж олох нь чухал байдаг. </font></font><br><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Хог хаягдал</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> : Японд хог хаях хатуу дүрэм журам байдаг. </font><font style="vertical-align: inherit;">Хогоо ялгаж, заасан газар, цагт нь хая.</font></font></div>
+                <div style="display: inline-block; background: #000080; padding: 5px 10px; color: #ffffff;"><strong>Нэг цэгийн зөвлөгөө</strong></div>
+                <div style="padding: 10px; border: 2px solid #000080;">Тооцоолсон байрны зардал (сард) <br>Оюутны дотуур байр: Дотуур байрны төлбөр 28,000 иен (JASSO Токиогийн Япон хэлний боловсролын төвийн хувьд) <br><strong>Орон сууц</strong> : Өртөөний нэр хүнд, буудлаас хол зай, барилгын нас зэргээс шалтгаалж ихээхэн ялгаатай. Хөдөө орон нутагт 30,000-40,000 иенийн үнэтэй орон сууц олддог ч Токиод байр хайж байхдаа 60,000 иен дотор байр хайж олох нь чухал байдаг. <br><strong>Хог хаягдал</strong> : Японд хог хаях хатуу дүрэм журам байдаг. Хогоо ялгаж, заасан газар, цагт нь хая.</div>
                 <h3>хамтарсан батлан даагч</h3>
                 <p>Японд орон сууц түрээслэхдээ ерөнхийдөө "хамтарсан болон хэд хэдэн батлан даагч" шаардлагатай байдаг. Тогтоосон хугацаандаа түрээсийн төлбөрөө төлөөгүй, өрөөн доторх тоног төхөөрөмжийг гэмтээсэн ч засварын төлбөрөө төлөөгүй тохиолдолд түрээслэгч нь "хамтарсан болон хэд хэдэн батлан даагч"-аас төлбөр нэхэмжлэх болно.
                     Японд танил тал багатай гадаад оюутнуудын хувьд сургуулийн удирдлагууд (байгууллага, багш нар гэх мэт) хамтран батлан даагчаар ажилладаг тогтолцоотой. Мөн "Батлан даалтын хураамж" төлөх гэрээ байгуулснаар "хамтарсан болон хэд хэдэн батлан даагч" шаардахгүй.</p>
                 <h3>* Олон улсын оюутны орон сууцны иж бүрэн нөхөн олговор (оршин суух нөхөн олговор)</h3>
                 <p>Энэхүү даатгал нь гал түймрийн аюул гэх мэт тохиолдлуудад учирсан хохирлын хариуцлагыг бууруулж, хамтарсан батлан даагчийн ачааллыг бууруулдаг. Энэхүү даатгал нь Японы боловсролын солилцоо, үйлчилгээний нийгэмлэгийн тогтолцоо юм. <br>
                     *Зарим сургуулиуд энэ үйлчилгээг ашиглах боломжгүй байгаа тул сургуулиасаа лавлана уу.</p>
-                <div style="height: 12px;"><span style="margin-left: 8px; padding: 6px 10px; background: #ff9933; color: #ffffff; font-weight: bold; border-radius: 5px; -webkit-border-radius: 5px; -moz-border-radius: 5px;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Өрөө хайх цэгүүд</font></font></span></div>
-                <div style="border: 2px solid #ff9933; padding: 25px 12px 10px; font-size: 0.85em; border-radius: 5px; -webkit-border-radius: 5px; -moz-border-radius: 5px;"><span style="font-size: 16px;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">1. </font><font style="vertical-align: inherit;">Түрээс, анхны зардал </font></font></span><br><span style="font-size: 16px;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2. </font></font></span><br><span style="font-size: 16px;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">3. </font></font></span><font style="vertical-align: inherit;"><span style="font-size: 16px;"><font style="vertical-align: inherit;">Сургуулиас хол, ажилдаа явах цаг </font></span><span style="font-size: 16px;"><font style="vertical-align: inherit;">Өрөөний хэмжээ, тоног төхөөрөмж </font></span></font><br><span style="font-size: 16px;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">4. </font><font style="vertical-align: inherit;">Ойролцоох орчны тав тухтай байдал (вокзалтай ойрхон, худалдаа хийхэд хялбар гэх мэт)</font></font></span></div>
+                <div style="height: 12px;"><span style="margin-left: 8px; padding: 6px 10px; background: #ff9933; color: #ffffff; font-weight: bold; border-radius: 5px; -webkit-border-radius: 5px; -moz-border-radius: 5px;">Өрөө хайх цэгүүд</span></div>
+                <div style="border: 2px solid #ff9933; padding: 25px 12px 10px; font-size: 0.85em; border-radius: 5px; -webkit-border-radius: 5px; -moz-border-radius: 5px;"><span style="font-size: 16px;">1. Түрээс, анхны зардал </span><br><span style="font-size: 16px;">2. </span><br><span style="font-size: 16px;">3. </span><span style="font-size: 16px;">Сургуулиас хол, ажилдаа явах цаг </span><span style="font-size: 16px;">Өрөөний хэмжээ, тоног төхөөрөмж </span><br><span style="font-size: 16px;">4. Ойролцоох орчны тав тухтай байдал (вокзалтай ойрхон, худалдаа хийхэд хялбар гэх мэт)</span></div>
             </div>
         </div>    
     </div>

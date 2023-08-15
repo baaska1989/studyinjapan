@@ -23,8 +23,8 @@
           <li>Боловсрол, соёл, спорт, шинжлэх ухаан, технологийн сайдын тогтоосон шалгуурыг хангасан бүрэн дунд сургуулийн мэргэжлийн дамжаа төгссөн </li>
         </ul>
         <p>Шилжилтийн элсэлтийн системийн талаар мэдээлэл бага байгаа тул аль болох хурдан сонгосон сургуультайгаа шууд холбогдоно уу.</p>
-        <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">＞</font></font><a href="/ja/_mt/2021/09/transfer_system_j2020.pdf" target="_blank"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Дамжуулах систем бүхий их сургуулийн өгөгдөл</font></font><img src="/ja/assets/images/icon/pdf.svg" width="16" height="16" alt="pdf файлыг нээх" class="u_icon u_icon_add_pdf"></a></p>
-        <p><a href="https://www.studyinjapan.go.jp/en/search-school/school_search.php?lang=ja" target="_blank" rel="noopener noreferrer"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">＞Шилжилтийн системтэй их сургуулиудыг хайж олох</font></font><img src="/ja/assets/images/icon/blank.svg" width="14" height="14" alt="шинэ цонхонд нээх" class="u_icon u_icon_add_blank"></a></p>
+        <p>＞<a href="/ja/_mt/2021/09/transfer_system_j2020.pdf" target="_blank">Дамжуулах систем бүхий их сургуулийн өгөгдөл<img src="/ja/assets/images/icon/pdf.svg" width="16" height="16" alt="pdf файлыг нээх" class="u_icon u_icon_add_pdf"></a></p>
+        <p><a href="https://www.studyinjapan.go.jp/en/search-school/school_search.php?lang=ja" target="_blank" rel="noopener noreferrer">＞Шилжилтийн системтэй их сургуулиудыг хайж олох<img src="/ja/assets/images/icon/blank.svg" width="14" height="14" alt="шинэ цонхонд нээх" class="u_icon u_icon_add_blank"></a></p>
     </div>
 
   </main>

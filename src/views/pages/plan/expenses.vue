@@ -17,32 +17,32 @@
                 <tbody>
                 <tr style="height: 223.19px;">
                 <td style="width: 357px; height: 223.19px;">
-                <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">[ </font></font><strong><span style="color: #993300;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Японд ирэхээс</font></font></span></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> өмнө шаардагдах зардал ]</font></font></p>
+                <p>[ <strong><span style="color: #993300;">Японд ирэхээс</span></strong> өмнө шаардагдах зардал ]</p>
                 <ul>
-                <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Төрөл бүрийн шалгалтын хураамж (EJU/JLPT/TOEFL гэх мэт)</font></font></li>
-                <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Таны сонгосон сургуулийн элсэлтийн шалгалтын хураамж</font></font></li>
-                <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Эмнэлгийн үзлэгийн төлбөр (шаардлагатай бол)</font></font></li>
-                <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Өргөдлийн бичиг баримтыг шуудангаар илгээх</font></font></li>
-                <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Агаарын тасалбар</font></font></li>
-                <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Паспортын өргөдлийн хураамж (шаардлагатай бол)</font></font></li>
-                <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">визний хураамж</font></font></li>
-                <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Элсэлтийн төлбөр, сургалтын төлбөр гэх мэт.</font></font></li>
-                <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Дотуур байрны төлбөр (шаардлагатай бол)</font></font></li>
-                <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">бусад</font></font></li>
+                <li>Төрөл бүрийн шалгалтын хураамж (EJU/JLPT/TOEFL гэх мэт)</li>
+                <li>Таны сонгосон сургуулийн элсэлтийн шалгалтын хураамж</li>
+                <li>Эмнэлгийн үзлэгийн төлбөр (шаардлагатай бол)</li>
+                <li>Өргөдлийн бичиг баримтыг шуудангаар илгээх</li>
+                <li>Агаарын тасалбар</li>
+                <li>Паспортын өргөдлийн хураамж (шаардлагатай бол)</li>
+                <li>визний хураамж</li>
+                <li>Элсэлтийн төлбөр, сургалтын төлбөр гэх мэт.</li>
+                <li>Дотуур байрны төлбөр (шаардлагатай бол)</li>
+                <li>бусад</li>
                 </ul>
                 </td>
                 <td style="width: 374px; height: 223.19px;">
-                <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">[ </font></font><span style="color: #993300;"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Японд ирсний</font></font></strong></span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> дараа шаардагдах зардал ]</font></font></p>
+                <p>[ <span style="color: #993300;"><strong>Японд ирсний</strong></span> дараа шаардагдах зардал ]</p>
                 <ul>
-                <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Байрны зардал (зочид буудлын төлбөр гэх мэт)</font></font></li>
-                <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Орон сууцны зардал (түрээсийн анхны зардал, тавилга, гэр ахуйн цахилгаан хэрэгсэл худалдан авах зардал орно)</font></font></li>
-                <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">сургуулийн зардал</font></font></li>
-                <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">хоолны зардал</font></font></li>
-                <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Хэрэглээний зардал</font></font></li>
-                <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Даатгал, эмчилгээний зардал</font></font></li>
-                <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Материалын төлбөр</font></font></li>
-                <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">янз бүрийн зардал</font></font></li>
-                <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">бусад</font></font></li>
+                <li>Байрны зардал (зочид буудлын төлбөр гэх мэт)</li>
+                <li>Орон сууцны зардал (түрээсийн анхны зардал, тавилга, гэр ахуйн цахилгаан хэрэгсэл худалдан авах зардал орно)</li>
+                <li>сургуулийн зардал</li>
+                <li>хоолны зардал</li>
+                <li>Хэрэглээний зардал</li>
+                <li>Даатгал, эмчилгээний зардал</li>
+                <li>Материалын төлбөр</li>
+                <li>янз бүрийн зардал</li>
+                <li>бусад</li>
                 </ul>
                 <p></p>
                 </td>
@@ -61,30 +61,30 @@
                 <tbody>
                 <tr>
                 <td style="width: 115.2px;"></td>
-                <td style="width: 115.2px; text-align: center;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Үндэсний</font></font></td>
-                <td style="width: 115.2px; text-align: center;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">олон нийтийн</font></font></td>
-                <td style="width: 115.2px; text-align: center;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Хувийн </font></font><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">(эмнэлгийн, шүдний болон эм зүйн салбараас бусад)</font></font></td>
-                <td style="width: 115.2px; text-align: center;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Хувийн </font></font><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">(анагаах ухаан, шүдний эмнэлэг, эм зүй)</font></font></td>
+                <td style="width: 115.2px; text-align: center;">Үндэсний</td>
+                <td style="width: 115.2px; text-align: center;">олон нийтийн</td>
+                <td style="width: 115.2px; text-align: center;">Хувийн <br>(эмнэлгийн, шүдний болон эм зүйн салбараас бусад)</td>
+                <td style="width: 115.2px; text-align: center;">Хувийн <br>(анагаах ухаан, шүдний эмнэлэг, эм зүй)</td>
                 </tr>
                 <tr>
-                <td style="width: 115.2px;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">төгсөх ангийн оюутан</font></font></td>
-                <td style="width: 115.2px; text-align: center;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Ойролцоогоор 820,000 иен</font></font></td>
-                <td style="width: 115.2px; text-align: center;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Ойролцоогоор 900,000 иен</font></font></td>
-                <td style="width: 115.2px; text-align: center;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Ойролцоогоор 1,100,000 иен</font></font></td>
-                <td style="width: 115.2px; text-align: center;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Ойролцоогоор 850,000 иен</font></font></td>
+                <td style="width: 115.2px;">төгсөх ангийн оюутан</td>
+                <td style="width: 115.2px; text-align: center;">Ойролцоогоор 820,000 иен</td>
+                <td style="width: 115.2px; text-align: center;">Ойролцоогоор 900,000 иен</td>
+                <td style="width: 115.2px; text-align: center;">Ойролцоогоор 1,100,000 иен</td>
+                <td style="width: 115.2px; text-align: center;">Ойролцоогоор 850,000 иен</td>
                 </tr>
                 <tr>
-                <td style="width: 115.2px;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Их сургууль (факультет)</font></font></td>
-                <td style="width: 115.2px; text-align: center;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Ойролцоогоор 820,000 иен</font></font></td>
-                <td style="width: 115.2px; text-align: center;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Ойролцоогоор 930,000 иен</font></font></td>
-                <td style="width: 115.2px; text-align: center;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Ойролцоогоор 1,100,000 иен</font></font></td>
-                <td style="width: 115.2px; text-align: center;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Ойролцоогоор 3,200,000 иен</font></font></td>
+                <td style="width: 115.2px;">Их сургууль (факультет)</td>
+                <td style="width: 115.2px; text-align: center;">Ойролцоогоор 820,000 иен</td>
+                <td style="width: 115.2px; text-align: center;">Ойролцоогоор 930,000 иен</td>
+                <td style="width: 115.2px; text-align: center;">Ойролцоогоор 1,100,000 иен</td>
+                <td style="width: 115.2px; text-align: center;">Ойролцоогоор 3,200,000 иен</td>
                 </tr>
                 <tr>
-                <td style="width: 115.2px;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ахлах сургууль</font></font></td>
+                <td style="width: 115.2px;">ахлах сургууль</td>
                 <td style="width: 115.2px; text-align: center;"></td>
-                <td style="width: 115.2px; text-align: center;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Ойролцоогоор 600,000 иен</font></font></td>
-                <td style="width: 115.2px; text-align: center;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Ойролцоогоор 960,000 иен</font></font></td>
+                <td style="width: 115.2px; text-align: center;">Ойролцоогоор 600,000 иен</td>
+                <td style="width: 115.2px; text-align: center;">Ойролцоогоор 960,000 иен</td>
                 <td style="width: 115.2px; text-align: center;"></td>
                 </tr>
                 </tbody>
@@ -92,23 +92,23 @@
             <table height="78" style="width: 600px;">
                 <tbody>
                 <tr>
-                <td style="width: 237.15px;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Технологийн коллеж (үндэсний)</font></font></td>
-                <td style="width: 353.84px; text-align: center;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Ойролцоогоор 320,000 иен *1</font></font></td>
+                <td style="width: 237.15px;">Технологийн коллеж (үндэсний)</td>
+                <td style="width: 353.84px; text-align: center;">Ойролцоогоор 320,000 иен *1</td>
                 </tr>
                 <tr>
-                <td style="width: 237.15px;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Мэргэжлийн сургууль</font></font></td>
-                <td style="width: 353.84px; text-align: center;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Ойролцоогоор 900,000 иен</font></font></td>
+                <td style="width: 237.15px;">Мэргэжлийн сургууль</td>
+                <td style="width: 353.84px; text-align: center;">Ойролцоогоор 900,000 иен</td>
                 </tr>
                 <tr>
-                <td style="width: 237.15px;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Япон хэлний байгууллага</font></font></td>
-                <td style="width: 353.84px; text-align: center;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Ойролцоогоор 680,000 иен</font></font></td>
+                <td style="width: 237.15px;">Япон хэлний байгууллага</td>
+                <td style="width: 353.84px; text-align: center;">Ойролцоогоор 680,000 иен</td>
                 </tr>
                 </tbody>
             </table>             
-            <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">*1: Шаардлага хангасан 3-р курсын оюутнуудад ахлах сургуулийн сургалтын төлбөрийг дэмжих санг олгоно.</font></font></p>
-            <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">※ Материалын төлбөр, практик сургалтын төлбөр гэх мэтийг тусад нь шаардаж болно.</font></font></p>
-            <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">&gt;Амьдрах зардлын хувьд </font></font><a href="https://www.studyinjapan.go.jp/ja/life/livingcost-price/" target="_blank" rel="noopener noreferrer"><span style="text-decoration: underline;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">энэ</font></font></span><img src="/ja/assets/images/icon/blank.svg" width="14" height="14" alt="шинэ цонхонд нээх" class="u_icon u_icon_add_blank"></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> хуудсыг шалгана уу .</font></font></p>
-            <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">＞ Хагас цагийн ажлыг </font></font><a href="https://www.studyinjapan.go.jp/ja/job/parttime-works/" target="_blank" rel="noopener noreferrer"><span style="text-decoration: underline;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">энэ</font></font></span><img src="/ja/assets/images/icon/blank.svg" width="14" height="14" alt="шинэ цонхонд нээх" class="u_icon u_icon_add_blank"></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> хуудаснаас шалгана уу .</font></font></p>
+            <p>*1: Шаардлага хангасан 3-р курсын оюутнуудад ахлах сургуулийн сургалтын төлбөрийг дэмжих санг олгоно.</p>
+            <p>※ Материалын төлбөр, практик сургалтын төлбөр гэх мэтийг тусад нь шаардаж болно.</p>
+            <p>&gt;Амьдрах зардлын хувьд <a href="https://www.studyinjapan.go.jp/ja/life/livingcost-price/" target="_blank" rel="noopener noreferrer"><span style="text-decoration: underline;">энэ</span><img src="/ja/assets/images/icon/blank.svg" width="14" height="14" alt="шинэ цонхонд нээх" class="u_icon u_icon_add_blank"></a> хуудсыг шалгана уу .</p>
+            <p>＞ Хагас цагийн ажлыг <a href="https://www.studyinjapan.go.jp/ja/job/parttime-works/" target="_blank" rel="noopener noreferrer"><span style="text-decoration: underline;">энэ</span><img src="/ja/assets/images/icon/blank.svg" width="14" height="14" alt="шинэ цонхонд нээх" class="u_icon u_icon_add_blank"></a> хуудаснаас шалгана уу .</p>
         </div>
     </div>
 

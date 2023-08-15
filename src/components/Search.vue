@@ -1,5 +1,5 @@
 <template>
-  <div class="l_utility l_utility_tools">
+  <div class="l_utility l_utility_tools study-header">
     <div class="l_utility_column">
 
       <div class="l_utility_column_item l_utility_column_item_tools">
@@ -8,11 +8,7 @@
             <input type="submit" name="sa" :value="$t('menu.search')" id="search_btn" class="l_utility_search_submit">
             <input type="hidden" name="cx" value="001053951043051989747:tsw40oj1f_w">
             <input type="hidden" name="ie" value="UTF-8">
-
-            
           </form>
-
-         
 
         <div class="m_fontchange">
           <div class="m_fontchange_title">{{$t("menu.fontsize")}}</div>
@@ -89,6 +85,12 @@ export default {
 .MyClass
 {
   font-size: 19px;
+}
+.study-header {
+  position: absolute !important;
+  width: 100%;
+  z-index: 2;
+  background-color: transparent !important;
 }
 
 

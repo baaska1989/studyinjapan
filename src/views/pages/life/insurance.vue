@@ -37,12 +37,12 @@
                 </ul>
                 <p>Сургуулиас янз бүрийн даатгалын мэдээлэл байдаг тул үүнийг авч үзье.</p>
                 <ul class="m_list m_list_link">
-                    <li><a href="http://www.jees.or.jp/gakkensai/" target="_blank" rel="noopener noreferrer"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Боловсрол, судалгааны чиглэлээр суралцаж буй оюутнуудын хувийн ослын даатгал (Гаккенсай)</font></font><img src="/ja/assets/images/icon/blank.svg" width="14" height="14" alt="шинэ цонхонд нээх" class="u_icon u_icon_add_blank"></a></li>
+                    <li><a href="http://www.jees.or.jp/gakkensai/" target="_blank" rel="noopener noreferrer">Боловсрол, судалгааны чиглэлээр суралцаж буй оюутнуудын хувийн ослын даатгал (Гаккенсай)<img src="/ja/assets/images/icon/blank.svg" width="14" height="14" alt="шинэ цонхонд нээх" class="u_icon u_icon_add_blank"></a></li>
                 </ul>
                 <p>Энэхүү даатгалыг Японы ихэнх сургуулиуд (их дээд сургууль, төгсөлтийн сургууль, бага коллеж, техникийн коллеж) ашигладаг бөгөөд хичээлийн үеэр эсвэл ажилдаа явахдаа учирсан гэмтлийг даатгалд хамруулдаг. Нэмж дурдахад Гаккенсайд элсэн суралцаж буй гадаад оюутнуудын даатгалд хамрагдах "Inbound Futai Gakuso" хэмээх даатгал бий. Эдгээр даатгалыг Японы боловсролын солилцоо, үйлчилгээний холбооноос олгодог. <br>
                     *Зарим сургуулиуд энэ үйлчилгээг ашиглах боломжгүй байгаа тул сургуулиасаа лавлана уу.</p>
                 <ul class="m_list m_list_link">
-                    <li><a href="https://kyosai.univcoop.or.jp/guidance/dm_book/pamph_inter2023/#target/page_no=1" target="_blank" rel="noopener noreferrer"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">"Оюутны иж бүрэн тусламж"</font></font><img src="/ja/assets/images/icon/blank.svg" width="14" height="14" alt="шинэ цонхонд нээх" class="u_icon u_icon_add_blank"></a></li>
+                    <li><a href="https://kyosai.univcoop.or.jp/guidance/dm_book/pamph_inter2023/#target/page_no=1" target="_blank" rel="noopener noreferrer">"Оюутны иж бүрэн тусламж"<img src="/ja/assets/images/icon/blank.svg" width="14" height="14" alt="шинэ цонхонд нээх" class="u_icon u_icon_add_blank"></a></li>
                 </ul>
                 <p>Энэ бол их сургуульд суралцах хугацаандаа элсэх боломжтой их сургуулийн хамтын аюулгүй байдлын систем юм.</p>
             </div>

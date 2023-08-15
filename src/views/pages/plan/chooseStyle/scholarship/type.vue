@@ -20,85 +20,85 @@
                     <thead>
                         <tr>
                         <td class="p_plan_subject_table_blank"></td>
-                        <th scope="col"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">судлаач оюутан</font></font></th>
-                        <th scope="col"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">багш бэлтгэх </font></font><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">оюутан</font></font></th>
-                        <th scope="col"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">бакалаврын оюутан</font></font></th>
-                        <th scope="col"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Япон хэл, </font></font><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">соёлыг гадаадад сурдаг оюутан</font></font></th>
-                        <th scope="col"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">технологийн коллежийн олон улсын </font></font><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">оюутан</font></font></th>
-                        <th scope="col"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Мэргэшсэн сургалтын коллеж </font></font><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">гадаад оюутнууд</font></font></th>
+                        <th scope="col">судлаач оюутан</th>
+                        <th scope="col">багш бэлтгэх <br>оюутан</th>
+                        <th scope="col">бакалаврын оюутан</th>
+                        <th scope="col">Япон хэл, <br>соёлыг гадаадад сурдаг оюутан</th>
+                        <th scope="col">технологийн коллежийн олон улсын <br>оюутан</th>
+                        <th scope="col">Мэргэшсэн сургалтын коллеж <br>гадаад оюутнууд</th>
                         </tr>
                     </thead>
                     <tbody>
                         <tr>
-                        <th scope="row"><a href="/ja/planning/scholarship/application/" style="color: white;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Элчин сайдын яамны зөвлөмж</font></font></a></th>
-                        <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">〇</font></font></td>
-                        <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">〇</font></font></td>
-                        <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">〇</font></font></td>
-                        <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">〇</font></font></td>
-                        <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">〇</font></font></td>
-                        <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">〇</font></font></td>
+                        <th scope="row"><a href="/ja/planning/scholarship/application/" style="color: white;">Элчин сайдын яамны зөвлөмж</a></th>
+                        <td>〇</td>
+                        <td>〇</td>
+                        <td>〇</td>
+                        <td>〇</td>
+                        <td>〇</td>
+                        <td>〇</td>
                         </tr>
                         <tr>
-                        <th scope="row"><a href="/ja/planning/scholarship/application/" style="color: white;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Их сургуулийн зөвлөмж</font></font></a></th>
-                        <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">〇</font></font></td>
-                        <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Χ</font></font></td>
-                        <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Χ</font></font></td>
-                        <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">〇</font></font></td>
-                        <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">〇</font></font></td>
-                        <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Χ</font></font></td>
+                        <th scope="row"><a href="/ja/planning/scholarship/application/" style="color: white;">Их сургуулийн зөвлөмж</a></th>
+                        <td>〇</td>
+                        <td>Χ</td>
+                        <td>Χ</td>
+                        <td>〇</td>
+                        <td>〇</td>
+                        <td>Χ</td>
                         </tr>
                         <tr>
-                        <th scope="row"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">түвшин</font></font></th>
-                        <td colspan="2"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Төгсөлтийн түвшин</font></font></td>
-                        <td colspan="4"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">бакалаврын түвшин</font></font></td>
+                        <th scope="row">түвшин</th>
+                        <td colspan="2">Төгсөлтийн түвшин</td>
+                        <td colspan="4">бакалаврын түвшин</td>
                         </tr>
                         <tr>
-                        <th scope="row"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Мэргэшсэн байдал</font></font></th>
-                        <td colspan="6"><a href="/ja/planning/scholarship/requirements/"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Дэлгэрэнгүйг энд дарж үзнэ үү</font></font></a></td>
+                        <th scope="row">Мэргэшсэн байдал</th>
+                        <td colspan="6"><a href="/ja/planning/scholarship/requirements/">Дэлгэрэнгүйг энд дарж үзнэ үү</a></td>
                         </tr>
                         <tr>
-                        <th scope="row"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Насны хязгаар </font></font><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">(ажил авах үед)</font></font></th>
-                        <td colspan="6"><a href="/ja/planning/scholarship/requirements/"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Дэлгэрэнгүйг энд дарж үзнэ үү</font></font></a></td>
+                        <th scope="row">Насны хязгаар <br>(ажил авах үед)</th>
+                        <td colspan="6"><a href="/ja/planning/scholarship/requirements/">Дэлгэрэнгүйг энд дарж үзнэ үү</a></td>
                         </tr>
                         <tr>
-                        <th scope="row"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Хугацаа</font></font></th>
-                        <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Япон хэлний боловсролыг </font></font><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">оруулаад </font></font><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">1 жил 6 сар ба түүнээс дээш</font></font></td>
-                        <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Япон хэлний боловсролыг </font></font><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">оруулаад </font></font><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">1 жил 6 сарын дотор</font></font></td>
-                        <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Япон хэлний боловсролыг </font></font><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">оруулаад 5 жил </font></font><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">(Анагаах ухаан/Шүдний эмнэлэг/Эмийн сан/малын эмч: </font></font><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">7 жил)</font></font></td>
-                        <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">1 хичээлийн жил</font></font></td>
-                        <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Япон хэлний боловсролыг </font></font><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">оролцуулаад 4 жил </font></font><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">( </font></font><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">худалдааны хөлөг онгоцны чиглэлээр 4 жил 6 сар)</font></font></td>
-                        <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Япон хэлний боловсролыг </font></font><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">оруулаад 3 жил</font></font></td>
+                        <th scope="row">Хугацаа</th>
+                        <td>Япон хэлний боловсролыг <br>оруулаад <br>1 жил 6 сар ба түүнээс дээш</td>
+                        <td>Япон хэлний боловсролыг <br>оруулаад <br>1 жил 6 сарын дотор</td>
+                        <td>Япон хэлний боловсролыг <br>оруулаад 5 жил <br>(Анагаах ухаан/Шүдний эмнэлэг/Эмийн сан/малын эмч: <br>7 жил)</td>
+                        <td>1 хичээлийн жил</td>
+                        <td>Япон хэлний боловсролыг <br>оролцуулаад 4 жил <br>( <br>худалдааны хөлөг онгоцны чиглэлээр 4 жил 6 сар)</td>
+                        <td>Япон хэлний боловсролыг <br>оруулаад 3 жил</td>
                         </tr>
                         <tr>
-                        <th scope="row"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Япон хэлний </font></font><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">бэлтгэл сургалт</font></font></th>
-                        <td colspan="2"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Хагас жил </font></font><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">хангалттай Япон хэлний мэдлэгтэй хүмүүс шууд орох боломжтой</font></font></td>
-                        <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">1-р курс </font></font><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">(Токиогийн гадаад судлалын их сургууль, </font></font><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Осака их сургууль)</font></font></td>
-                        <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">аль нь ч биш</font></font></td>
-                        <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">1-р жил </font></font><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">(Японы оюутны үйлчилгээний </font></font><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">байгууллага Токиогийн япон хэлний </font></font><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">боловсролын төв)</font></font></td>
-                        <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">1-р курс </font></font><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">(Бунка гадаад хэлний коллеж, </font></font><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Японы оюутны үйлчилгээний байгууллага Осакагийн япон хэлний боловсролын төв)</font></font></td>
+                        <th scope="row">Япон хэлний <br>бэлтгэл сургалт</th>
+                        <td colspan="2">Хагас жил <br>хангалттай Япон хэлний мэдлэгтэй хүмүүс шууд орох боломжтой</td>
+                        <td>1-р курс <br>(Токиогийн гадаад судлалын их сургууль, <br>Осака их сургууль)</td>
+                        <td>аль нь ч биш</td>
+                        <td>1-р жил <br>(Японы оюутны үйлчилгээний <br>байгууллага Токиогийн япон хэлний <br>боловсролын төв)</td>
+                        <td>1-р курс <br>(Бунка гадаад хэлний коллеж, <br>Японы оюутны үйлчилгээний байгууллага Осакагийн япон хэлний боловсролын төв)</td>
                         </tr>
                         <tr>
-                        <th scope="row"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Мэргэжлийн боловсрол</font></font></th>
-                        <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Төгсөлтийн сургуульд </font></font><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">мэргэшсэн мэргэжлээр суралцана</font></font></td>
-                        <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Багшийн мэргэжил дээшлүүлэх факультетийн </font></font><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">тусгай сургалт</font></font></td>
-                        <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">бакалаврын боловсрол эзэмших</font></font></td>
-                        <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Япон хэл эсвэл япон хэлний </font></font><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">тусгай сургалт</font></font></td>
-                        <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Техникийн 3-р курст шилжиж </font></font><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">боловсрол эзэмшсэн</font></font></td>
-                        <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Мэргэшсэн сургалтын коллежид мэргэшсэн сургалтанд </font></font><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">хамрагдах</font></font></td>
+                        <th scope="row">Мэргэжлийн боловсрол</th>
+                        <td>Төгсөлтийн сургуульд <br>мэргэшсэн мэргэжлээр суралцана</td>
+                        <td>Багшийн мэргэжил дээшлүүлэх факультетийн <br>тусгай сургалт</td>
+                        <td>бакалаврын боловсрол эзэмших</td>
+                        <td>Япон хэл эсвэл япон хэлний <br>тусгай сургалт</td>
+                        <td>Техникийн 3-р курст шилжиж <br>боловсрол эзэмшсэн</td>
+                        <td>Мэргэшсэн сургалтын коллежид мэргэшсэн сургалтанд <br>хамрагдах</td>
                         </tr>
                         <tr>
-                        <th scope="row"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">тэтгэлэг</font></font></th>
-                        <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Сард 143,000 иенээс </font></font><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">145,000 иен</font></font></td>
-                        <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Сард 143,000 иен</font></font></td>
-                        <td colspan="4"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Сард 117,000 иен</font></font></td>
+                        <th scope="row">тэтгэлэг</th>
+                        <td>Сард 143,000 иенээс <br>145,000 иен</td>
+                        <td>Сард 143,000 иен</td>
+                        <td colspan="4">Сард 117,000 иен</td>
                         </tr>
                         <tr>
-                        <th scope="row"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">сургалтын төлбөр</font></font></th>
-                        <td colspan="6"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Боловсрол, соёл, спорт, шинжлэх ухаан, технологийн яам</font></font></td>
+                        <th scope="row">сургалтын төлбөр</th>
+                        <td colspan="6">Боловсрол, соёл, спорт, шинжлэх ухаан, технологийн яам</td>
                         </tr>
                         <tr>
-                        <th scope="row"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">аялал жуулчлалын зардал</font></font></th>
-                        <td colspan="6"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Хоёр талын аялалын зардал (нисэх тасалбар) өгсөн</font></font></td>
+                        <th scope="row">аялал жуулчлалын зардал</th>
+                        <td colspan="6">Хоёр талын аялалын зардал (нисэх тасалбар) өгсөн</td>
                         </tr>
                     </tbody>
                 </table>
@@ -109,35 +109,35 @@
             <table class="p_plan_subject_table">
                 <tbody>
                 <tr>
-                <th scope="row" class="p_plan_subject_table_blank"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">судлаач оюутан</font></font></th>
-                <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Япон англи хэл</font></font></td>
+                <th scope="row" class="p_plan_subject_table_blank">судлаач оюутан</th>
+                <td>Япон англи хэл</td>
                 </tr>
                 <tr>
-                <th scope="row"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">багш бэлтгэх </font></font><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">оюутан</font></font></th>
-                <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Япон англи хэл</font></font></td>
+                <th scope="row">багш бэлтгэх <br>оюутан</th>
+                <td>Япон англи хэл</td>
                 </tr>
                 <tr>
-                <th scope="row"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">бакалаврын оюутан</font></font></th>
-                <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Япон хэл, Англи хэл, Математик, Шинжлэх ухаан (*Хими, Физик эсвэл зөвхөн Шинжлэх ухааны хувьд биологийн хичээлээс 2 хичээл сонгоно уу)</font></font></td>
+                <th scope="row">бакалаврын оюутан</th>
+                <td>Япон хэл, Англи хэл, Математик, Шинжлэх ухаан (*Хими, Физик эсвэл зөвхөн Шинжлэх ухааны хувьд биологийн хичээлээс 2 хичээл сонгоно уу)</td>
                 </tr>
                 <tr>
-                <th scope="row"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Япон хэл, соёлыг </font></font><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">гадаадад сурдаг оюутан</font></font></th>
-                <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Япон</font></font></td>
+                <th scope="row">Япон хэл, соёлыг <br>гадаадад сурдаг оюутан</th>
+                <td>Япон</td>
                 </tr>
                 <tr>
-                <th scope="row"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">технологийн коллежийн олон улсын </font></font><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">оюутан</font></font></th>
-                <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Япон хэл, англи хэл, математик, физик эсвэл хими</font></font></td>
+                <th scope="row">технологийн коллежийн олон улсын <br>оюутан</th>
+                <td>Япон хэл, англи хэл, математик, физик эсвэл хими</td>
                 </tr>
                 <tr>
-                <th scope="row"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Мэргэшсэн сургалтын коллеж </font></font><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">гадаад оюутнууд</font></font></th>
-                <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Япон хэл, англи хэл, математик</font></font></td>
+                <th scope="row">Мэргэшсэн сургалтын коллеж <br>гадаад оюутнууд</th>
+                <td>Япон хэл, англи хэл, математик</td>
                 </tr>
                 </tbody>
             </table>
         </div>
         <div>
-            <h2><a href="/ja/planning/scholarship/application/examination/index.html"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MEXT тэтгэлэгт олон улсын оюутны шалгалтын шалгалт - Цаасан шалгалтын асуултууд</font></font></a></h2>
-            <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Өмнөх шалгалтын асуултуудыг жишээ болгон нийтэлсэн.</font></font></p>
+            <h2><a href="/ja/planning/scholarship/application/examination/index.html">MEXT тэтгэлэгт олон улсын оюутны шалгалтын шалгалт - Цаасан шалгалтын асуултууд</a></h2>
+            <p>Өмнөх шалгалтын асуултуудыг жишээ болгон нийтэлсэн.</p>
         </div>
     </div>
 
