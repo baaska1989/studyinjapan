@@ -2,7 +2,9 @@
   <main style="padding: 30px;">
     <div id="MainTextCnt">
 
-      <div class="lifeH3"><h3 class="llText">{{ $t("crisis.accident.bicycles.t1") }}</h3></div>
+      <div class="lifeH3">
+        <h3 class="llText">{{ $t("crisis.accident.bicycles.t1") }}</h3>
+      </div>
 
       <div class="w660 cenObj">
         <div class="padT20 marB20">
@@ -15,7 +17,8 @@
               <td><a href="#3">{{ $t("crisis.accident.bicycles.l3") }}</a></td>
               <td>&nbsp;</td>
             </tr>
-            </tbody></table>
+            </tbody>
+          </table>
         </div>
 
         <p>{{ $t("crisis.accident.bicycles.p1") }}</p>
