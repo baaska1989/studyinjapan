@@ -4,6 +4,7 @@ import Layout from '../views/layouts/Layout.vue';
 import Home from "@/views/pages/Home.vue";
 import Contact from "@/views/pages/Contact.vue";
 import PageNotFound from "@/views/pages/404.vue";
+
 Vue.use(Router);
 
 const router = new Router({
