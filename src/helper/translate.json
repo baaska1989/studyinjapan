@@ -1,0 +1,21 @@
+{
+  "mn": {
+    "menu": {
+      "home": "Нүүр",
+      "lang": "Language",
+      "contact": "Холбоо барих"
+    }
+  },
+  "en": {
+    "menu": {
+      "home": "Нүүр",
+      "lang": "Language"
+    }
+  },
+  "jp": {
+    "menu": {
+      "home": "Нүүр",
+      "lang": "Language"
+    }
+  }
+}

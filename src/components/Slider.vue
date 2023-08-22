@@ -1,7 +1,9 @@
 <template>
   <div class="p_top_mainvisual">
     <Search />
-    <VueSlickCarousel :arrows="true" :dots="false" :autoplay="true" :autoplaySpeed="8000">
+    <VueSlickCarousel :arrows="true" :dots="false" :autoplay="true" :autoplaySpeed="6000">
+
+      <span class="p_top_mainvisual_slider_item"><img src="@/assets/_mt/2020/05/japan-header.jpg" alt=""></span>
 
       <span class="p_top_mainvisual_slider_item"><img src="@/assets/_mt/2020/05/kv_02.jpg" alt=""></span>
 

@@ -1,8 +1,16 @@
 <template>
   <div class="l_utility l_utility_tools study-header">
-    <div class="l_utility_column">
+    <div class="l_header_logo">
+      <router-link to="/">
+        <picture>
+          <source media="(max-width: 767px)" srcset="@/assets/images/logo.png">
+          <img src="@/assets/images/logo.png" alt="Study in Japan" style="display: inline; width: 200px">
+        </picture>
+      </router-link>
+    </div>
+    <div class="l_utility_column" style="width: 100%;text-align: right; padding-left: 20px;">
 
-      <div class="l_utility_column_item l_utility_column_item_tools">
+      <div class="l_utility_column_item l_utility_column_item_tools" style="float: right;">
           <form id="cse-search-box" action="https://google.com/cse" target="_blank" class="l_utility_search">
             <input type="text" name="q" size="31" :placeholder="$t('menu.search2')" class="l_utility_search_input">
             <input type="submit" name="sa" :value="$t('menu.search')" id="search_btn" class="l_utility_search_submit">
@@ -10,17 +18,17 @@
             <input type="hidden" name="ie" value="UTF-8">
           </form>
 
-        <div class="m_fontchange">
-          <div class="m_fontchange_title">{{$t("menu.fontsize")}}</div>
-          <div class="m_fontchange_btn">
-            <input type="radio" name="page_font" value="is_font_md" id="page_font_md" class="m_fontchange_btn_input js_font_control is_active" @click="changeSizeNormal()" checked>
-            <label for="page_font_md" class="m_fontchange_btn_label">{{$t("menu.standard")}}</label>
-          </div>
-          <div class="m_fontchange_btn">
-            <input type="radio" name="page_font" value="is_font_lg" id="page_font_lg" class="m_fontchange_btn_input js_font_control" @click="changeSizeBig()">
-            <label for="page_font_lg" class="m_fontchange_btn_label">{{$t("menu.zoom")}}</label>
-          </div>
-        </div>
+<!--        <div class="m_fontchange">-->
+<!--          <div class="m_fontchange_title">{{$t("menu.fontsize")}}</div>-->
+<!--          <div class="m_fontchange_btn">-->
+<!--            <input type="radio" name="page_font" value="is_font_md" id="page_font_md" class="m_fontchange_btn_input js_font_control is_active" @click="changeSizeNormal()" checked>-->
+<!--            <label for="page_font_md" class="m_fontchange_btn_label">{{$t("menu.standard")}}</label>-->
+<!--          </div>-->
+<!--          <div class="m_fontchange_btn">-->
+<!--            <input type="radio" name="page_font" value="is_font_lg" id="page_font_lg" class="m_fontchange_btn_input js_font_control" @click="changeSizeBig()">-->
+<!--            <label for="page_font_lg" class="m_fontchange_btn_label">{{$t("menu.zoom")}}</label>-->
+<!--          </div>-->
+<!--        </div>-->
 
         <div class="m_language" lang="mn">
             <label for="page_language" class="m_language_title">{{ $t("menu.lang") }}</label>
@@ -34,17 +42,16 @@
         </div>
       </div>
 
-      <div class="l_utility_column_item l_utility_column_item_mail">
-        <router-link to="/contact" class="m_btn m_btn_contact">{{$t("menu.contact")}}</router-link>
-      </div>
+<!--      <div class="l_utility_column_item l_utility_column_item_mail">-->
+<!--        <router-link to="/contact" class="m_btn m_btn_contact">{{$t("menu.contact")}}</router-link>-->
+<!--      </div>-->
     </div>
   </div>
 </template>
 <script>
 export default {
   name: "Search",
-  data()
-  {
+  data(){
     return {
       lang: "",
       $i18n: {
@@ -88,6 +95,7 @@ export default {
 }
 .study-header {
   position: absolute !important;
+  display: flex;
   width: 100%;
   z-index: 2;
   background-color: transparent !important;
