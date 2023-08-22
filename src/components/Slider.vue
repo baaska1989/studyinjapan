@@ -2,18 +2,18 @@
   <div class="p_top_mainvisual">
     <Search />
     <VueSlickCarousel :arrows="true" :dots="false" :autoplay="true" :autoplaySpeed="6000">
+    
+        <span class="p_top_mainvisual_slider_item"><img src="@/assets/_mt/slider/bg1.jpg" alt="" ></span>
 
-      <span class="p_top_mainvisual_slider_item"><img src="@/assets/_mt/2020/05/japan-header.jpg" alt=""></span>
+        <span class="p_top_mainvisual_slider_item" ><img src="@/assets/_mt/slider/bg2.jpg"  alt=""></span>
 
-      <span class="p_top_mainvisual_slider_item"><img src="@/assets/_mt/2020/05/kv_02.jpg" alt=""></span>
+        <span class="p_top_mainvisual_slider_item"><img src="@/assets/_mt/slider/bg3.jpg" alt=""></span>
 
-      <span class="p_top_mainvisual_slider_item"><img src="@/assets/_mt/2020/05/kv_03.jpg" alt=""></span>
+        <span class="p_top_mainvisual_slider_item"><img src="@/assets/_mt/slider/bg7.jpg" alt=""></span>
 
-      <span class="p_top_mainvisual_slider_item"><img src="@/assets/_mt/2020/05/kv_04.jpg" alt=""></span>
+        <span class="p_top_mainvisual_slider_item"><img src="@/assets/_mt/slider/bg5.jpg" alt=""></span>
 
-      <span class="p_top_mainvisual_slider_item"><img src="@/assets/_mt/2020/05/kv_05.jpg" alt=""></span>
-
-      <span class="p_top_mainvisual_slider_item"><img src="@/assets/_mt/2020/05/kv_01.jpg" alt=""></span>
+        <span class="p_top_mainvisual_slider_item"><img src="@/assets/_mt/slider/bg6.jpg" alt=""></span>
 
     </VueSlickCarousel>
 
