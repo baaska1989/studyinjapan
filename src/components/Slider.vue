@@ -7,7 +7,7 @@
 
         <span class="p_top_mainvisual_slider_item" ><img src="@/assets/_mt/slider/bg2.jpg"  alt=""></span>
 
-        <span class="p_top_mainvisual_slider_item"><img src="@/assets/_mt/slider/bg3.jpg" alt=""></span>
+        <span class="p_top_mainvisual_slider_item"><img src="@/assets/_mt/slider/bg3.png" alt=""></span>
 
         <span class="p_top_mainvisual_slider_item"><img src="@/assets/_mt/slider/bg7.jpg" alt=""></span>
 
